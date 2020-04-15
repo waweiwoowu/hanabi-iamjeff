@@ -4,9 +4,9 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 <br />
 
-## Conventions
+## General Conventions
 
-* First 3 clues are hat-guessing clues. Get as many cards to play as possible with these 3 clues.
+* Use first 3 clues with hat-guessing clues getting as many cards as possible with these 3 clues.
   * (Exception) Or 4 clues if there are more than 3 cards left in the deck after 3 clues.
   * Tips: While giving a hat-guessing clue, you should always touch cards with high rank (e.g. 4 or 5), since you would probably need those cards in last round.
 * Starting from the 4th clue (or 5th), every clue should be given as a normal play clue.
@@ -14,9 +14,29 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 <br />
 
+## Find Tables
+
+### Standard
+| Touched by         | No color clues | Own color clue | All color clues |
+| ------------------ | -------------- | -------------- | --------------- |
+| No rank clues      | [Null](#null--white--brown--white--null--brown--null) (Dark Null) | [Brown](#white--brown--up-or-down) (Dark Brown) | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow) (Cocoa Rainbow) |
+| Own rank clue      | [White](#white--brown--up-or-down) (Gray) | [No Variant]() (Black) | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow) |
+| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni) (Dark Omni) |
+
+### Special
+* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Extremely Ambiguous]() / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color)
+* [Color Blind]() / [Number Blind]() / [Totally Blind]() / [Color Mute]() / [Number Mute]()
+* [Alternating Clues]()
+* Clue Starved (Currently unavailable)
+* [Up or Down](#white--brown--up-or-down)
+* [Cow & Pig]() / [Duck]()
+* Throw It in a Hole (Currently unavailable)
+
+<br />
+
 ## Clue Interpretation Tables
 
-### No Variant / Clue Starved / Cow & Pig
+### No Variant / Cow & Pig
 
 * Use any table below.
 
