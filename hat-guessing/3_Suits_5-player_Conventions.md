@@ -25,11 +25,11 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Special
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Extremely Ambiguous](#extremely-ambiguous) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color)
-* [Color Blind]() / [Number Blind]() / [Totally Blind]() / [Color Mute](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck) / [Number Mute](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck)
-* [Alternating Clues](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck)
+* [Color Blind]() / [Number Blind]() / [Totally Blind]() / [Color Mute](#clue-interpretation-tables-with-information) / [Number Mute](#clue-interpretation-tables-with-information)
+* [Alternating Clues](#clue-interpretation-tables-with-information)
 * Clue Starved (Currently unavailable)
 * [Up or Down](#white--brown--up-or-down)
-* [Cow & Pig](#no-variant--cow--pig) / [Duck](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck)
+* [Cow & Pig](#no-variant--cow--pig) / [Duck](#clue-interpretation-tables-with-information)
 * Throw It in a Hole (Currently unavailable)
 
 <br />
