@@ -62,7 +62,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Rainbow / Ambiguous / Dual-Color (4-Player)
+### Rainbow / Ambiguous / Very Ambiguous / Dual-Color (4-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -158,7 +158,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Rainbow / Pink / Ambiguous / Dual-Color (5-Player)
+### Rainbow / Pink / Ambiguous / Very Ambiguous / Dual-Color (5-Player)
 
 | # mod 12 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
