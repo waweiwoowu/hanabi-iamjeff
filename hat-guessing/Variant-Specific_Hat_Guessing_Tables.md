@@ -14,7 +14,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (6)   | give clue | 1 player away  | number clue
 | 1 (7)   | play 1    | 1 player away  | color clue
-| 2 (8)   | play 2    | 2 player away  | number clue
+| 2 (8)   | play 2    | 2 players away | number clue
 | 3 (9)   | play 3    | 2 players away | color clue
 | 4 (10)  | play 4    | 3 players away | number clue
 | 5 (11)  | chop move | 3 players away | color clue
@@ -25,7 +25,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (8)   | give clue | 1 player away  | number clue
 | 1 (9)   | play 1    | 1 player away  | color clue
-| 2 (10)  | play 2    | 2 player away  | number clue
+| 2 (10)  | play 2    | 2 players away | number clue
 | 3 (11)  | play 3    | 2 players away | color clue
 | 4 (12)  | play 4    | 3 players away | number clue
 | 5 (13)  | discard 2 | 3 players away | color clue
@@ -74,7 +74,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | ---------------- | -------------- | -------------
 | 0 (7)   | give clue        | 1 player away  | number clue on newest card
 | 1 (8)   | play 1           | 1 player away  | color clue on newest card
-| 2 (9)   | play 2           | 2 player away  | number clue on newest card
+| 2 (9)   | play 2           | 2 players away | number clue on newest card
 | 3 (10)  | play 3           | 2 players away | color clue on newest card
 | 4 (11)  | play 4           | 3 players away | number clue on newest card
 | 5 (12)  | double chop move | 3 players away | color clue on newest card
@@ -86,7 +86,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (9)   | give clue | 1 player away  | number clue on newest card
 | 1 (10)  | play 1    | 1 player away  | color clue on newest card
-| 2 (11)  | play 2    | 2 player away  | number clue on newest card
+| 2 (11)  | play 2    | 2 players away | number clue on newest card
 | 3 (12)  | play 3    | 2 players away | color clue on newest card
 | 4 (13)  | play 4    | 3 players away | number clue on newest card
 | 5 (14)  | discard 1 | 3 players away | color clue on newest card
@@ -100,7 +100,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (9)   | give clue | 1 player away  | number clue not touching the newest card
 | 1 (10)  | play 1    | 1 player away  | color clue not touching the newest card
-| 2 (11)  | play 2    | 2 player away  | number clue not touching the newest card
+| 2 (11)  | play 2    | 2 players away | number clue not touching the newest card
 | 3 (12)  | play 3    | 2 players away | color clue not touching the newest card
 | 4 (13)  | play 4    | 3 players away | number clue not touching the newest card
 | 5 (14)  | discard 1 | 3 players away | color clue not touching the newest card
@@ -114,7 +114,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (9)   | give clue | 1 player away  | number clue not touching the newest card
 | 1 (10)  | play 1    | 1 player away  | color clue on newest card
-| 2 (11)  | play 2    | 2 player away  | number clue not touching the newest card
+| 2 (11)  | play 2    | 2 players away | number clue not touching the newest card
 | 3 (12)  | play 3    | 2 players away | color clue on newest card
 | 4 (13)  | play 4    | 3 players away | number clue not touching the newest card
 | 5 (14)  | discard 1 | 3 players away | color clue on newest card
@@ -128,7 +128,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (9)   | give clue | 1 player away  | number clue on newest card
 | 1 (10)  | play 1    | 1 player away  | color clue not touching the newest card
-| 2 (11)  | play 2    | 2 player away  | number clue on newest card
+| 2 (11)  | play 2    | 2 players away | number clue on newest card
 | 3 (12)  | play 3    | 2 players away | color clue not touching the newest card
 | 4 (13)  | play 4    | 3 players away | number clue on newest card
 | 5 (14)  | discard 1 | 3 players away | color clue not touching the newest card
@@ -142,7 +142,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (9)   | give clue | 1 player away  | number clue on newest card
 | 1 (10)  | play 1    | 1 player away  | number clue not touching the newest card
-| 2 (11)  | play 2    | 2 player away  | color clue
+| 2 (11)  | play 2    | 2 players away | color clue
 | 3 (12)  | play 3    | 2 players away | number clue on newest card
 | 4 (13)  | play 4    | 3 players away | number clue not touching the newest card
 | 5 (14)  | discard 1 | 3 players away | color clue
@@ -156,7 +156,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (6)   | give clue | 1 player away  | any clue on newest card
 | 1 (7)   | play 1    | 1 player away  | any clue not touching the newest card
-| 2 (8)   | play 2    | 2 player away  | any clue on newest card
+| 2 (8)   | play 2    | 2 players away | any clue on newest card
 | 3 (9)   | play 3    | 2 players away | any clue not touching the newest card
 | 4 (10)  | play 4    | 3 players away | any clue on newest card
 | 5 (11)  | chop move | 3 players away | any clue not touching the newest card
@@ -167,7 +167,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (9)   | give clue | 1 player away  | any clue on newest card
 | 1 (10)  | play 1    | 1 player away  | any clue not touching the newest card
-| 2 (11)  | play 2    | 2 player away  | any clue on newest card
+| 2 (11)  | play 2    | 2 players away | any clue on newest card
 | 3 (12)  | play 3    | 2 players away | any clue not touching the newest card
 | 4 (13)  | play 4    | 3 players away | any clue on newest card
 | 5 (14)  | discard 1 | 3 players away | any clue not touching the newest card
