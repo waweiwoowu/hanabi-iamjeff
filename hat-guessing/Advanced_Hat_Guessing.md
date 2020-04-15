@@ -36,3 +36,47 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 ### Discard Rules
 
 * Since _Good Touch Principle_ doesn’t apply to these conventions, players should always discard their right-most card, unless it is chop moved.
+
+<br />
+
+## Clue Interpretation Tables
+
+### No Variant (4-Player)
+
+| # mod 12 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (12)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (13)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (14)   | play a card from slot 2          | 1 player away  | number clue not touching the newest card
+| 3 (15)   | play a card from slot 3          | 1 player away  | color clue not touching the newest card
+| 4 (16)   | play a card from slot 4          | 2 players away | number on newest card
+| 5 (17)   | play a one-away card from slot 1 | 2 players away | color on newest card
+| 6 (18)   | play a one-away card from slot 2 | 2 players away | number clue not touching the newest card
+| 7 (19)   | play a one-away card from slot 3 | 2 players away | color clue not touching the newest card
+| 8 (20)   | play a one-away card from slot 4 | 3 players away | number on newest card
+| 9 (21)   |                                  | 3 players away | color on newest card
+| 10(22)   |                                  | 3 players away | number clue not touching the newest card
+| 11(23)   | chop move                        | 3 players away | color clue not touching the newest card
+
+### No Variant (5-Player)
+
+| # mod 16 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (16)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (17)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (18)   | play a card from slot 2          | 1 player away  | number clue not touching the newest card
+| 3 (19)   | play a card from slot 3          | 1 player away  | color clue not touching the newest card
+| 4 (20)   | play a card from slot 4          | 2 players away | number on newest card
+| 5 (21)   |                                  | 2 players away | color on newest card
+| 6 (22)   |                                  | 2 players away | number clue not touching the newest card
+| 7 (23)   |                                  | 2 players away | color clue not touching the newest card
+| 8 (24)   |                                  | 3 players away | number on newest card
+| 9 (25)   | play a one-away card from slot 1 | 3 players away | color on newest card
+| 10(26)   | play a one-away card from slot 2 | 3 players away | number clue not touching the newest card
+| 11(27)   | play a one-away card from slot 3 | 3 players away | color clue not touching the newest card
+| 12(28)   | play a one-away card from slot 4 | 4 players away | number on newest card
+| 13(29)   |                                  | 4 players away | color on newest card
+| 14(30)   |                                  | 4 players away | number clue not touching the newest card
+| 15(31)   | chop move                        | 4 players away | color clue not touching the newest card
+
+<br />
