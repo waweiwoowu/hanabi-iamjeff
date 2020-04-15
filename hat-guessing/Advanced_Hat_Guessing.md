@@ -43,7 +43,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 * You can play a No Variant game with variant-specific tables.
 
-### No Variant (4-Player)
+### No Variant / Clue Starved / Cow & Pig (4-Player)
 
 | # mod 12 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -127,7 +127,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 * 3 Suits 5-player Conventions: [see here](https://github.com/Zamiell/hanabi-conventions/issues/168).
 * You can play a No Variant game with variant-specific tables.
 
-### No Variant (5-Player)
+### No Variant / Clue Starved / Cow & Pig (5-Player)
 
 | # mod 16 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
