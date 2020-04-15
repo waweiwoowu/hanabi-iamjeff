@@ -12,7 +12,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 ### Color Blind / Number Blind / Totally Blind
 * Use [Empty Clue Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Empty_Clues.md).
 
-### Rainbow / Pink / Ambiguous / Dual-Color (4-Player and 5-player)
+### Rainbow / Pink / Ambiguous / Very Ambiguous / Dual-Color (4-Player and 5-player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -143,6 +143,20 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (15)  | discard 2 | 4 players away | number clue on newest card
 | 7 (16)  | discard 3 | 4 players away | color clue not touching the newest card
 | 8 (17)  | discard 4 | any player     | number clue not touching the newest card<br />color clue on newest card
+
+### Extremely Ambiguous (4-Player or 5-player)
+
+| # mod 9 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (9)   | give clue | 1 player away  | number clue on newest card
+| 1 (10)  | play 1    | 1 player away  | number clue not touching the newest card
+| 2 (11)  | play 2    | 2 player away  | color clue
+| 3 (12)  | play 3    | 2 players away | number clue on newest card
+| 4 (13)  | play 4    | 3 players away | number clue not touching the newest card
+| 5 (14)  | discard 1 | 3 players away | color clue
+| 6 (15)  | discard 2 | 4 players away | number clue on newest card
+| 7 (16)  | discard 3 | 4 players away | number clue not touching the newest card
+| 8 (17)  | discard 4 | any player     | color clue
 
 ### Color Mute / Number Mute / Alternating Clues / Duck (4-Player)
 
