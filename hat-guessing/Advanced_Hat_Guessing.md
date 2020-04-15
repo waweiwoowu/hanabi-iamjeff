@@ -39,7 +39,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-## Clue Interpretation Tables
+## Clue Interpretation Tables (4-player)
 
 ### No Variant (4-Player)
 
@@ -57,6 +57,70 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 9 (21)   | triple chop move                 | 3 players away | color on newest card
 | 10(22)   | double chop move                 | 3 players away | number clue not touching the newest card
 | 11(23)   | chop move                        | 3 players away | color clue not touching the newest card
+
+### Rainbow / Rainbow-Ones / Rainbow-Fives / Ambiguous / Dual-Color (4-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (12)   | play a card from slot 2          | 1 player away  | number clue not touching the newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | number on newest card
+| 4 (14)   | play a card from slot 4          | 2 players away | color on newest card
+| 5 (15)   | play a one-away card from slot 1 | 2 players away | number clue not touching the newest card
+| 6 (16)   | play a one-away card from slot 2 | 3 players away | number on newest card
+| 7 (17)   | play a one-away card from slot 3 | 3 players away | color on newest card
+| 8 (18)   | play a one-away card from slot 4 | 3 players away | number clue not touching the newest card
+| 9 (19)   | chop move                        | any player     | color clue not touching the newest card
+
+### Pink / Pink-Ones / Pink-Fives (4-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (12)   | play a card from slot 2          | 1 player away  | color clue not touching the newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | number on newest card
+| 4 (14)   | play a card from slot 4          | 2 players away | color on newest card
+| 5 (15)   | play a one-away card from slot 1 | 2 players away | color clue not touching the newest card
+| 6 (16)   | play a one-away card from slot 2 | 3 players away | number on newest card
+| 7 (17)   | play a one-away card from slot 3 | 3 players away | color on newest card
+| 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
+| 9 (19)   | chop move                        | any player     | number clue not touching the newest card
+
+### White / White-Ones / White-Fives (4-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | number clue not touching the newest card
+| 2 (12)   | play a card from slot 2          | 1 player away  | color clue not touching the newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | number on newest card
+| 4 (14)   | play a card from slot 4          | 2 players away | number clue not touching the newest card
+| 5 (15)   | play a one-away card from slot 1 | 2 players away | color clue not touching the newest card
+| 6 (16)   | play a one-away card from slot 2 | 3 players away | number on newest card
+| 7 (17)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
+| 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
+| 9 (19)   | chop move                        | any player     | color clue on newest card
+
+### Brown / Brown-Ones / Brown-Fives / Up or Down (4-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | color on newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | number clue not touching the newest card
+| 2 (12)   | play a card from slot 2          | 1 player away  | color clue not touching the newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | color on newest card
+| 4 (14)   | play a card from slot 4          | 2 players away | number clue not touching the newest card
+| 5 (15)   | play a one-away card from slot 1 | 2 players away | color clue not touching the newest card
+| 6 (16)   | play a one-away card from slot 2 | 3 players away | color on newest card
+| 7 (17)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
+| 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
+| 9 (19)   | chop move                        | any player     | number clue on newest card
+
+<br />
+
+## Clue Interpretation Tables (5-player)
 
 ### No Variant (5-Player)
 
@@ -79,22 +143,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 14(30)   | double chop move                 | 4 players away | number clue not touching the newest card
 | 15(31)   | chop move                        | 4 players away | color clue not touching the newest card
 
-### Rainbow / Rainbow-Ones / Rainbow-Fives / Ambiguous / Dual-Color (4-Player)
-
-| # mod 10 | action                           | person clued   | type of clue
-| -------- | -------------------------------- | -------------- | -------------
-| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
-| 1 (11)   | play a card from slot 1          | 1 player away  | color on newest card
-| 2 (12)   | play a card from slot 2          | 1 player away  | number clue not touching the newest card
-| 3 (13)   | play a card from slot 3          | 2 players away | number on newest card
-| 4 (14)   | play a card from slot 4          | 2 players away | color on newest card
-| 5 (15)   | play a one-away card from slot 1 | 2 players away | number clue not touching the newest card
-| 6 (16)   | play a one-away card from slot 2 | 3 players away | number on newest card
-| 7 (17)   | play a one-away card from slot 3 | 3 players away | color on newest card
-| 8 (18)   | play a one-away card from slot 4 | 3 players away | number clue not touching the newest card
-| 9 (19)   | chop move                        | any player     | color clue not touching the newest card
-
-### Rainbow / Rainbow-Ones / Rainbow-Fives / Ambiguous / Dual-Color (5-Player)
+### Rainbow / Rainbow-Ones / Rainbow-Fives / Pink / Pink-Ones / Pink-Fives / Ambiguous / Dual-Color (5-Player)
 
 | # mod 12 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -111,54 +160,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10(22)   | double chop move                 | 4 players away | color on newest card
 | 11(23)   | chop move                        | 4 players away | any clue not touching the newest card
 
-### Pink / Pink-Ones / Pink-Fives (4-Player)
-
-| # mod 10 | action                           | person clued   | type of clue
-| -------- | -------------------------------- | -------------- | -------------
-| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
-| 1 (11)   | play a card from slot 1          | 1 player away  | color on newest card
-| 2 (12)   | play a card from slot 2          | 1 player away  | color clue not touching the newest card
-| 3 (13)   | play a card from slot 3          | 2 players away | number on newest card
-| 4 (14)   | play a card from slot 4          | 2 players away | color on newest card
-| 5 (15)   | play a one-away card from slot 1 | 2 players away | color clue not touching the newest card
-| 6 (16)   | play a one-away card from slot 2 | 3 players away | number on newest card
-| 7 (17)   | play a one-away card from slot 3 | 3 players away | color on newest card
-| 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
-| 9 (19)   | chop move                        | any player     | number clue not touching the newest card
-
-### Pink / Pink-Ones / Pink-Fives (5-Player)
-
-| # mod 12 | action                           | person clued   | type of clue
-| -------- | -------------------------------- | -------------- | -------------
-| 0 (12)   | give clue / discard              | 1 player away  | number on newest card
-| 1 (13)   | play a card from slot 1          | 1 player away  | color on newest card
-| 2 (14)   | play a card from slot 2          | 1 player away  | any clue not touching the newest card
-| 3 (15)   | play a card from slot 3          | 2 players away | number on newest card
-| 4 (16)   | play a card from slot 4          | 2 players away | color on newest card
-| 5 (17)   | play a one-away card from slot 1 | 2 players away | any clue not touching the newest cardd
-| 6 (18)   | play a one-away card from slot 2 | 3 players away | number on newest card
-| 7 (19)   | play a one-away card from slot 3 | 3 players away | color on newest card
-| 8 (20)   | play a one-away card from slot 4 | 3 players away | any clue not touching the newest card
-| 9 (21)   | triple chop move                 | 4 players away | number on newest card
-| 10(22)   | double chop move                 | 4 players away | color on newest card
-| 11(23)   | chop move                        | 4 players away | any clue not touching the newest card
-
-### White / White-Ones / White-Fives (4-Player)
-
-| # mod 10 | action                           | person clued   | type of clue
-| -------- | -------------------------------- | -------------- | -------------
-| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
-| 1 (11)   | play a card from slot 1          | 1 player away  | number clue not touching the newest card
-| 2 (12)   | play a card from slot 2          | 1 player away  | color clue not touching the newest card
-| 3 (13)   | play a card from slot 3          | 2 players away | number on newest card
-| 4 (14)   | play a card from slot 4          | 2 players away | number clue not touching the newest card
-| 5 (15)   | play a one-away card from slot 1 | 2 players away | color clue not touching the newest card
-| 6 (16)   | play a one-away card from slot 2 | 3 players away | number on newest card
-| 7 (17)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
-| 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
-| 9 (19)   | chop move                        | any player     | color clue on newest card
-
-### White / White-Ones / White-Fives (5-Player)
+### White / White-Ones / White-Fives / Brown / Brown-Ones / Brown-Fives / Up or Down (5-Player)
 
 | # mod 12 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -174,39 +176,5 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 9 (21)   | triple chop move                 | 4 players away | any clue on newest card
 | 10(22)   | double chop move                 | 4 players away | number clue not touching the newest card
 | 11(23)   | chop move                        | 4 players away | color clue not touching the newest card
-
-### Brown / Brown-Ones / Brown-Fives / Up or Down (4-Player)
-
-| # mod 10 | action                           | person clued   | type of clue
-| -------- | -------------------------------- | -------------- | -------------
-| 0 (10)   | give clue / discard              | 1 player away  | color on newest card
-| 1 (11)   | play a card from slot 1          | 1 player away  | number clue not touching the newest card
-| 2 (12)   | play a card from slot 2          | 1 player away  | color clue not touching the newest card
-| 3 (13)   | play a card from slot 3          | 2 players away | color on newest card
-| 4 (14)   | play a card from slot 4          | 2 players away | number clue not touching the newest card
-| 5 (15)   | play a one-away card from slot 1 | 2 players away | color clue not touching the newest card
-| 6 (16)   | play a one-away card from slot 2 | 3 players away | color on newest card
-| 7 (17)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
-| 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
-| 9 (19)   | chop move                        | any player     | number clue on newest card
-
-### Brown / Brown-Ones / Brown-Fives / Up or Down (5-Player)
-
-| # mod 12 | action                           | person clued   | type of clue
-| -------- | -------------------------------- | -------------- | -------------
-| 0 (12)   | give clue / discard              | 1 player away  | any clue on newest card
-| 1 (13)   | play a card from slot 1          | 1 player away  | number clue not touching the newest card
-| 2 (14)   | play a card from slot 2          | 1 player away  | color clue not touching the newest card
-| 3 (15)   | play a card from slot 3          | 2 players away | any clue on newest card
-| 4 (16)   | play a card from slot 4          | 2 players away | number clue not touching the newest card
-| 5 (17)   | play a one-away card from slot 1 | 2 players away | color clue not touching the newest card
-| 6 (18)   | play a one-away card from slot 2 | 3 players away | any clue on newest card
-| 7 (19)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
-| 8 (20)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
-| 9 (21)   | triple chop move                 | 4 players away | any clue on newest card
-| 10(22)   | double chop move                 | 4 players away | number clue not touching the newest card
-| 11(23)   | chop move                        | 4 players away | color clue not touching the newest card
-
-
 
 <br />
