@@ -26,7 +26,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## General Tables
 
-* For any variant not listed below.
+* For any variant not listed above.
 
 ### 4-Player
 
