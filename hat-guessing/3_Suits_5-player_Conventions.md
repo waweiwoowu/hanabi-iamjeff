@@ -167,8 +167,8 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Information Point
 * Each card has an _Information Point_, with order:
-  * lowest rank
-  * left-most color
+  1) Rank: a card with lowest rank has lowest _Information Point_
+  2) Color: a card with left-most color has lowest _Information Point_
 
 ### Information Clue Rules
 
