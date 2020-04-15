@@ -77,7 +77,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 5 (14)  | discard 1 | 3 players away | color clue on newest card
 | 6 (15)  | discard 2 | 4 players away | number clue not touching the newest card
 | 7 (16)  | discard 3 | 4 players away | color clue on newest card
-| 8 (17)  | discard 4 | any player     | number clue on newest card / color clue not touching the newest card
+| 8 (17)  | discard 4 | any player     | number clue on newest card<br />color clue not touching the newest card
 
 ### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (5-Player)
 
@@ -91,6 +91,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 5 (14)  | discard 1 | 3 players away | color clue not touching the newest card
 | 6 (15)  | discard 2 | 4 players away | number clue on newest card
 | 7 (16)  | discard 3 | 4 players away | color clue not touching the newest card
-| 8 (17)  | discard 4 | any player     | number clue not touching the newest card / color clue on newest card
+| 8 (17)  | discard 4 | any player     | number clue not touching the newest card<br />color clue on newest card
 
 <br />
