@@ -58,7 +58,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10(22)   | double chop move                 | 3 players away | number clue not touching the newest card
 | 11(23)   | chop move                        | 3 players away | color clue not touching the newest card
 
-### Rainbow / Rainbow-Ones / Rainbow-Fives / Ambiguous / Dual-Color (4-Player)
+### Rainbow / Ambiguous / Dual-Color (4-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -73,7 +73,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue not touching the newest card
 
-### Pink / Pink-Ones / Pink-Fives (4-Player)
+### Pink (4-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -88,7 +88,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | number clue not touching the newest card
 
-### White / White-Ones / White-Fives (4-Player)
+### White (4-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -103,7 +103,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
 
-### Brown / Brown-Ones / Brown-Fives / Up or Down (4-Player)
+### Brown / Up or Down (4-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -143,7 +143,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 14(30)   | double chop move                 | 4 players away | number clue not touching the newest card
 | 15(31)   | chop move                        | 4 players away | color clue not touching the newest card
 
-### Rainbow / Rainbow-Ones / Rainbow-Fives / Pink / Pink-Ones / Pink-Fives / Ambiguous / Dual-Color (5-Player)
+### Rainbow / Pink / Ambiguous / Dual-Color (5-Player)
 
 | # mod 12 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -160,7 +160,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10(22)   | double chop move                 | 4 players away | color on newest card
 | 11(23)   | chop move                        | 4 players away | any clue not touching the newest card
 
-### White / White-Ones / White-Fives / Brown / Brown-Ones / Brown-Fives / Up or Down (5-Player)
+### White / Brown / Up or Down (5-Player)
 
 | # mod 12 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
