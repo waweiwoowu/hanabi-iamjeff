@@ -133,7 +133,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 ## Clue Interpretation Tables (5-player)
 
 * 3 Suits 5-player Conventions: [see here](https://github.com/Zamiell/hanabi-conventions/issues/168).
-* You can play a No Variant game with variant-specific tables.
+* You can play a No Variant game with any variant-specific table.
 
 ### No Variant / Clue Starved / Cow & Pig (5-Player)
 
