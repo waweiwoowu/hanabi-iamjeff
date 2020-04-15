@@ -1,4 +1,4 @@
-cd Desktop 
+cd Desktop
 (move to Desktop)
 
 touch poop
@@ -8,10 +8,10 @@ git clone https://github.com/iamwhoiamhahaha/hanabi.git
 (download data from github)
 
 git add -A && git commit -m "adding directory" && git push
+(upload data to github)
 
 git config --global user.email iamwhoiamhahaha@gmail.com
 
 git config --global user.name IAMJEFF
 
 git push
-(upload data to github)
