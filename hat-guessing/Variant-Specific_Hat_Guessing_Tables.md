@@ -183,12 +183,12 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (23)   | play 1 green  | 2 players away | color not touching the newest card
 | 8 (24)   | play 3 green  | 3 players away | number on newest card
 | 9 (25)   | play 4 green  | 3 players away | color on newest card
-| 10(26)   | play 1 blue   | 3 players away | number not touching the newest card
-| 11(27)   | play 3 blue   | 3 players away | color not touching the newest card
-| 12(28)   | play 4 blue   | 4 players away | number on newest card
-| 13(29)   | discard 2     | 4 players away | color on newest card
-| 14(30)   | discard 3     | 4 players away | number not touching the newest card
-| 15(31)   | discard 4     | 4 players away | color not touching the newest card
+| 10 (26)   | play 1 blue   | 3 players away | number not touching the newest card
+| 11 (27)   | play 3 blue   | 3 players away | color not touching the newest card
+| 12 (28)   | play 4 blue   | 4 players away | number on newest card
+| 13 (29)   | discard 2     | 4 players away | color on newest card
+| 14 (30)   | discard 3     | 4 players away | number not touching the newest card
+| 15 (31)   | discard 4     | 4 players away | color not touching the newest card
 
 ### 5 Suits (5-player)
 
@@ -204,12 +204,12 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (23)   | play 1 green  | 2 players away | color not touching the newest card
 | 8 (24)   | play 3 green  | 3 players away | number on newest card
 | 9 (25)   | play 4 green  | 3 players away | color on newest card
-| 10(26)   | play 1 blue   | 3 players away | number not touching the newest card
-| 11(27)   | play 3 blue   | 3 players away | color not touching the newest card
-| 12(28)   | play 4 blue   | 4 players away | number on newest card
-| 13(29)   | play 2 purple | 4 players away | color on newest card
-| 14(30)   | play 4 purple | 4 players away | number not touching the newest card
-| 15(31)   | chop move     | 4 players away | color not touching the newest card
+| 10 (26)   | play 1 blue   | 3 players away | number not touching the newest card
+| 11 (27)   | play 3 blue   | 3 players away | color not touching the newest card
+| 12 (28)   | play 4 blue   | 4 players away | number on newest card
+| 13 (29)   | play 2 purple | 4 players away | color on newest card
+| 14 (30)   | play 4 purple | 4 players away | number not touching the newest card
+| 15 (31)   | chop move     | 4 players away | color not touching the newest card
 
 ### 6 Suits (5-player)
 
@@ -225,11 +225,11 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (23)   | play 2 blue   | 2 players away | color not touching the newest card
 | 8 (24)   | play 4 blue   | 3 players away | number on newest card
 | 9 (25)   | play 2 purple | 3 players away | color on newest card
-| 10(26)   | play 4 purple | 3 players away | number not touching the newest card
-| 11(27)   | play 2 teal   | 3 players away | color not touching the newest card
-| 12(28)   | play 4 teal   | 4 players away | number on newest card
-| 13(29)   | discard 2     | 4 players away | color on newest card
-| 14(30)   | discard 3     | 4 players away | number not touching the newest card
-| 15(31)   | discard 4     | 4 players away | color not touching the newest card
+| 10 (26)   | play 4 purple | 3 players away | number not touching the newest card
+| 11 (27)   | play 2 teal   | 3 players away | color not touching the newest card
+| 12 (28)   | play 4 teal   | 4 players away | number on newest card
+| 13 (29)   | discard 2     | 4 players away | color on newest card
+| 14 (30)   | discard 3     | 4 players away | number not touching the newest card
+| 15 (31)   | discard 4     | 4 players away | color not touching the newest card
 
 <br />
