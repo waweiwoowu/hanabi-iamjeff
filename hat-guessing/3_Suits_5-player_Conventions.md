@@ -8,6 +8,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Clue Planning
 
+* This convention applies to any variant where a move gives both positive number or positive color information.
 * Spend first 3 clues as hat-guessing clues with [the table](#clue-interpretation-tables) below, getting as many cards to play as possible.
   * (Exception) If there are more than 3 cards left in the deck after 3 clues, spend the 4th clue as a hat-guessing clue.
   * Tips: While giving a hat-guessing clue, you should always touch cards with high rank (e.g. 4 or 5), since you would probably need those cards in last round.
@@ -16,7 +17,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Clue Planning (with Information Clues)
 
-* This convention applies to any variant where a move doesn't give positive rank or positive color information. For example, _Color Blind_ (color clue), _Number Blind_ (number clue), _Totally Blind_, _Color Mute_, _Number Mute_, _Cow & Pig_, and _Duck_.
+* This convention applies to any variant where a move doesn't give positive number or positive color information. For example, _Color Blind_ (color clue), _Number Blind_ (number clue), _Totally Blind_, _Color Mute_, _Number Mute_, _Cow & Pig_, and _Duck_.
 * Spend first 3 clues as hat-guessing clues with [the table](#clue-interpretation-tables-with-information) below, getting as many cards to play as possible.
   * (Exception) If there are more than 3 cards left in the deck after 3 clues, spend the 4th clue as a hat-guessing clue.
 * Starting from the 4th clue (or 5th), every clue should be given as an [Information Clue](#information-clues).
@@ -30,23 +31,23 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | Touched by         | No color clues | Own color clue | All color clues |
 | ------------------ | -------------- | -------------- | --------------- |
 | No rank clues      | [Null](#null--white--brown--white--null--brown--null) (Dark Null) | [Brown](#white--brown--up-or-down) (Dark Brown) | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down) (Gray) | [No Variant](#no-variant--cow--pig) (Black) | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow) |
+| Own rank clue      | [White](#white--brown--up-or-down) (Gray) | [No Variant](#no-variant) (Black) | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow) |
 | All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni) (Dark Omni) |
 
 ### Special
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Extremely Ambiguous](#extremely-ambiguous) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color)
-* [Color Blind]() / [Number Blind]() / [Totally Blind]() / [Color Mute](#clue-interpretation-tables-with-information) / [Number Mute](#clue-interpretation-tables-with-information)
-* [Alternating Clues](#clue-interpretation-tables-with-information)
+* [Color Blind]() / [Number Blind]() / [Totally Blind]() / [Color Mute](#color-mute--number-mute--alternating-clues--duck) / [Number Mute](#color-mute--number-mute--alternating-clues--duck)
+* [Alternating Clues](#color-mute--number-mute--alternating-clues--duck)
 * Clue Starved (Currently unavailable)
 * [Up or Down](#white--brown--up-or-down)
-* [Cow & Pig](#no-variant--cow--pig) / [Duck](#clue-interpretation-tables-with-information)
+* [Cow & Pig]() / [Duck](#color-mute--number-mute--alternating-clues--duck)
 * Throw It in a Hole (Currently unavailable)
 
 <br />
 
 ## Clue Interpretation Tables
 
-### No Variant / Cow & Pig
+### No Variant
 
 * Use any table below.
 
@@ -198,6 +199,8 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 ## Clue Interpretation Tables (with Information)
 
 * You can use these tables with any variant you want.
+
+### General Tables
 
 ### Color Mute / Number Mute / Alternating Clues / Duck
 
