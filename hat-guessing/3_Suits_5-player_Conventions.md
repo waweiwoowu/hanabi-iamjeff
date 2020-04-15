@@ -16,16 +16,19 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Information Clues
 
-* This convention applies to any variant where a move doesn't give positive number or positive color information. For example, _Extremely Ambiguous_, _Totally Blind_, and _Duck_.
+* This convention applies to any variant where a move doesn't give positive number or positive color information. For example, _Extremely Ambiguous_, _Totally Blind_, _Duck_, and so on.
 * The players can apply this convention to any variant they want.
-* Instead of giving a normal _Play Clue_ started from the 4th clue (or 5th), the clue should be interpreted as an _Information Clue_.
+* Starting from the 4th clue (or 5th), any clue is interpreted as an _Information Clue_.
 
 ### Information Point
-* Each card has an _Information Point_, with order:
-  1) Rank: a card with lowest rank has lowest _Information Point_
-  2) Color: a card with left-most color has lowest _Information Point_
+* Each card has an _Information Point_, as follows:
+  1) Rank: 1 < 2 < 3 < 4 < 5
+  2) Color: red (left-most color) < green < blue (right-most color)
+* For example:
+  * Green 3 < Green 4 < Green 5
+  * Red 4 < Green 4 < Blue 4
 
-### Information Clue Rules
+### Information Rules
 
 * If a card has been assigned with an information clue, treat it as a known useful card.
 * **Do not** count the known useful cards while giving an information clue.
@@ -62,6 +65,22 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 <br />
 
 ## Clue Interpretation Tables
+
+### General Tables 
+
+| # mod 9 | action                                  | information                                             | person clued   | type of clue
+| ------- | --------------------------------------- | ------------------------------------------------------- | -------------- | -------------
+| 0 (9)   | give clue                               | no useful card                                          | 1 player away  | number clue
+| 1 (10)  | play a card (from slot 1)               | a useful card (on slot 1)                               | 1 player away  | color clue
+| 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | number clue
+| 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | color clue
+| 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | number clue
+| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | color clue
+| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | number clue
+| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | color clue
+| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only newest/oldest card
+
+<br />
 
 ### No Variant / Cow & Pig
 
@@ -312,6 +331,6 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | any clue not touching the newest card
 | 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue on newest card
 | 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | any clue not touching the newest card
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only the oldest card
+| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only oldest card
 
 <br />
