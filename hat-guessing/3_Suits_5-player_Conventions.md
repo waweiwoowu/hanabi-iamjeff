@@ -25,11 +25,11 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Special
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Extremely Ambiguous](#extremely-ambiguous) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color)
-* [Color Blind]() / [Number Blind]() / [Totally Blind]() / [Color Mute]() / [Number Mute]()
-* [Alternating Clues]()
+* [Color Blind]() / [Number Blind]() / [Totally Blind]() / [Color Mute](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck) / [Number Mute](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck)
+* [Alternating Clues](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck)
 * Clue Starved (Currently unavailable)
 * [Up or Down](#white--brown--up-or-down)
-* [Cow & Pig](#no-variant--cow--pig) / [Duck]()
+* [Cow & Pig](#no-variant--cow--pig) / [Duck](#clue-interpretation-tables-color-mute--number-mute--alternating-clues--duck)
 * Throw It in a Hole (Currently unavailable)
 
 <br />
@@ -185,7 +185,9 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 <br />
 
-### Clue Interpretation Tables (Color Mute / Number Mute / Alternating Clues / Duck)
+### Clue Interpretation Tables (with Information)
+
+* Variants applied: Color Mute / Number Mute / Alternating Clues / Duck
 
 | # mod 9 | action                                  | information                                             | person clued   | type of clue
 | ------- | --------------------------------------- | ------------------------------------------------------- | -------------- | -------------
