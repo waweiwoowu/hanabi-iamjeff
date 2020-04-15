@@ -24,7 +24,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-## General Clue Interpretation Tables
+## General Tables
 
 * For any variant not listed below.
 
