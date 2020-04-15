@@ -21,7 +21,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * Starting from the 4th clue (or 5th), any clue is interpreted as an _Information Clue_.
 
 ### Information Point
-* Each card has an _Information Point_, as follows:
+* Each card has an _Information Point_, the priority is as follows:
   1) Rank: 1 < 2 < 3 < 4 < 5
   2) Color: red (left-most color) < green < blue (right-most color)
 * For example:
@@ -78,7 +78,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | color clue
 | 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | number clue
 | 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | color clue
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only newest/oldest card
+| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only newest card<br />any clue touching only oldest card
 
 <br />
 
