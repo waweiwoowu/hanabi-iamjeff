@@ -6,7 +6,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## General Clue Interpretation Tables
 
-* Any variant not listed below.
+* For any variant not listed below.
 
 ### 4-Player
 
