@@ -172,16 +172,18 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Information Clue Rules
 
-* **Do not** count the card which has assigned by action clues.
-* If the players have only one known useful card, **do not** count that card while giving another information clue, i.e., assign them with `0`.
+* If a card has been assigned with an information clue, treat it as a known useful card.
+* **Do not** count the known useful cards while giving an information clue.
+* **Do not** count the card which has been assigned with an action clue.
+* If the players have no useful cards (or all of their useful cards are known), assign them with `0`.
 * If the players have only one known useful card (from previous information clues) and they play another playable card (from previous action clues):
   * If they draw a trash, assign them with `0`.
   * If they draw a useful card with higher rank, assign them with `1`.
   * If they draw the other copy of the known useful card, **reassign** their known useful card, i.e. with `2`, `3`, or `4`. (It gives more information to their known useful card.)
   * If they draw a useful card with lower rank, assign them with `5`.
-* If the players who have two or more useful cards, **do not** count the cards they have known from previous information clues while giving a new clue, i.e., assign the information to the other cards (including the new card they draw).
 * If the players who have two or more **unknown** useful cards and one of them is unique (e.g. a 5), and if everyone knows they can only play one card for the rest of the game, only count that unique card while giving an information clue.
 
+<br />
 
 ### Clue Interpretation Tables (Color Mute / Number Mute / Alternating Clues / Duck)
 
