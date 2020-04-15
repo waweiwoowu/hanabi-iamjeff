@@ -27,6 +27,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * For example:
   * Green 3 < Green 4 < Green 5
   * Red 4 < Green 4 < Blue 4
+  * Blue 3 < Green 4 < Red 5
 
 ### Information Rules
 
@@ -84,7 +85,26 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### No Variant / Cow & Pig
 
-* Use any table below.
+* If a player has three or more useful cards, only count the cards with highest and lowest points while giving a clue.
+
+| # mod 16 | action                                  | information                                                                        | person clued   | type of clue
+| -------- | --------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | -------------
+| 0 (16)   | give clue                               | no useful card                                                                     | 1 player away  | number on newest card
+| 1 (17)   | play a card (from slot 1)               | a useful card (on slot 1)                                                          | 1 player away  | color on newest card
+| 2 (18)   | play a card (from slot 2)               | a useful card (on slot 2)                                                          | 1 player away  | number not on newest card
+| 3 (19)   | play a card (from slot 3)               | a useful card (on slot 3)                                                          | 1 player away  | color not on newest card
+| 4 (20)   | play a card (from slot 4)               | a useful card (on slot 4)                                                          | 2 players away | number on newest card
+| 5 (21)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 2)     | 2 players away | color on newest card
+| 6 (22)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 3)     | 2 players away | number not on newest card
+| 7 (23)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 4)     | 2 players away | color not on newest card
+| 8 (24)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 3)     | 3 players away | number on newest card
+| 9 (25)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 4)     | 3 players away | color on newest card
+| 10 (26)  | (N/A)                                   | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 1)     | 3 players away | number not on newest card
+| 11 (27)  | (N/A)                                   | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 4)     | 3 players away | color not on newest card
+| 12 (28)  | play a one-away card<br />(from slot 4) | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 1)     | 4 players away | number on newest card
+| 13 (29)  | play a one-away card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 2)     | 4 players away | color on newest card
+| 14 (30)  | play a one-away card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 1)     | 4 players away | number not on newest card
+| 15 (31)  | play a one-away card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point not on slot 1) | 4 players away | color not on newest card
 
 <br />
 
@@ -212,6 +232,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 ### Color Blind
 
 * `play a 2nd-priorty card` means that player plays a playable card which has 2nd priorty.
+* If a player has three or more useful cards, only count the cards with highest and lowest points while giving a clue.
 * Information `5: a red card`, `6: a green card`, and `7: a blue card` is given to a known useful card (with lowest information point).
 
 | # mod 20 | action                                     | information                                                                    | person clued   | type of clue
@@ -243,6 +264,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 * `play a card (2nd-priorty)` means that player plays a playable card which has 2nd priorty.
 * `play a one-away card (2nd-priorty)` means that player plays a one-away card which has 2nd priorty.
+* If a player has three or more useful cards, only count the cards with highest and lowest points while giving a clue.
 
 | # mod 28 | action                                              | information                                                        | person clued   | type of clue
 | -------- | --------------------------------------------------- | ------------------------------------------------------------------ | -------------- | -------------
@@ -281,6 +303,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 * `play a card (2nd-priorty)` means that player plays a playable card which has 2nd priorty.
 * `play a one-away card (2nd-priorty)` means that player plays a one-away card which has 2nd priorty.
+* If a player has three or more useful cards, only count the cards with highest and lowest points while giving a clue.
 
 | # mod 32 | action                                              | information                                                        | person clued   | type of clue
 | -------- | --------------------------------------------------- | ------------------------------------------------------------------ | -------------- | -------------
