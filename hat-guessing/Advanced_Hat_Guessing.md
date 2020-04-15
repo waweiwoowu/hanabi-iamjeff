@@ -60,6 +60,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10(22)   | double chop move                 | 3 players away | number clue not touching the newest card
 | 11(23)   | chop move                        | 3 players away | color clue not touching the newest card
 
+<br />
+
 ### Rainbow / Ambiguous / Dual-Color (4-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
@@ -74,6 +76,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 3 players away | color on newest card
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue not touching the newest card
+
+<br />
 
 ### Pink (4-Player)
 
@@ -90,6 +94,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | number clue not touching the newest card
 
+<br />
+
 ### White (4-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
@@ -104,6 +110,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
+
+<br />
 
 ### Brown / Up or Down (4-Player)
 
@@ -148,6 +156,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 14(30)   | double chop move                 | 4 players away | number clue not touching the newest card
 | 15(31)   | chop move                        | 4 players away | color clue not touching the newest card
 
+<br />
+
 ### Rainbow / Pink / Ambiguous / Dual-Color (5-Player)
 
 | # mod 12 | action                           | person clued   | type of clue
@@ -164,6 +174,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 9 (21)   | triple chop move                 | 4 players away | number on newest card
 | 10(22)   | double chop move                 | 4 players away | color on newest card
 | 11(23)   | chop move                        | 4 players away | any clue not touching the newest card
+
+<br />
 
 ### White / Brown / Up or Down (5-Player)
 
@@ -182,6 +194,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10(22)   | double chop move                 | 4 players away | number clue not touching the newest card
 | 11(23)   | chop move                        | 4 players away | color clue not touching the newest card
 
+<br />
+
 ### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (5-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
@@ -196,6 +210,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue on newest card
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue not touching the newest card
+
+<br />
 
 ### Null / White & Brown / White & Null / Brown & Null (5-Player)
 
@@ -212,6 +228,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue on newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
 
+<br />
+
 ### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (5-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
@@ -226,6 +244,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue on newest card
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue on newest card
 | 9 (19)   | chop move                        | any player     | color clue not touching the newest card
+
+<br />
 
 ### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (5-Player)
 
