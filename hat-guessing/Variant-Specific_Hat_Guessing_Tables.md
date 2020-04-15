@@ -32,6 +32,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (14)  | discard 3 | 4 players away | number clue
 | 7 (15)  | discard 4 | 4 players away | color clue
 
+<br />
+
 ## Variant-Specific Clue Interpretation Tables
 
 ### No Variant / Clue Starved / Cow & Pig (4-Player and 5-player)
@@ -67,18 +69,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (15)  | discard 2 | 3 players away | number clue not touching the newest card
 | 7 (16)  | discard 3 | 3 players away | color clue not touching the newest card
 | 8 (17)  | discard 4 | 3 players away | any clue on newest card
-
-### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (4-Player)
-
-| # mod 7 | action           | person clued   | type of clue
-| ------- | ---------------- | -------------- | -------------
-| 0 (7)   | give clue        | 1 player away  | number clue on newest card
-| 1 (8)   | play 1           | 1 player away  | color clue on newest card
-| 2 (9)   | play 2           | 2 players away | number clue on newest card
-| 3 (10)  | play 3           | 2 players away | color clue on newest card
-| 4 (11)  | play 4           | 3 players away | number clue on newest card
-| 5 (12)  | double chop move | 3 players away | color clue on newest card
-| 6 (13)  | chop move        | any player     | any clue not touching the newest card
 
 ### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (5-Player)
 
