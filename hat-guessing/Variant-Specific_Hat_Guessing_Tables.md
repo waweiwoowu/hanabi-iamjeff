@@ -192,25 +192,24 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ### 5 Suits (5-player)
 
-| # mod 17 | action        | person clued   | type of clue
+| # mod 16 | action        | person clued   | type of clue
 | -------- | ------------- | -------------- | -------------
-| 0 (17)   | give clue     | 1 player away  | number on newest card
-| 1 (18)   | play 1 red    | 1 player away  | color on newest card
-| 2 (19)   | play 3 red    | 1 player away  | number not touching the newest card
-| 3 (20)   | play 4 red    | 1 player away  | color not touching the newest card
-| 4 (21)   | play 1 yellow | 2 players away | number on newest card
-| 5 (22)   | play 3 yellow | 2 players away | color on newest card
-| 6 (23)   | play 4 yellow | 2 players away | number not touching the newest card
-| 7 (24)   | play 1 green  | 2 players away | color not touching the newest card
-| 8 (25)   | play 3 green  | 3 players away | number on newest card
-| 9 (26)   | play 4 green  | 3 players away | color on newest card
-| 10(27)   | play 1 blue   | 3 players away | number not touching the newest card
-| 11(28)   | play 3 blue   | 3 players away | color not touching the newest card
-| 12(29)   | play 4 blue   | 4 players away | number on newest card
-| 13(30)   | play 1 purple | 4 players away | color on newest card
-| 14(31)   | play 3 purple | 4 players away | number not touching the newest card
-| 15(32)   | play 4 purple | 4 players away | color not touching the newest card
-| 16(33)   | chop move     | (N/A)          | discard your chop
+| 0 (16)   | give clue     | 1 player away  | number on newest card
+| 1 (17)   | play 1 red    | 1 player away  | color on newest card
+| 2 (18)   | play 3 red    | 1 player away  | number not touching the newest card
+| 3 (19)   | play 4 red    | 1 player away  | color not touching the newest card
+| 4 (20)   | play 1 yellow | 2 players away | number on newest card
+| 5 (21)   | play 3 yellow | 2 players away | color on newest card
+| 6 (22)   | play 4 yellow | 2 players away | number not touching the newest card
+| 7 (23)   | play 1 green  | 2 players away | color not touching the newest card
+| 8 (24)   | play 3 green  | 3 players away | number on newest card
+| 9 (25)   | play 4 green  | 3 players away | color on newest card
+| 10(26)   | play 1 blue   | 3 players away | number not touching the newest card
+| 11(27)   | play 3 blue   | 3 players away | color not touching the newest card
+| 12(28)   | play 4 blue   | 4 players away | number on newest card
+| 13(29)   | play 2 purple | 4 players away | color on newest card
+| 14(30)   | play 4 purple | 4 players away | number not touching the newest card
+| 15(31)   | chop move     | 4 players away | color not touching the newest card
 
 ### 6 Suits (5-player)
 
