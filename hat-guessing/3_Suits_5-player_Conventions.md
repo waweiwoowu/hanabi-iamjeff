@@ -41,6 +41,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
   * If they draw the other copy of the known useful card, **reassign** their known useful card, i.e. with `2`, `3`, or `4`. (It gives more information to their known useful card.)
   * If they draw a useful card with lower rank, assign them with `5`.
 * If the players who have two or more **unknown** useful cards and one of them is unique (e.g. a 5), and if everyone knows they can only play one card for the rest of the game, only count that unique card while giving an information clue.
+* If a players have three or more **unknown** useful cards, only count the cards with highest and lowest points while giving a clue.
 
 <br />
 
