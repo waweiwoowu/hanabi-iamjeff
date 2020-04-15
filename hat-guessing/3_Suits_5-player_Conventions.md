@@ -185,16 +185,16 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Clue Interpretation Tables (Color Mute / Number Mute / Alternating Clues / Duck)
 
-| # mod 9 | action                                | information                         | person clued   | type of clue
-| ------- | ------------------------------------- | ----------------------------------- | -------------- | -------------
-| 0 (9)   | give clue / discard                   | no useful card                      | 1 player away  | any clue on newest card
-| 1 (10)  | play a card (on slot 1)               | a useful card (on slot 1)           | 1 player away  | any clue not touching the newest card
-| 2 (11)  | play a card (on slot 2)               | a useful card (on slot 2)           | 2 players away | any clue on newest card
-| 3 (12)  | play a card (on slot 3)               | a useful card (on slot 3)           | 2 players away | any clue not touching the newest card
-| 4 (13)  | play a card (on slot 4)               | a useful card (on slot 4)           | 3 players away | any clue on newest card
-| 5 (14)  | play a one-away card<br />(on slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | any clue not touching the newest card
-| 6 (15)  | play a one-away card<br />(on slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue on newest card
-| 7 (16)  | play a one-away card<br />(on slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | any clue not touching the newest card
-| 8 (17)  | play a one-away card<br />(on slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only the oldest card
+| # mod 9 | action                                  | information                                             | person clued   | type of clue
+| ------- | --------------------------------------- | ------------------------------------------------------- | -------------- | -------------
+| 0 (9)   | give clue / discard                     | no useful card                                          | 1 player away  | any clue on newest card
+| 1 (10)  | play a card (from slot 1)               | a useful card (on slot 1)                               | 1 player away  | any clue not touching the newest card
+| 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | any clue on newest card
+| 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | any clue not touching the newest card
+| 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | any clue on newest card
+| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | any clue not touching the newest card
+| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue on newest card
+| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | any clue not touching the newest card
+| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only the oldest card
 
 <br />
