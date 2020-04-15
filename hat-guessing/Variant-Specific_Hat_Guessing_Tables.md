@@ -93,4 +93,18 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 4 players away | color clue not touching the newest card
 | 8 (17)  | discard 4 | any player     | number clue not touching the newest card<br />color clue on newest card
 
+### Alternating Clues / Duck (5-Player)
+
+| # mod 9 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (9)   | give clue | 1 player away  | any clue on newest card
+| 1 (10)  | play 1    | 1 player away  | any clue not touching the newest card
+| 2 (11)  | play 2    | 2 player away  | any clue on newest card
+| 3 (12)  | play 3    | 2 players away | any clue not touching the newest card
+| 4 (13)  | play 4    | 3 players away | any clue on newest card
+| 5 (14)  | discard 1 | 3 players away | any clue not touching the newest card
+| 6 (15)  | discard 2 | 4 players away | any clue on newest card
+| 7 (16)  | discard 3 | 4 players away | any clue not touching the newest card
+| 8 (17)  | discard 4 | any player     | any clue touching only the oldest card
+
 <br />
