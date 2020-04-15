@@ -32,7 +32,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (14)  | discard 3 | 4 players away | number clue
 | 7 (15)  | discard 4 | 4 players away | color clue
 
-## Clue Interpretation Tables
+## Variant-Specific Clue Interpretation Tables
 
 ### No Variant / Clue Starved / Cow & Pig (4-Player and 5-player)
 * Use any table below.
