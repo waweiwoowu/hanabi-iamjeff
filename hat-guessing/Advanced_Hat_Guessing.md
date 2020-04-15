@@ -21,7 +21,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
   1) Unique (e.g. black 1)
   2) Lowest rank
   3) Left-most
-* Playable cards and one-away cards have same priority, no one is higher than the other.
+* Playable cards and one-away cards have same priority, no one is higher than the other. However, if the clue is ambiguous, playable cards takes priority over one-away cards.
 
 ### Finesse Rules
 
