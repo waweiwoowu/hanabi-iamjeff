@@ -6,8 +6,8 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ## General Conventions
 
-* Use first 3 clues with hat-guessing clues getting as many cards as possible with these 3 clues.
-  * (Exception) Or 4 clues if there are more than 3 cards left in the deck after 3 clues.
+* Spend first 3 clues as hat-guessing clues with the table below, getting as many cards to play as possible.
+  * (Exception) If there are more than 3 cards left in the deck after 3 clues, spend the 4th clue as a hat-guessing clue.
   * Tips: While giving a hat-guessing clue, you should always touch cards with high rank (e.g. 4 or 5), since you would probably need those cards in last round.
 * Starting from the 4th clue (or 5th), every clue should be given as a normal play clue.
 * Each player can decide to draw the last card to initiate the end game.
