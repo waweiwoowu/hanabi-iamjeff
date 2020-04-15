@@ -28,11 +28,12 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 ## Find Tables
 
 ### Standard
-| Touched by         | No color clues | Own color clue | All color clues |
-| ------------------ | -------------- | -------------- | --------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null) (Dark Null) | [Brown](#white--brown--up-or-down) (Dark Brown) | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down) (Gray) | [No Variant](#no-variant) (Black) | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow) |
-| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni) (Dark Omni) |
+| Touched by         | No color clues                                                                          | Own color clue                                                            | All color clues                                                                                               |
+| ------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null--white--brown--white--null--brown--null) (Dark Null)                       | [Brown](#white--brown--up-or-down) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow) (Cocoa Rainbow) |
+| Own rank clue      | [White](#white--brown--up-or-down) (Gray)                                               | [No Variant](#no-variant--cow--pig) (Black)                               | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow)                               |
+| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni) (Dark Omni)                                           |
+
 
 ### Special
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Extremely Ambiguous](#extremely-ambiguous) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color)
@@ -200,7 +201,24 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 * You can use these tables with any variant you want.
 
-### General Tables
+### Extremely Ambiguous
+
+| # mod 12 | action                                  | information                                               | person clued   | type of clue
+| -------- | --------------------------------------- | --------------------------------------------------------- | -------------- | -------------
+| 0 (12)   | give clue / discard                     | no useful card                                            | 1 player away  | number clue on newest card
+| 1 (13)   | play a card (from slot 1)               | a useful card (on slot 1)                                 | 1 player away  | number clue not touching the newest card
+| 2 (14)   | play a card (from slot 2)               | a useful card (on slot 2)                                 | 1 player away  | color clue
+| 3 (15)   | play a card (from slot 3)               | a useful card (on slot 3)                                 | 2 players away | number clue on newest card
+| 4 (16)   | play a card (from slot 4)               | a useful card (on slot 4)                                 | 2 players away | number clue on newest card
+| 5 (17)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 1) | 2 players away | color clue
+| 6 (18)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 2) | 3 players away | number clue on newest card
+| 7 (19)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 3) | 3 players away | number clue on newest card
+| 8 (20)   | play a one-away card<br />(from slot 4) | *two or more useful cards <br />(lowest-point on slot 4)  | 3 players away | color clue
+| 9 (21)   | play a one-away card<br />(from slot 3) | two useful cards <br />(lowest-point on slot 3)           | 4 players away | number clue on newest card
+| 10 (22)  | play a one-away card<br />(from slot 2) | two useful cards <br />(lowest-point on slot 2)           | 4 players away | number clue not touching the newest card
+| 11 (23)  | play a one-away card<br />(from slot 1) | two useful cards <br />(lowest-point on slot 1)           | 4 players away | color clue
+
+<br />
 
 ### Color Mute / Number Mute / Alternating Clues / Duck
 
