@@ -1,6 +1,6 @@
 # Advanced Hat-Guessing Conventions
 
-This is an advanced version of [hat-guessing conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md) created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
+This is an advanced version of [hat-guessing conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md) invented by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
 
 <br />
 
