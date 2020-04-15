@@ -136,10 +136,10 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 2 (18)   | play a card from slot 2          | 1 player away  | number clue not touching the newest card
 | 3 (19)   | play a card from slot 3          | 1 player away  | color clue not touching the newest card
 | 4 (20)   | play a card from slot 4          | 2 players away | number on newest card
-| 5 (21)   |                                  | 2 players away | color on newest card
-| 6 (22)   |                                  | 2 players away | number clue not touching the newest card
-| 7 (23)   |                                  | 2 players away | color clue not touching the newest card
-| 8 (24)   |                                  | 3 players away | number on newest card
+| 5 (21)   | (N/A)                            | 2 players away | color on newest card
+| 6 (22)   | (N/A)                            | 2 players away | number clue not touching the newest card
+| 7 (23)   | (N/A)                            | 2 players away | color clue not touching the newest card
+| 8 (24)   | (N/A)                            | 3 players away | number on newest card
 | 9 (25)   | play a one-away card from slot 1 | 3 players away | color on newest card
 | 10(26)   | play a one-away card from slot 2 | 3 players away | number clue not touching the newest card
 | 11(27)   | play a one-away card from slot 3 | 3 players away | color clue not touching the newest card
