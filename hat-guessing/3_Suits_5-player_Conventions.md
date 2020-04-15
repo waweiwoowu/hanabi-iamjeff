@@ -19,7 +19,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * This convention applies to any variant where a move doesn't give positive rank or positive color information. For example, _Color Blind_ (color clue), _Number Blind_ (number clue), _Totally Blind_, _Color Mute_, _Number Mute_, _Cow & Pig_, and _Duck_.
 * Spend first 3 clues as hat-guessing clues with [the table](#clue-interpretation-tables-with-information) below, getting as many cards to play as possible.
   * (Exception) If there are more than 3 cards left in the deck after 3 clues, spend the 4th clue as a hat-guessing clue.
-* Starting from the 4th clue (or 5th), every clue should be given as an _Information Clue_.
+* Starting from the 4th clue (or 5th), every clue should be given as an [Information Clue](#information-clues).
 * Each player can decide to draw the last card to initiate the end game.
 
 <br />
@@ -195,9 +195,11 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 <br />
 
-### Clue Interpretation Tables (with Information)
+## Clue Interpretation Tables (with Information)
 
-* Variants applied: Color Mute / Number Mute / Alternating Clues / Duck
+* You can use these tables with any variant you want.
+
+### Color Mute / Number Mute / Alternating Clues / Duck
 
 | # mod 9 | action                                  | information                                             | person clued   | type of clue
 | ------- | --------------------------------------- | ------------------------------------------------------- | -------------- | -------------
