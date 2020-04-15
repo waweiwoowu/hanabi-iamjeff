@@ -192,9 +192,9 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (11)  | play a card (on slot 2)               | a useful card (on slot 2)           | 2 players away | any clue on newest card
 | 3 (12)  | play a card (on slot 3)               | a useful card (on slot 3)           | 2 players away | any clue not touching the newest card
 | 4 (13)  | play a card (on slot 4)               | a useful card (on slot 4)           | 3 players away | any clue on newest card
-| 5 (14)  | play a one-away card<br />(on slot 4) | a useful card <br />(with lowest-point on slot 4) | 3 players away | any clue not touching the newest card
-| 6 (15)  | play a one-away card<br />(on slot 3) | a useful card <br />(with lowest-point on slot 3) | 4 players away | any clue on newest card
-| 7 (16)  | play a one-away card<br />(on slot 2) | a useful card <br />(with lowest-point on slot 2) | 4 players away | any clue not touching the newest card
-| 8 (17)  | play a one-away card<br />(on slot 1) | a useful card <br />(with lowest-point on slot 1) | any player     | any clue touching only the oldest card
+| 5 (14)  | play a one-away card<br />(on slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | any clue not touching the newest card
+| 6 (15)  | play a one-away card<br />(on slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue on newest card
+| 7 (16)  | play a one-away card<br />(on slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | any clue not touching the newest card
+| 8 (17)  | play a one-away card<br />(on slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only the oldest card
 
 <br />
