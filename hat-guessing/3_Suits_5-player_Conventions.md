@@ -20,7 +20,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | Touched by         | No color clues | Own color clue | All color clues |
 | ------------------ | -------------- | -------------- | --------------- |
 | No rank clues      | [Null](#null--white--brown--white--null--brown--null) (Dark Null) | [Brown](#white--brown--up-or-down) (Dark Brown) | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down) (Gray) | [No Variant]() (Black) | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow) |
+| Own rank clue      | [White](#white--brown--up-or-down) (Gray) | [No Variant](#no-variant--cow--pig) (Black) | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow) |
 | All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni) (Dark Omni) |
 
 ### Special
@@ -29,7 +29,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * [Alternating Clues]()
 * Clue Starved (Currently unavailable)
 * [Up or Down](#white--brown--up-or-down)
-* [Cow & Pig]() / [Duck]()
+* [Cow & Pig](#no-variant--cow--pig) / [Duck]()
 * Throw It in a Hole (Currently unavailable)
 
 <br />
