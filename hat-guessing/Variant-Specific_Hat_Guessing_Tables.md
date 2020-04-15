@@ -4,6 +4,16 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
+## Find Tables
+
+| Touched by         | No color clues | Own color clue | All color clues |
+| ------------------ | -------------- | -------------- | --------------- |
+| No rank clues      | [Null](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#null--white--brown--white--null--brown--null-5-player)           | [Brown](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#white--brown--up-or-down-4-player-and-5-player)          | [Muddy Rainbow](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player)   |
+| Own rank clue      | [White](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#white--brown--up-or-down-4-player-and-5-player)          | [No Variant](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#no-variant--clue-starved--cow--pig-4-player-and-5-player)     | [Rainbow](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player)         |
+| All rank clues     | [Light Pink](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#light-pink--pink--white--pink--light-pink--white--light-pink-5-player)     | [Pink](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player)           | [Omni](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#omni--rainbow--pink--rainbow--omni--pink--omni-5-player)            |
+
+<br />
+
 ## General Clue Interpretation Tables
 
 * For any variant not listed below.
