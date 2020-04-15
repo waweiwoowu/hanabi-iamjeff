@@ -170,13 +170,13 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | ------- | --------- | -------------- | -------------
 | 0 (9)   | give clue | 1 player away  | number clue on newest card
 | 1 (10)  | play 1    | 1 player away  | number clue not touching the newest card
-| 2 (11)  | play 2    | 2 players away | color clue
+| 2 (11)  | play 2    | 1 player away  | color clue
 | 3 (12)  | play 3    | 2 players away | number clue on newest card
-| 4 (13)  | play 4    | 3 players away | number clue not touching the newest card
-| 5 (14)  | discard 1 | 3 players away | color clue
-| 6 (15)  | discard 2 | 4 players away | number clue on newest card
-| 7 (16)  | discard 3 | 4 players away | number clue not touching the newest card
-| 8 (17)  | discard 4 | any player     | color clue
+| 4 (13)  | play 4    | 2 players away | number clue not touching the newest card
+| 5 (14)  | discard 1 | 2 players away | color clue
+| 6 (15)  | discard 2 | 3 players away | number clue on newest card
+| 7 (16)  | discard 3 | 3 players away | number clue not touching the newest card
+| 8 (17)  | discard 4 | 3 players away | color clue
 
 <br />
 
