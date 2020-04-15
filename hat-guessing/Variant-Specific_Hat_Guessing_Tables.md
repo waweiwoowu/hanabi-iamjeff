@@ -6,6 +6,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Find Tables
 
+### Standard
 | Touched by         | No color clues | Own color clue | All color clues |
 | ------------------ | -------------- | -------------- | --------------- |
 | No rank clues      | [Null](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#null--white--brown--white--null--brown--null-5-player)           | [Brown](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#white--brown--up-or-down-4-player-and-5-player)          | [Muddy Rainbow](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player)   |
