@@ -143,3 +143,26 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 8 (17)  | play a one-away card from slot 1 | any player     | number clue not touching the newest card<br />color clue on newest card
 
 <br />
+
+### Extremely Ambiguous
+
+| # mod 12 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (12)   | give clue / discard              | 1 player away  | number clue on newest card
+| 1 (13)   | play a card from slot 1          | 1 player away  | number clue not touching the newest card
+| 2 (14)   | play a card from slot 2          | 1 player away  | color clue
+| 3 (15)   | play a card from slot 3          | 2 players away | number clue on newest card
+| 4 (16)   | play a card from slot 4          | 2 players away | number clue not touching the newest card
+| 5 (17)   | (N/A)                            | 2 players away | color clue
+| 6 (18)   | (N/A)                            | 3 players away | number clue on newest card
+| 7 (19)   | (N/A)                            | 3 players away | number clue not touching the newest card
+| 8 (20)   | play a one-away card from slot 4 | 3 players away | color clue
+| 9 (21)   | play a one-away card from slot 3 | 4 players away | number clue on newest card
+| 10 (22)  | play a one-away card from slot 2 | 4 players away | number clue not touching the newest card
+| 11 (23)  | play a one-away card from slot 1 | 4 players away | color clue
+
+<br />
+
+## Clue Interpretation Tables (Color Mute / Number Mute / Alternating Clues / Duck)
+
+<br />
