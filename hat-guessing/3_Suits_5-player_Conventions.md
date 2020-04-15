@@ -11,7 +11,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * Spend first 3 clues as hat-guessing clues with [the table](#clue-interpretation-tables) below, getting as many cards to play as possible.
   * (Exception) If there are more than 3 cards left in the deck after 3 clues, spend the 4th clue as a hat-guessing clue.
   * Tips: While giving a hat-guessing clue, you should always touch cards with high rank (e.g. 4 or 5), since you would probably need those cards in last round.
-* Starting from the 4th clue (or 5th), every clue should be given as a normal _Play Clue_ (with Hyphen-ated Conventions).
+* Starting from the 4th clue (or 5th), every clue should be given as a normal _Play Clue_ (with [Hyphen-ated Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md)).
 * Each player can decide to draw the last card to initiate the end game.
 
 ### Information Clues
@@ -56,14 +56,14 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck)
 * Clue Starved (Currently unavailable)
 * [Up or Down](#white--brown--up-or-down)
-* [Cow & Pig]() / [Duck](#color-mute--number-mute--alternating-clues--duck)
+* [Cow & Pig](#no-variant--cow--pig) / [Duck](#color-mute--number-mute--alternating-clues--duck)
 * Throw It in a Hole (Currently unavailable)
 
 <br />
 
 ## Clue Interpretation Tables
 
-### No Variant
+### No Variant / Cow & Pig
 
 * Use any table below.
 
@@ -173,20 +173,50 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Extremely Ambiguous
 
-| # mod 12 | action                                  | information                                               | person clued   | type of clue
+| # mod 12 | action                                  | information                                              | person clued   | type of clue
+| -------- | --------------------------------------- | -------------------------------------------------------- | -------------- | -------------
+| 0 (12)   | give clue / discard                     | no useful card                                           | 1 player away  | number clue on newest card
+| 1 (13)   | play a card (from slot 1)               | a useful card (on slot 1)                                | 1 player away  | number clue not on newest card
+| 2 (14)   | play a card (from slot 2)               | a useful card (on slot 2)                                | 1 player away  | color clue
+| 3 (15)   | play a card (from slot 3)               | a useful card (on slot 3)                                | 2 players away | number clue on newest card
+| 4 (16)   | play a card (from slot 4)               | a useful card (on slot 4)                                | 2 players away | number clue not on newest card
+| 5 (17)   | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 1) | 2 players away | color clue
+| 6 (18)   | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 2) | 3 players away | number clue on newest card
+| 7 (19)   | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 3) | 3 players away | number clue not on newest card
+| 8 (20)   | play a one-away card<br />(from slot 4) | *two or more useful cards<br />(lowest-point on slot 4)  | 3 players away | color clue
+| 9 (21)   | play a one-away card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 3)           | 4 players away | number clue on newest card
+| 10 (22)  | play a one-away card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 2)           | 4 players away | number clue not on newest card
+| 11 (23)  | play a one-away card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 1)           | 4 players away | color clue
+
+<br />
+
+### Color Blind
+
+* `Play a 2nd-priorty card` means that player plays a playable card which has 2nd priorty.
+* Information `5: a red card`, `6: a green card`, and `7: a blue card` is given to a known useful card.
+
+| # mod 20 | action                                  | information                                               | person clued   | type of clue
 | -------- | --------------------------------------- | --------------------------------------------------------- | -------------- | -------------
-| 0 (12)   | give clue / discard                     | no useful card                                            | 1 player away  | number clue on newest card
-| 1 (13)   | play a card (from slot 1)               | a useful card (on slot 1)                                 | 1 player away  | number clue not on newest card
-| 2 (14)   | play a card (from slot 2)               | a useful card (on slot 2)                                 | 1 player away  | color clue
-| 3 (15)   | play a card (from slot 3)               | a useful card (on slot 3)                                 | 2 players away | number clue on newest card
-| 4 (16)   | play a card (from slot 4)               | a useful card (on slot 4)                                 | 2 players away | number clue not on newest card
-| 5 (17)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 1) | 2 players away | color clue
-| 6 (18)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 2) | 3 players away | number clue on newest card
-| 7 (19)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 3) | 3 players away | number clue not on newest card
-| 8 (20)   | play a one-away card<br />(from slot 4) | *two or more useful cards <br />(lowest-point on slot 4)  | 3 players away | color clue
-| 9 (21)   | play a one-away card<br />(from slot 3) | two useful cards <br />(lowest-point on slot 3)           | 4 players away | number clue on newest card
-| 10 (22)  | play a one-away card<br />(from slot 2) | two useful cards <br />(lowest-point on slot 2)           | 4 players away | number clue not on newest card
-| 11 (23)  | play a one-away card<br />(from slot 1) | two useful cards <br />(lowest-point on slot 1)           | 4 players away | color clue
+| 0 (20)   | give clue / discard                     | no useful card                                            | 1 player away  | number clue on newest card
+| 1 (21)   | play a card (from slot 1)               | a useful card (on slot 1)                                 | 1 player away  | number clue not on newest card
+| 2 (22)   | play a card (from slot 2)               | a useful card (on slot 2)                                 | 1 player away  | red clue
+| 3 (23)   | play a card (from slot 2)               | a useful card (on slot 3)                                 | 1 player away  | grenn clue
+| 4 (24)   | play a card (from slot 2)               | a useful card (on slot 4)                                 | 1 player away  | blue clue
+| 5 (25)   | (N/A)                                   | a red card                                                | 2 players away | number clue on newest card
+| 6 (26)   | (N/A)                                   | a green card                                              | 2 players away | number clue not on newest card
+| 7 (27)   | (N/A)                                   | a blue card                                               | 2 players away | red clue
+| 8 (28)   | (N/A)                                   | two useful cards<br />(low on slot 1; high on slot 2)     | 2 players away | green clue
+| 9 (29)   | play a 2nd-priorty card (from slot 1)   | two useful cards<br />(low on slot 1; high on slot 3)     | 2 players away | blue clue
+| 10 (30)  | play a 2nd-priorty card (from slot 2)   | two useful cards<br />(low on slot 1; high on slot 4)     | 3 players away | number clue on newest card
+| 11 (31)  | play a 2nd-priorty card (from slot 3)   | two useful cards<br />(low on slot 2; high on slot 3)     | 3 players away | number clue not on newest card
+| 12 (32)  | play a 2nd-priorty card (from slot 4)   | two useful cards<br />(low on slot 2; high on slot 4)     | 3 players away | red clue
+| 13 (33)  | (N/A)                                   | two useful cards<br />(low on slot 2; high on slot 1)     | 3 players away | green clue
+| 14 (34)  | (N/A)                                   | two useful cards<br />(low on slot 3; high on slot 4)     | 3 players away | blue clue
+| 15 (35)  | (N/A)                                   | two useful cards<br />(low on slot 3; high on slot 1)     | 4 players away | number clue on newest card
+| 16 (36)  | play a one-away card<br />(from slot 4) | two useful cards<br />(low on slot 3; high on slot 2)     | 4 players away | number clue not on newest card
+| 17 (37)  | play a one-away card<br />(from slot 3) | two useful cards<br />(low on slot 4; high on slot 1)     | 4 players away | red clue
+| 18 (38)  | play a one-away card<br />(from slot 2) | two useful cards<br />(low on slot 4; high on slot 2)     | 4 players away | green clue
+| 19 (39)  | play a one-away card<br />(from slot 1) | two useful cards<br />(low on slot 4; high on slot 3)     | 4 players away | blue clue
 
 <br />
 
