@@ -265,38 +265,38 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 | # mod 32 | action                                              | information                                                        | person clued   | type of clue
 | -------- | --------------------------------------------------- | ------------------------------------------------------------------ | -------------- | -------------
-| 0 (32)   | give clue / discard                                 | no useful card                                                     | 1 player away  | red clue
-| 1 (33)   | play a card (from slot 1)                           | a useful card "red on slot 1"                                      | 1 player away  | green clue
-| 2 (34)   | play a card (from slot 1)                           | a useful card "red on slot 2"                                      | 1 player away  | blue clue
-| 3 (35)   | play a card (from slot 2)                           | a useful card "red on slot 3"                                      | 1 player away  | 1 clue
-| 4 (36)   | play a card (from slot 2)                           | a useful card "red on slot 4"                                      | 1 player away  | 2 clue
-| 5 (37)   | (N/A)                                               | a useful card "green on slot 1"                                    | 1 player away  | 3 clue
-| 6 (38)   | (N/A)                                               | a useful card "green on slot 2"                                    | 1 player away  | 4 clue
-| 7 (39)   | (N/A)                                               | a useful card "green on slot 3"                                    | 1 player away  | 5 clue
-| 8 (40)   | (N/A)                                               | a useful card "green on slot 4"                                    | 2 players away | red clue
-| 9 (41)   | play a one-away card<br />(2nd-priorty from slot 4) | a useful card "blue on slot 1"                                     | 2 players away | green clue
-| 10 (42)  | play a one-away card<br />(2nd-priorty from slot 3) | a useful card "blue on slot 2"                                     | 2 players away | blue clue
-| 11 (43)  | play a one-away card<br />(2nd-priorty from slot 2) | a useful card "blue on slot 3"                                     | 2 players away | 1 clue
-| 12 (44)  | play a one-away card<br />(2nd-priorty from slot 1) | a useful card "blue on slot 4"                                     | 2 players away | 2 clue
+| 0 (32)   | give clue / discard                                 | no useful card                                                    | 1 player away  | red clue
+| 1 (33)   | play a card<br />(1st-priorty from slot 1)          | a useful card (red on slot 1)                                      | 1 player away  | green clue
+| 2 (34)   | play a card<br />(1st-priorty from slot 2)          | a useful card (red on slot 2)                                      | 1 player away  | blue clue
+| 3 (35)   | play a card<br />(1st-priorty from slot 3)          | a useful card (red on slot 3)                                      | 1 player away  | 1 clue
+| 4 (36)   | play a card<br />(1st-priorty from slot 4)          | a useful card (red on slot 4)                                      | 1 player away  | 2 clue
+| 5 (37)   | (N/A)                                               | a useful card (green on slot 1)                                    | 1 player away  | 3 clue
+| 6 (38)   | (N/A)                                               | a useful card (green on slot 2)                                    | 1 player away  | 4 clue
+| 7 (39)   | (N/A)                                               | a useful card (green on slot 3)                                    | 1 player away  | 5 clue
+| 8 (40)   | (N/A)                                               | a useful card (green on slot 4)                                    | 2 players away | red clue
+| 9 (41)   | play a one-away card<br />(2nd-priorty from slot 4) | a useful card (blue on slot 1)                                     | 2 players away | green clue
+| 10 (42)  | play a one-away card<br />(2nd-priorty from slot 3) | a useful card (blue on slot 2)                                     | 2 players away | blue clue
+| 11 (43)  | play a one-away card<br />(2nd-priorty from slot 2) | a useful card (blue on slot 3)                                     | 2 players away | 1 clue
+| 12 (44)  | play a one-away card<br />(2nd-priorty from slot 1) | a useful card (blue on slot 4)                                     | 2 players away | 2 clue
 | 13 (45)  | (N/A)                                               | (N/A)                                                              | 2 players away | 3 clue
-| 14 (46)  | (N/A)                                               | two useful cards<br />"blue on slot 4"                             | 2 players away | 4 clue
-| 15 (47)  | (N/A)                                               | two useful cards<br />"blue on slot 3"                             | 2 players away | 5 clue
-| 16 (48)  | (N/A)                                               | two useful cards<br />"blue on slot 2"                             | 3 players away | red clue
-| 17 (49)  | play a card<br />(2nd-priorty from slot 1)          | two useful cards<br />"blue on slot 1"<br />"the other on slot 4"  | 3 players away | green clue
-| 18 (50)  | play a card<br />(2nd-priorty from slot 2)          | two useful cards<br />"blue on slot 1"<br />"the other on slot 3"  | 3 players away | blue clue
-| 19 (51)  | play a card<br />(2nd-priorty from slot 3)          | two useful cards<br />"blue on slot 1"<br />"the other on slot 2"  | 3 players away | 1 clue
-| 20 (52)  | play a card<br />(2nd-priorty from slot 4)          | two useful cards<br />"green on slot 4"                            | 3 players away | 2 clue
-| 21 (53)  | (N/A)                                               | two useful cards<br />"green on slot 3"                            | 3 players away | 3 clue
-| 22 (54)  | (N/A)                                               | two useful cards<br />"green on slot 2"                            | 3 players away | 4 clue
-| 23 (55)  | (N/A)                                               | two useful cards<br />"green on slot 1"<br />"the other on slot 4" | 3 players away | 5 clue
-| 24 (56)  | (N/A)                                               | two useful cards<br />"green on slot 1"<br />"the other on slot 3" | 4 players away | red clue
-| 25 (57)  | (N/A)                                               | two useful cards<br />"green on slot 1"<br />"the other on slot 2" | 4 players away | green clue
-| 26 (58)  | (N/A)                                               | two useful cards<br />"red on slot 4"                              | 4 players away | blue clue
-| 27 (59)  | (N/A)                                               | two useful cards<br />"red on slot 3"                              | 4 players away | 1 clue
-| 28 (60)  | play a one-away card<br />(from slot 4)             | two useful cards<br />"red on slot 2"                              | 4 players away | 2 clue
-| 29 (61)  | play a one-away card<br />(from slot 3)             | two useful cards<br />"red on slot 1"<br />"the other on slot 4"   | 4 players away | 3 clue
-| 30 (62)  | play a one-away card<br />(from slot 2)             | two useful cards<br />"red on slot 1"<br />"the other on slot 3"   | 4 players away | 4 clue
-| 31 (63)  | play a one-away card<br />(from slot 1)             | two useful cards<br />"red on slot 1"<br />"the other on slot 2"   | 4 players away | 5 clue
+| 14 (46)  | (N/A)                                               | two useful cards<br />(blue on slot 4)                             | 2 players away | 4 clue
+| 15 (47)  | (N/A)                                               | two useful cards<br />(blue on slot 3)                             | 2 players away | 5 clue
+| 16 (48)  | (N/A)                                               | two useful cards<br />(blue on slot 2)                             | 3 players away | red clue
+| 17 (49)  | play a card<br />(2nd-priorty from slot 1)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 4)  | 3 players away | green clue
+| 18 (50)  | play a card<br />(2nd-priorty from slot 2)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 3)  | 3 players away | blue clue
+| 19 (51)  | play a card<br />(2nd-priorty from slot 3)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 2)  | 3 players away | 1 clue
+| 20 (52)  | play a card<br />(2nd-priorty from slot 4)          | two useful cards<br />(green on slot 4)                            | 3 players away | 2 clue
+| 21 (53)  | (N/A)                                               | two useful cards<br />(green on slot 3)                            | 3 players away | 3 clue
+| 22 (54)  | (N/A)                                               | two useful cards<br />(green on slot 2)                            | 3 players away | 4 clue
+| 23 (55)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 4) | 3 players away | 5 clue
+| 24 (56)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 3) | 4 players away | red clue
+| 25 (57)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 2) | 4 players away | green clue
+| 26 (58)  | (N/A)                                               | two useful cards<br />(red on slot 4)                              | 4 players away | blue clue
+| 27 (59)  | (N/A)                                               | two useful cards<br />(red on slot 3)                              | 4 players away | 1 clue
+| 28 (60)  | play a one-away card<br />(1st-priorty from slot 4) | two useful cards<br />(red on slot 2)                              | 4 players away | 2 clue
+| 29 (61)  | play a one-away card<br />(1st-priorty from slot 3) | two useful cards<br />(red on slot 1)<br />(the other on slot 4)   | 4 players away | 3 clue
+| 30 (62)  | play a one-away card<br />(1st-priorty from slot 2) | two useful cards<br />(red on slot 1)<br />(the other on slot 3)   | 4 players away | 4 clue
+| 31 (63)  | play a one-away card<br />(1st-priorty from slot 1) | two useful cards<br />(red on slot 1)<br />(the other on slot 2)   | 4 players away | 5 clue
 
 <br />
 
