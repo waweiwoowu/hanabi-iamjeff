@@ -170,3 +170,71 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 8 (17)  | discard 4 | any player     | any clue touching only the oldest card
 
 <br />
+
+## Clue Interpretation Tables (Throw It in a Hole)
+
+### 4 Suits (5-player)
+
+| # mod 16 | action        | person clued   | type of clue
+| -------- | ------------- | -------------- | -------------
+| 0        | give clue     | 1 player away  | number on newest card
+| 1        | play 1 red    | 1 player away  | color on newest card
+| 2        | play 3 red    | 1 player away  | number not touching the newest card
+| 3        | play 4 red    | 1 player away  | color not touching the newest card
+| 4        | play 1 yellow | 2 player away  | number on newest card
+| 5        | play 3 yellow | 2 players away | color on newest card
+| 6        | play 4 yellow | 2 players away | number not touching the newest card
+| 7        | play 1 green  | 2 players away | color not touching the newest card
+| 8        | play 3 green  | 3 players away | number on newest card
+| 9        | play 4 green  | 3 players away | color on newest card
+| 10       | play 1 blue   | 3 players away | number not touching the newest card
+| 11       | play 3 blue   | 3 players away | color not touching the newest card
+| 12       | play 4 blue   | 4 players away | number on newest card
+| 13       | discard 2     | 4 players away | color on newest card
+| 14       | discard 3     | 4 players away | number not touching the newest card
+| 15       | discard 4     | 4 players away | color not touching the newest card
+
+### 5 Suits (5-player)
+
+| # mod 17 | action        | person clued   | type of clue
+| -------- | ------------- | -------------- | -------------
+| 0        | give clue     | 1 player away  | number on newest card
+| 1        | play 1 red    | 1 player away  | color on newest card
+| 2        | play 3 red    | 1 player away  | number not touching the newest card
+| 3        | play 4 red    | 1 player away  | color not touching the newest card
+| 4        | play 1 yellow | 2 players away | number on newest card
+| 5        | play 3 yellow | 2 players away | color on newest card
+| 6        | play 4 yellow | 2 players away | number not touching the newest card
+| 7        | play 1 green  | 2 players away | color not touching the newest card
+| 8        | play 3 green  | 3 players away | number on newest card
+| 9        | play 4 green  | 3 players away | color on newest card
+| 10       | play 1 blue   | 3 players away | number not touching the newest card
+| 11       | play 3 blue   | 3 players away | color not touching the newest card
+| 12       | play 4 blue   | 4 players away | number on newest card
+| 13       | play 1 purple | 4 players away | color on newest card
+| 14       | play 3 purple | 4 players away | number not touching the newest card
+| 15       | play 4 purple | 4 players away | color not touching the newest card
+| 16       | chop move     | (N/A)          | discard your chop
+
+### 6 Suits (5-player)
+
+| # mod 16 | action        | person clued   | type of clue
+| -------- | ------------- | -------------- | -------------
+| 0        | give clue     | 1 player away  | number on newest card
+| 1        | play 2 red    | 1 player away  | color on newest card
+| 2        | play 4 red    | 1 player away  | number not touching the newest card
+| 3        | play 2 yellow | 1 player away  | color not touching the newest card
+| 4        | play 4 yellow | 2 players away | number on newest card
+| 5        | play 2 green  | 2 players away | color on newest card
+| 6        | play 4 green  | 2 players away | number not touching the newest card
+| 7        | play 2 blue   | 2 players away | color not touching the newest card
+| 8        | play 4 blue   | 3 players away | number on newest card
+| 9        | play 2 purple | 3 players away | color on newest card
+| 10       | play 4 purple | 3 players away | number not touching the newest card
+| 11       | play 2 teal   | 3 players away | color not touching the newest card
+| 12       | play 4 teal   | 4 players away | number on newest card
+| 13       | discard 2     | 4 players away | color on newest card
+| 14       | discard 3     | 4 players away | number not touching the newest card
+| 15       | discard 4     | 4 players away | color not touching the newest card
+
+<br />
