@@ -122,6 +122,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 ## Clue Interpretation Tables (5-player)
 
+* 3 Suits 5-player Conventions: [see here](https://github.com/Zamiell/hanabi-conventions/issues/168).
+
 ### No Variant (5-Player)
 
 | # mod 16 | action                           | person clued   | type of clue
