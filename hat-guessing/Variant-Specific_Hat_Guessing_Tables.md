@@ -4,6 +4,34 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
+## General Clue Interpretation Tables
+
+* Any variant not listed below.
+
+### 4-Player
+
+| # mod 6 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (6)   | give clue | 1 player away  | number clue
+| 1 (7)   | play 1    | 1 player away  | color clue
+| 2 (8)   | play 2    | 2 player away  | number clue
+| 3 (9)   | play 3    | 2 players away | color clue
+| 4 (10)  | play 4    | 3 players away | number clue
+| 5 (11)  | chop move | 3 players away | color clue
+
+### 5-Player
+
+| # mod 8 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (8)   | give clue | 1 player away  | number clue
+| 1 (9)   | play 1    | 1 player away  | color clue
+| 2 (10)  | play 2    | 2 player away  | number clue
+| 3 (11)  | play 3    | 2 players away | color clue
+| 4 (12)  | play 4    | 3 players away | number clue
+| 5 (13)  | discard 2 | 3 players away | color clue
+| 6 (14)  | discard 3 | 4 players away | number clue
+| 7 (15)  | discard 4 | 4 players away | color clue
+
 ## Clue Interpretation Tables
 
 ### No Variant / Clue Starved / Cow & Pig (4-Player and 5-player)
@@ -66,18 +94,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 4 players away | color clue on newest card
 | 8 (17)  | discard 4 | any player     | any clue not touching the newest card
 
-### Null / White & Brown / White & Null / Brown & Null (4-Player)
-
-| # mod 7 | action           | person clued   | type of clue
-| ------- | ---------------- | -------------- | -------------
-| 0 (7)   | give clue        | 1 player away  | number clue not touching the newest card
-| 1 (8)   | play 1           | 1 player away  | color clue not touching the newest card
-| 2 (9)   | play 2           | 2 player away  | number clue not touching the newest card
-| 3 (10)  | play 3           | 2 players away | color clue not touching the newest card
-| 4 (11)  | play 4           | 3 players away | number clue not touching the newest card
-| 5 (12)  | double chop move | 3 players away | color clue not touching the newest card
-| 6 (13)  | chop move        | any player     | any clue on newest card
-
 ### Null / White & Brown / White & Null / Brown & Null (5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
@@ -92,18 +108,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 4 players away | color clue not touching the newest card
 | 8 (17)  | discard 4 | any player     | any clue on newest card
 
-### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (4-Player)
-
-| # mod 7 | action           | person clued   | type of clue
-| ------- | ---------------- | -------------- | -------------
-| 0 (7)   | give clue        | 1 player away  | number clue not touching the newest card
-| 1 (8)   | play 1           | 1 player away  | color clue on newest card
-| 2 (9)   | play 2           | 2 player away  | number clue not touching the newest card
-| 3 (10)  | play 3           | 2 players away | color clue on newest card
-| 4 (11)  | play 4           | 3 players away | number clue not touching the newest card
-| 5 (12)  | double chop move | 3 players away | color clue on newest card
-| 6 (13)  | chop move        | any player     | number clue on newest card<br />color clue not touching the newest card
-
 ### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
@@ -117,18 +121,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (15)  | discard 2 | 4 players away | number clue not touching the newest card
 | 7 (16)  | discard 3 | 4 players away | color clue on newest card
 | 8 (17)  | discard 4 | any player     | number clue on newest card<br />color clue not touching the newest card
-
-### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (4-Player)
-
-| # mod 7 | action           | person clued   | type of clue
-| ------- | ---------------- | -------------- | -------------
-| 0 (7)   | give clue        | 1 player away  | number clue on newest card
-| 1 (8)   | play 1           | 1 player away  | color clue not touching the newest card
-| 2 (9)   | play 2           | 2 player away  | number clue on newest card
-| 3 (10)  | play 3           | 2 players away | color clue not touching the newest card
-| 4 (11)  | play 4           | 3 players away | number clue on newest card
-| 5 (12)  | double chop move | 3 players away | color clue not touching the newest card
-| 6 (13)  | chop move        | any player     | number clue not touching the newest card<br />color clue on newest card
 
 ### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (5-Player)
 
