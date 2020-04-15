@@ -41,7 +41,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 ## Clue Interpretation Tables (4-player)
 
-* You can play a No Variant game with variant-specific tables.
+* You can play a No Variant game with any variant-specific table.
 
 ### No Variant / Clue Starved / Cow & Pig (4-Player)
 
