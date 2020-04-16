@@ -167,7 +167,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 
 ### Special
-* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / Extremely Ambiguous / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)
+* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Extremely Ambiguous](#extremely-ambiguous) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)
 * Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
 * Alternating Clues
 * [Clue Starved](#no-variant--clue-starved--cow--pig-5-player)
@@ -303,6 +303,25 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue not touching the newest card
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
+
+<br />
+
+### Extremely Ambiguous
+
+| # mod 12 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (12)   | give clue / discard              | 1 player away  | number clue on newest card
+| 1 (13)   | play a card (from slot 1)        | 1 player away  | number clue not on newest card
+| 2 (14)   | play a card (from slot 2)        | 1 player away  | color clue
+| 3 (15)   | play a card (from slot 3)        | 2 players away | number clue on newest card
+| 4 (16)   | play a card (from slot 4)        | 2 players away | number clue not on newest card
+| 5 (17)   | play a one-away card from slot 1 | 2 players away | color clue
+| 6 (18)   | play a one-away card from slot 2 | 3 players away | number clue on newest card
+| 7 (19)   | play a one-away card from slot 3 | 3 players away | number clue not on newest card
+| 8 (20)   | play a one-away card from slot 4 | 3 players away | color clue
+| 9 (21)   | triple chop move                 | 4 players away | number clue on newest card
+| 10 (22)  | double chop move                 | 4 players away | number clue not on newest card
+| 11 (23)  | chop move                        | 4 players away | color clue
 
 <br />
 
