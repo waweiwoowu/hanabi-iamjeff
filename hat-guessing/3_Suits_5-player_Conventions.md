@@ -8,20 +8,13 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 ### Clue Planning
 
-* Spend first 3 clues as hat-guessing clues with [the table](#clue-interpretation-tables) below, getting as many cards to play as possible.
-  * (Exception) If there are more than 3 cards left in the deck after 3 clues, spend the 4th clue as a hat-guessing clue.
-  * Tips: While giving a hat-guessing clue, you should always touch cards with high rank (e.g. 4 or 5), since you would probably need those cards in last round.
-* Starting from the 4th clue (or 5th), every clue should be given as a normal _Play Clue_ (with [Hyphen-ated Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md)).
-* Each player can decide to draw the last card to initiate the end game.
-
-### Information Clues
-
-* This convention applies to any variant where a move doesn't give positive number or positive color information. For example, _Extremely Ambiguous_, _Totally Blind_, _Duck_, and so on.
-* The players can apply this convention to any variant they want.
-* Starting from the 4th clue (or 5th), any clue is interpreted as an _Information Clue_.
+* Give _**Action Clues**_ until getting **7** or more cards to play, including the cards which are loaded by the action clue.
+  * Tips: While giving an action clue, you should always touch cards with higher rank (e.g. 4 or 5), since you would probably need those cards in last round.
+* Then, every clue should be given as an _**Information Clue**_ _(see below)_.
+* Notes: For the variants where the clue gives both positive number or positive color information, like No Variant, the team can choose to give normal _Play Clues_ (with [Hyphen-ated Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md)) instead of information clues. They have to decide this at the start of the game.
 
 ### Information Point
-* Each card has an _Information Point_, the priority is as follows:
+* Each card has an _Information Point_, with the priority as follows:
   1) Rank: 1 < 2 < 3 < 4 < 5
   2) Color: red (left-most color) < green < blue (right-most color)
 * For example:
@@ -29,7 +22,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
   * Red 4 < Green 4 < Blue 4
   * Blue 3 < Green 4 < Red 5
 
-### Information Rules
+### Information Clue Rules
 
 * If a card has been assigned with an information clue, treat it as a known useful card.
 * **Do not** count the known useful cards while giving an information clue.
@@ -308,7 +301,7 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 | # mod 32 | action                                              | information                                                        | person clued   | type of clue
 | -------- | --------------------------------------------------- | ------------------------------------------------------------------ | -------------- | -------------
-| 0 (32)   | give clue                                           | no useful card                                                    | 1 player away  | red clue
+| 0 (32)   | give clue                                           | no useful card                                                     | 1 player away  | red clue
 | 1 (33)   | play a card<br />(1st-priorty from slot 1)          | a useful card (red on slot 1)                                      | 1 player away  | green clue
 | 2 (34)   | play a card<br />(1st-priorty from slot 2)          | a useful card (red on slot 2)                                      | 1 player away  | blue clue
 | 3 (35)   | play a card<br />(1st-priorty from slot 3)          | a useful card (red on slot 3)                                      | 1 player away  | 1 clue
