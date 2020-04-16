@@ -51,7 +51,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 ### Standard
 | Touched by         | No color clues                                                                                   | Own color clue                                                     | All color clues                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null-4-player) (Dark Null)                       | [Brown](#brown--up-or-down-4-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player) (Cocoa Rainbow) |
+| No rank clues      | [Null](#null--white--brown--white--null--brown--null-4-player) (Dark Null)                       | [Brown](#brown--up-or-down-4-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-4-player) (Cocoa Rainbow) |
 | Own rank clue      | [White](#white-4-player) (Gray)                                                                  | [No Variant](#no-variant--clue-starved--cow--pig-4-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) (Dark Rainbow)                                     |
 | All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-4-player) (Gray Pink) | [Pink](#pink-4-player) (Dark Pink)                                 | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-4-player) (Dark Omni)                                           |
 
@@ -218,13 +218,13 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | # mod 9 | action                           | person clued   | type of clue
 | ------- | -------------------------------- | -------------- | -------------
 | 0 (9)   | give clue / discard              | 1 player away  | number clue on newest card
-| 1 (10)  | play a card (from slot 1)        | 1 player away  | number clue not on newest card
-| 2 (11)  | play a card (from slot 2)        | 1 player away  | color clue
-| 3 (12)  | play a card (from slot 3)        | 2 players away | number clue on newest card
-| 4 (13)  | play a card (from slot 4)        | 2 players away | number clue not on newest card
+| 1 (10)  | play a card from slot 1          | 1 player away  | number clue not touching the newest card
+| 2 (11)  | play a card from slot 2          | 1 player away  | color clue
+| 3 (12)  | play a card from slot 3          | 2 players away | number clue on newest card
+| 4 (13)  | play a card from slot 4          | 2 players away | number clue not touching the newest card
 | 5 (14)  | play a one-away card from slot 1 | 2 players away | color clue
 | 6 (15)  | play a one-away card from slot 2 | 3 players away | number clue on newest card
-| 7 (16)  | play a one-away card from chop   | 3 players away | number clue not on newest card
+| 7 (16)  | play a one-away card from chop   | 3 players away | number clue not touching the newest card
 | 8 (17)  | chop move                        | 3 players away | color clue
 
 <br />
@@ -243,11 +243,11 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 ### Special
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Extremely Ambiguous](#extremely-ambiguous-5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)
-* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
-* Alternating Clues
+* Color Blind / Number Blind / Totally Blind / [Color Mute](#color-mute--number-mute--alternating-clues-5-player) / [Number Mute](#color-mute--number-mute--alternating-clues-5-player)
+* [Alternating Clues](#color-mute--number-mute--alternating-clues-5-player)
 * [Clue Starved](#no-variant--clue-starved--cow--pig-5-player)
 * [Up or Down](#white--brown--up-or-down-5-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-5-player) / Duck
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-5-player) / [Duck](#duck-5-player)
 * Throw It in a Hole
 
 <br />
@@ -386,17 +386,48 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | # mod 12 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
 | 0 (12)   | give clue / discard              | 1 player away  | number clue on newest card
-| 1 (13)   | play a card (from slot 1)        | 1 player away  | number clue not on newest card
-| 2 (14)   | play a card (from slot 2)        | 1 player away  | color clue
-| 3 (15)   | play a card (from slot 3)        | 2 players away | number clue on newest card
-| 4 (16)   | play a card (from slot 4)        | 2 players away | number clue not on newest card
+| 1 (13)   | play a card from slot 1          | 1 player away  | number clue not touching the newest card
+| 2 (14)   | play a card from slot 2          | 1 player away  | color clue
+| 3 (15)   | play a card from slot 3          | 2 players away | number clue on newest card
+| 4 (16)   | play a card from slot 4          | 2 players away | number clue not touching the newest card
 | 5 (17)   | play a one-away card from slot 1 | 2 players away | color clue
 | 6 (18)   | play a one-away card from slot 2 | 3 players away | number clue on newest card
-| 7 (19)   | play a one-away card from slot 3 | 3 players away | number clue not on newest card
+| 7 (19)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
 | 8 (20)   | play a one-away card from slot 4 | 3 players away | color clue
 | 9 (21)   | triple chop move                 | 4 players away | number clue on newest card
-| 10 (22)  | double chop move                 | 4 players away | number clue not on newest card
+| 10 (22)  | double chop move                 | 4 players away | number clue not touching the newest card
 | 11 (23)  | chop move                        | 4 players away | color clue
+
+<br />
+
+### Color Mute / Number Mute / Alternating Clues (5-player)
+
+| # mod 8 | action                           | person clued   | type of clue
+| ------- | -------------------------------- | -------------- | -------------
+| 0 (8)   | give clue / discard              | 1 player away  | any clue on newest card
+| 1 (9)   | play a card from slot 1          | 1 player away  | any clue not touching the newest card
+| 2 (10)  | play a card from slot 2          | 2 players away | any clue on newest card
+| 3 (11)  | play a card from slot 3          | 2 players away | any clue not touching the newest card
+| 4 (12)  | play a card from slot 4          | 3 players away | any clue on newest card
+| 5 (13)  | play a one-away card from slot 1 | 3 players away | any clue not touching the newest card
+| 6 (14)  | play a one-away card from chop   | 4 players away | any clue on newest card
+| 7 (15)  | chop move                        | 4 players away | any clue not touching the newest card
+
+<br />
+
+### Duck (5-player)
+
+| # mod 9 | action                           | person clued   | type of clue
+| ------- | -------------------------------- | -------------- | -------------
+| 0 (9)   | give clue / discard              | 1 player away  | any clue on newest card
+| 1 (10)  | play a card from slot 1          | 1 player away  | any clue not touching the newest card
+| 2 (11)  | play a card from slot 2          | 2 players away | any clue on newest card
+| 3 (12)  | play a card from slot 3          | 2 players away | any clue not touching the newest card
+| 4 (13)  | play a card from slot 4          | 3 players away | any clue on newest card
+| 5 (14)  | play a one-away card from slot 1 | 3 players away | any clue not touching the newest card
+| 6 (15)  | play a one-away card from slot 2 | 4 players away | any clue on newest card
+| 7 (16)  | play a one-away card from chop   | 4 players away | any clue not touching the newest card
+| 8 (17)  | chop move                        | any player     | any clue touching only oldest card
 
 <br />
 
