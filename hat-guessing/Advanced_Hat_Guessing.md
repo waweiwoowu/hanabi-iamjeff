@@ -436,20 +436,201 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 * _Currently Unavailable_
 
 ### Standard
-| Touched by         | No color clues         | Own color clue      | All color clues               |
-| ------------------ | ---------------------- | ------------------- | ----------------------------- |
-| No rank clues      | Null (Dark Null)       | Brown] (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
-| Own rank clue      | White (Gray)           | No Variant (Black)  | Rainbow (Dark Rainbow)        |
-| All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)    | Omni (Dark Omni)              |
+| Touched by         | No color clues                                                                                   | Own color clue                                                     | All color clues                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null--white--brown--white--null--brown--null-6-player) (Dark Null)                       | [Brown](#brown--up-or-down-6-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-6-player) (Cocoa Rainbow) |
+| Own rank clue      | [White](#white-6-player) (Gray)                                                                  | [No Variant](#no-variant--clue-starved--cow--pig-6-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) (Dark Rainbow)                                     |
+| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-6-player) (Gray Pink) | [Pink](#pink-6-player) (Dark Pink)                                 | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-6-player) (Dark Omni)                                           |
 
 
 ### Special
-* Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
+* [Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) / [Very Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) / Extremely Ambiguous / [Dual-Color](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)
 * Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
 * Alternating Clues
-* Clue Starved
-* Up or Down
-* Cow & Pig / Duck
+* [Clue Starved](#no-variant--clue-starved--cow--pig-5-player)
+* [Up or Down](#brown--up-or-down-6-player)
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-5-player) / Duck
 * Throw It in a Hole
+
+<br />
+
+### General Table (6-Player)
+
+| # mod 12 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (12)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (13)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (14)   | play a card from slot 2          | 2 players away | number on newest card
+| 3 (15)   | play a card from slot 3          | 2 players away | color on newest card
+| 4 (16)   | play a card from slot 4          | 3 players away | number on newest card
+| 5 (17)   | play a one-away card from slot 1 | 3 players away | color on newest card
+| 6 (18)   | play a one-away card from slot 2 | 4 players away | number on newest card
+| 7 (19)   | play a one-away card from slot 3 | 4 players away | color on newest card
+| 8 (20)   | play a one-away card from slot 4 | 5 players away | number on newest card
+| 9 (21)   | triple chop move                 | 5 players away | color on newest card
+| 10 (22)  | double chop move                 | any player     | number clue not touching the newest card
+| 11 (23)  | chop move                        | any player     | color clue not touching the newest card
+
+<br />
+
+### No Variant / Clue Starved / Cow & Pig (6-Player)
+
+| # mod 15 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (15)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (16)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (17)   | play a card from slot 2          | 1 player away  | any clue not touching the newest card
+| 3 (18)   | play a card from slot 3          | 2 players away | number on newest card
+| 4 (19)   | play a card from slot 4          | 2 players away | color on newest card
+| 5 (20)   | (N/A)                            | 2 players away | any clue not touching the newest card
+| 6 (21)   | (N/A)                            | 3 players away | number on newest card
+| 7 (22)   | (N/A)                            | 3 players away | color on newest card
+| 8 (23)   | (N/A)                            | 3 players away | any clue not touching the newest card
+| 9 (24)   | play a one-away card from slot 1 | 4 players away | number on newest card
+| 10 (25)  | play a one-away card from slot 2 | 4 players away | color on newest card
+| 11 (26)  | play a one-away card from slot 3 | 4 players away | any clue not touching the newest card
+| 12 (27)  | play a one-away card from slot 4 | 5 players away | number on newest card
+| 13 (28)  | double chop move                 | 5 players away | color on newest card
+| 14 (29)  | chop move                        | 5 players away | any clue not touching the newest card
+
+<br />
+
+### Rainbow / Ambiguous / Very Ambiguous / Dual-Color (6-Player)
+
+| # mod 11 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (11)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (12)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (13)   | play a card from slot 2          | 2 players away | number on newest card
+| 3 (14)   | play a card from slot 3          | 2 players away | color on newest card
+| 4 (15)   | play a card from slot 4          | 3 players away | number on newest card
+| 5 (16)   | play a one-away card from slot 1 | 3 players away | color on newest card
+| 6 (17)   | play a one-away card from slot 2 | 4 players away | number on newest card
+| 7 (18)   | play a one-away card from slot 3 | 4 players away | color on newest card
+| 8 (19)   | play a one-away card from slot 4 | 5 players away | number on newest card
+| 9 (20)   | double chop move                 | 5 players away | color on newest card
+| 10 (21)  | chop move                        | any player     | number clue not touching the newest card
+
+<br />
+
+### Pink (6-Player)
+
+| # mod 11 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (11)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (12)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (13)   | play a card from slot 2          | 2 players away | number on newest card
+| 3 (14)   | play a card from slot 3          | 2 players away | color on newest card
+| 4 (15)   | play a card from slot 4          | 3 players away | number on newest card
+| 5 (16)   | play a one-away card from slot 1 | 3 players away | color on newest card
+| 6 (17)   | play a one-away card from slot 2 | 4 players away | number on newest card
+| 7 (18)   | play a one-away card from slot 3 | 4 players away | color on newest card
+| 8 (19)   | play a one-away card from slot 4 | 5 players away | number on newest card
+| 9 (20)   | double chop move                 | 5 players away | color on newest card
+| 10 (21)  | chop move                        | any player     | color clue not touching the newest card
+
+<br />
+
+### White (6-Player)
+
+| # mod 11 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (11)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (12)   | play a card from slot 1          | 1 player away  | color clue not touching the newest card
+| 2 (13)   | play a card from slot 2          | 2 players away | number on newest card
+| 3 (14)   | play a card from slot 3          | 2 players away | color clue not touching the newest card
+| 4 (15)   | play a card from slot 4          | 3 players away | number on newest card
+| 5 (16)   | play a one-away card from slot 1 | 3 players away | color clue not touching the newest card
+| 6 (17)   | play a one-away card from slot 2 | 4 players away | number on newest card
+| 7 (18)   | play a one-away card from slot 3 | 4 players away | color clue not touching the newest card
+| 8 (19)   | play a one-away card from slot 4 | 5 players away | number on newest card
+| 9 (20)   | double chop move                 | 5 players away | color clue not touching the newest newest card
+| 10 (21)  | chop move                        | any player     | number clue not touching the newest card
+
+<br />
+
+### Brown / Up or Down (6-Player)
+
+| # mod 11 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (11)   | give clue / discard              | 1 player away  | number clue not touching the newest card
+| 1 (12)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (13)   | play a card from slot 2          | 2 players away | number clue not touching the newest card
+| 3 (14)   | play a card from slot 3          | 2 players away | color on newest card
+| 4 (15)   | play a card from slot 4          | 3 players away | number clue not touching the newest card
+| 5 (16)   | play a one-away card from slot 1 | 3 players away | color on newest card
+| 6 (17)   | play a one-away card from slot 2 | 4 players away | number clue not touching the newest card
+| 7 (18)   | play a one-away card from slot 3 | 4 players away | color on newest card
+| 8 (19)   | play a one-away card from slot 4 | 5 players away | number clue not touching the newest card
+| 9 (20)   | double chop move                 | 5 players away | color on newest card
+| 10 (21)  | chop move                        | any player     | color clue not touching the newest card
+
+<br />
+
+### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (6-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (12)   | play a card from slot 2          | 2 players away | number on newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | color on newest card
+| 4 (14)   | play a card from slot 4          | 3 players away | number on newest card
+| 5 (15)   | play a one-away card from slot 1 | 3 players away | color on newest card
+| 6 (16)   | play a one-away card from slot 2 | 4 players away | number on newest card
+| 7 (17)   | play a one-away card from slot 3 | 4 players away | color on newest card
+| 8 (18)   | play a one-away card from slot 4 | 5 players away | number on newest card
+| 9 (19)   | chop move                        | 5 players away | color on newest card
+
+<br />
+
+### Null / White & Brown / White & Null / Brown & Null (6-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | number clue not touching the newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | color clue not touching the newest card
+| 2 (12)   | play a card from slot 2          | 2 players away | number clue not touching the newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | color clue not touching the newest card
+| 4 (14)   | play a card from slot 4          | 3 players away | number clue not touching the newest card
+| 5 (15)   | play a one-away card from slot 1 | 3 players away | color clue not touching the newest card
+| 6 (16)   | play a one-away card from slot 2 | 4 players away | number clue not touching the newest card
+| 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue not touching the newest card
+| 8 (18)   | play a one-away card from slot 4 | 5 players away | number clue not touching the newest card
+| 9 (19)   | chop move                        | 5 players away | color clue not touching the newest card
+
+<br />
+
+### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (6-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | number clue not touching the newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | color on newest card
+| 2 (12)   | play a card from slot 2          | 2 players away | number clue not touching the newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | color on newest card
+| 4 (14)   | play a card from slot 4          | 3 players away | number clue not touching the newest card
+| 5 (15)   | play a one-away card from slot 1 | 3 players away | color on newest card
+| 6 (16)   | play a one-away card from slot 2 | 4 players away | number clue not touching the newest card
+| 7 (17)   | play a one-away card from slot 3 | 4 players away | color on newest card
+| 8 (18)   | play a one-away card from slot 4 | 5 players away | number clue not touching the newest card
+| 9 (19)   | chop move                        | 5 players away | color on newest card
+
+<br />
+
+### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (6-Player)
+
+| # mod 10 | action                           | person clued   | type of clue
+| -------- | -------------------------------- | -------------- | -------------
+| 0 (10)   | give clue / discard              | 1 player away  | number on newest card
+| 1 (11)   | play a card from slot 1          | 1 player away  | color clue not touching the newest card
+| 2 (12)   | play a card from slot 2          | 2 players away | number on newest card
+| 3 (13)   | play a card from slot 3          | 2 players away | color clue not touching the newest card
+| 4 (14)   | play a card from slot 4          | 3 players away | number on newest card
+| 5 (15)   | play a one-away card from slot 1 | 3 players away | color clue not touching the newest card
+| 6 (16)   | play a one-away card from slot 2 | 4 players away | number on newest card
+| 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue not touching the newest card
+| 8 (18)   | play a one-away card from slot 4 | 5 players away | number on newest card
+| 9 (19)   | chop move                        | 5 players away | color clue not touching the newest card
 
 <br />
