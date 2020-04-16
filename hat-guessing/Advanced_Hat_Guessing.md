@@ -22,11 +22,13 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
   2) Lowest rank
   3) Left-most
 * Playable cards and one-away cards have same priority, no one is higher than the other. However, if the clue is ambiguous, playable cards takes priority over one-away cards.
+* Players are allowed to break the priority if the action has only one interpretation to each player and no one would misplay.
 
 ### Finesse Rules
 
 * If a one-away card is finessed, then the finessed component doesn't need to follow the _Priority Rules_.
 * If two or more players have same copies of the finessed component, the finesse is on the last player who has it.
+* If the player sees their next player has both playable cards and one-away cards, and if the action is ambiguous and they don't know whether the finesse is on them or on their next player, they should assume it is on next player.
 
 ### Chop Move Rules
 
