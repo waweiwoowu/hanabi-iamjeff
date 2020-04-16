@@ -59,10 +59,10 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color) / [Extremely Ambiguous](#extremely-ambiguous) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color)
 * [Color Blind](#color-blind) / [Number Blind](#number-blind) / [Totally Blind](#totally-blind) / [Color Mute](#color-mute--number-mute--alternating-clues--duck) / [Number Mute](#color-mute--number-mute--alternating-clues--duck)
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck)
-* Clue Starved (Currently unavailable)
+* Clue Starved _(Currently Unavailable)_
 * [Up or Down](#white--brown--up-or-down)
 * [Cow & Pig](#no-variant--cow--pig) / [Duck](#color-mute--number-mute--alternating-clues--duck)
-* Throw It in a Hole (Currently unavailable)
+* Throw It in a Hole _(Currently Unavailable)_
 
 <br />
 
