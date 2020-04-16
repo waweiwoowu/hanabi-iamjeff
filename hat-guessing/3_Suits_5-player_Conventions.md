@@ -77,10 +77,10 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | number clue
 | 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | color clue
 | 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | number clue
-| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | color clue
-| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | number clue
-| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | color clue
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only newest card<br />any clue touching only oldest card
+| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 1) | 3 players away | color clue
+| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | number clue
+| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | color clue
+| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 4) | any player     | any clue touching only newest card<br />any clue touching only oldest card
 
 <br />
 
@@ -99,13 +99,13 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 6 (22)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 3)     | 2 players away | number not on newest card
 | 7 (23)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 4)     | 2 players away | color not on newest card
 | 8 (24)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 3)     | 3 players away | number on newest card
-| 9 (25)   | (N/A)                                   | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 4)     | 3 players away | color on newest card
-| 10 (26)  | (N/A)                                   | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 1)     | 3 players away | number not on newest card
-| 11 (27)  | (N/A)                                   | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 4)     | 3 players away | color not on newest card
+| 9 (25)   | play a one-away card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 4)     | 3 players away | color on newest card
+| 10 (26)  | play a one-away card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 1)     | 3 players away | number not on newest card
+| 11 (27)  | play a one-away card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 4)     | 3 players away | color not on newest card
 | 12 (28)  | play a one-away card<br />(from slot 4) | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 1)     | 4 players away | number on newest card
-| 13 (29)  | play a one-away card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 2)     | 4 players away | color on newest card
-| 14 (30)  | play a one-away card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 1)     | 4 players away | number not on newest card
-| 15 (31)  | play a one-away card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point not on slot 1) | 4 players away | color not on newest card
+| 13 (29)  | (N/A)                                   | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 2)     | 4 players away | color on newest card
+| 14 (30)  | (N/A)                                   | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 1)     | 4 players away | number not on newest card
+| 15 (31)  | (N/A)                                   | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point not on slot 1) | 4 players away | color not on newest card
 
 <br />
 
@@ -118,13 +118,13 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (14)   | play a card (from slot 2)               | a useful card (on slot 2)                                 | 1 player away  | any clue not on newest card
 | 3 (15)   | play a card (from slot 3)               | a useful card (on slot 3)                                 | 2 players away | number on newest card
 | 4 (16)   | play a card (from slot 4)               | a useful card (on slot 4)                                 | 2 players away | color on newest card
-| 5 (17)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 1) | 2 players away | any clue not on newest card
-| 6 (18)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 2) | 3 players away | number on newest card
-| 7 (19)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 3) | 3 players away | color on newest card
+| 5 (17)   | play a one-away card<br />(from slot 1) | two useful cards <br />(lowest-point on slot 1)           | 2 players away | any clue not on newest card
+| 6 (18)   | play a one-away card<br />(from slot 2) | two useful cards <br />(lowest-point on slot 2)           | 3 players away | number on newest card
+| 7 (19)   | play a one-away card<br />(from slot 3) | two useful cards <br />(lowest-point on slot 3)           | 3 players away | color on newest card
 | 8 (20)   | play a one-away card<br />(from slot 4) | *two or more useful cards <br />(lowest-point on slot 4)  | 3 players away | any clue not on newest card
-| 9 (21)   | play a one-away card<br />(from slot 3) | two useful cards <br />(lowest-point on slot 3)           | 4 players away | number on newest card
-| 10 (22)  | play a one-away card<br />(from slot 2) | two useful cards <br />(lowest-point on slot 2)           | 4 players away | color on newest card
-| 11 (23)  | play a one-away card<br />(from slot 1) | two useful cards <br />(lowest-point on slot 1)           | 4 players away | any clue not on newest card
+| 9 (21)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 3) | 4 players away | number on newest card
+| 10 (22)  | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 2) | 4 players away | color on newest card
+| 11 (23)  | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 1) | 4 players away | any clue not on newest card
 
 <br />
 
@@ -137,13 +137,13 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (14)   | play a card (from slot 2)               | a useful card (on slot 2)                                 | 1 player away  | color clue not on newest card
 | 3 (15)   | play a card (from slot 3)               | a useful card (on slot 3)                                 | 2 players away | any clue on newest card
 | 4 (16)   | play a card (from slot 4)               | a useful card (on slot 4)                                 | 2 players away | number clue not on newest card
-| 5 (17)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 1) | 2 players away | color clue not on newest card
-| 6 (18)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 2) | 3 players away | any clue on newest card
-| 7 (19)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 3) | 3 players away | number clue not on newest card
+| 5 (17)   | play a one-away card<br />(from slot 1) | two useful cards <br />(lowest-point on slot 1)           | 2 players away | color clue not on newest card
+| 6 (18)   | play a one-away card<br />(from slot 2) | two useful cards <br />(lowest-point on slot 2)           | 3 players away | any clue on newest card
+| 7 (19)   | play a one-away card<br />(from slot 3) | two useful cards <br />(lowest-point on slot 3)           | 3 players away | number clue not on newest card
 | 8 (20)   | play a one-away card<br />(from slot 4) | *two or more useful cards <br />(lowest-point on slot 4)  | 3 players away | color clue not on newest card
-| 9 (21)   | play a one-away card<br />(from slot 3) | two useful cards <br />(lowest-point on slot 3)           | 4 players away | any clue on newest card
-| 10 (22)  | play a one-away card<br />(from slot 2) | two useful cards <br />(lowest-point on slot 2)           | 4 players away | number clue not on newest card
-| 11 (23)  | play a one-away card<br />(from slot 1) | two useful cards <br />(lowest-point on slot 1)           | 4 players away | color clue not on newest card
+| 9 (21)   | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue on newest card
+| 10 (22)  | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 2) | 4 players away | number clue not on newest card
+| 11 (23)  | (N/A)                                   | three or more useful cards <br />(lowest-point on slot 1) | 4 players away | color clue not on newest card
 
 <br />
 
@@ -156,10 +156,10 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | number clue on newest card
 | 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | color clue on newest card
 | 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | number clue on newest card
-| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | color clue on newest card
-| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | number clue on newest card
-| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | color clue on newest card
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue not on newest card
+| 5 (14)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | 3 players away | color clue on newest card
+| 6 (15)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | number clue on newest card
+| 7 (16)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | color clue on newest card
+| 8 (17)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | any player     | any clue not on newest card
 
 <br />
 
@@ -172,10 +172,10 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | number clue not on newest card
 | 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | color clue not on newest card
 | 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | number clue not on newest card
-| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | color clue not on newest card
-| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | number clue not on newest card
-| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | color clue not on newest card
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue on newest card
+| 5 (14)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | 3 players away | color clue not on newest card
+| 6 (15)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | number clue not on newest card
+| 7 (16)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | color clue not on newest card
+| 8 (17)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | any player     | any clue on newest card
 
 <br />
 
@@ -188,10 +188,10 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | number clue not on newest card
 | 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | color clue on newest card
 | 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | number clue not on newest card
-| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | color clue on newest card
-| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | number clue not on newest card
-| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | color clue on newest card
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | number clue on newest card<br />color clue not on newest card
+| 5 (14)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | 3 players away | color clue on newest card
+| 6 (15)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | number clue not on newest card
+| 7 (16)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | color clue on newest card
+| 8 (17)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | any player     | number clue on newest card<br />color clue not on newest card
 
 <br />
 
@@ -204,10 +204,10 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | number clue on newest card
 | 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | color clue not on newest card
 | 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | number clue on newest card
-| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | color clue not on newest card
-| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | number clue on newest card
-| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | color clue not on newest card
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | number clue not on newest card<br />color clue on newest card
+| 5 (14)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | 3 players away | color clue not on newest card
+| 6 (15)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | number clue on newest card
+| 7 (16)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | color clue not on newest card
+| 8 (17)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | any player     | number clue not on newest card<br />color clue on newest card
 
 <br />
 
@@ -220,13 +220,13 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (14)   | play a card (from slot 2)               | a useful card (on slot 2)                                | 1 player away  | color clue
 | 3 (15)   | play a card (from slot 3)               | a useful card (on slot 3)                                | 2 players away | number clue on newest card
 | 4 (16)   | play a card (from slot 4)               | a useful card (on slot 4)                                | 2 players away | number clue not on newest card
-| 5 (17)   | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 1) | 2 players away | color clue
-| 6 (18)   | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 2) | 3 players away | number clue on newest card
-| 7 (19)   | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 3) | 3 players away | number clue not on newest card
+| 5 (17)   | play a one-away card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 1)           | 2 players away | color clue
+| 6 (18)   | play a one-away card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 2)           | 3 players away | number clue on newest card
+| 7 (19)   | play a one-away card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 3)           | 3 players away | number clue not on newest card
 | 8 (20)   | play a one-away card<br />(from slot 4) | *two or more useful cards<br />(lowest-point on slot 4)  | 3 players away | color clue
-| 9 (21)   | play a one-away card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 3)           | 4 players away | number clue on newest card
-| 10 (22)  | play a one-away card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 2)           | 4 players away | number clue not on newest card
-| 11 (23)  | play a one-away card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 1)           | 4 players away | color clue
+| 9 (21)   | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 3) | 4 players away | number clue on newest card
+| 10 (22)  | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 2) | 4 players away | number clue not on newest card
+| 11 (23)  | (N/A)                                   | three or more useful cards<br />(lowest-point on slot 1) | 4 players away | color clue
 
 <br />
 
@@ -241,23 +241,23 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 0 (20)   | give clue                                  | no useful card                                                                 | 1 player away  | number clue on newest card
 | 1 (21)   | play a card (from slot 1)                  | a useful card (on slot 1)                                                      | 1 player away  | number clue not on newest card
 | 2 (22)   | play a card (from slot 2)                  | a useful card (on slot 2)                                                      | 1 player away  | red clue
-| 3 (23)   | play a card (from slot 2)                  | a useful card (on slot 3)                                                      | 1 player away  | grenn clue
-| 4 (24)   | play a card (from slot 2)                  | a useful card (on slot 4)                                                      | 1 player away  | blue clue
+| 3 (23)   | play a card (from slot 3)                  | a useful card (on slot 3)                                                      | 1 player away  | grenn clue
+| 4 (24)   | play a card (from slot 4)                  | a useful card (on slot 4)                                                      | 1 player away  | blue clue
 | 5 (25)   | (N/A)                                      | a red card                                                                     | 2 players away | number clue on newest card
 | 6 (26)   | (N/A)                                      | a green card                                                                   | 2 players away | number clue not on newest card
 | 7 (27)   | (N/A)                                      | a blue card                                                                    | 2 players away | red clue
 | 8 (28)   | (N/A)                                      | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 2) | 2 players away | green clue
-| 9 (29)   | play a 2nd-priorty card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 3) | 2 players away | blue clue
-| 10 (30)  | play a 2nd-priorty card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 4) | 3 players away | number clue on newest card
-| 11 (31)  | play a 2nd-priorty card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 3) | 3 players away | number clue not on newest card
-| 12 (32)  | play a 2nd-priorty card<br />(from slot 4) | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 4) | 3 players away | red clue
+| 9 (29)   | play a one-away card<br />(from slot 1)    | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 3) | 2 players away | blue clue
+| 10 (30)  | play a one-away card<br />(from slot 2)    | two useful cards<br />(lowest-point on slot 1)<br /> (highest-point on slot 4) | 3 players away | number clue on newest card
+| 11 (31)  | play a one-away card<br />(from slot 3)    | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 3) | 3 players away | number clue not on newest card
+| 12 (32)  | play a one-away card<br />(from slot 4)    | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 4) | 3 players away | red clue
 | 13 (33)  | (N/A)                                      | two useful cards<br />(lowest-point on slot 2)<br /> (highest-point on slot 1) | 3 players away | green clue
 | 14 (34)  | (N/A)                                      | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 4) | 3 players away | blue clue
 | 15 (35)  | (N/A)                                      | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 1) | 4 players away | number clue on newest card
-| 16 (36)  | play a one-away card<br />(from slot 4)    | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 2) | 4 players away | number clue not on newest card
-| 17 (37)  | play a one-away card<br />(from slot 3)    | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 1) | 4 players away | red clue
-| 18 (38)  | play a one-away card<br />(from slot 2)    | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 2) | 4 players away | green clue
-| 19 (39)  | play a one-away card<br />(from slot 1)    | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 3) | 4 players away | blue clue
+| 16 (36)  | play a 2nd-priorty card<br />(from slot 4) | two useful cards<br />(lowest-point on slot 3)<br /> (highest-point on slot 2) | 4 players away | number clue not on newest card
+| 17 (37)  | play a 2nd-priorty card<br />(from slot 3) | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 1) | 4 players away | red clue
+| 18 (38)  | play a 2nd-priorty card<br />(from slot 2) | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 2) | 4 players away | green clue
+| 19 (39)  | play a 2nd-priorty card<br />(from slot 1) | two useful cards<br />(lowest-point on slot 4)<br /> (highest-point on slot 3) | 4 players away | blue clue
 
 <br />
 
@@ -267,36 +267,36 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 * `play a one-away card (2nd-priorty)` means that player plays a one-away card which has 2nd priorty.
 * If a player has three or more useful cards, only count the cards with highest and lowest points while giving a clue.
 
-| # mod 28 | action                                              | information                                                        | person clued   | type of clue
-| -------- | --------------------------------------------------- | ------------------------------------------------------------------ | -------------- | -------------
-| 0 (28)   | give clue                                           | no useful card                                                     | 1 player away  | color clue on newest card
-| 1 (29)   | play a card (from slot 1)                           | a useful card (red on slot 1)                                      | 1 player away  | color clue not on newest card
-| 2 (30)   | play a card (from slot 2)                           | a useful card (red on slot 2)                                      | 1 player away  | 1 clue
-| 3 (31)   | play a card (from slot 2)                           | a useful card (red on slot 3)                                      | 1 player away  | 2 clue
-| 4 (32)   | play a card (from slot 2)                           | a useful card (red on slot 4)                                      | 1 player away  | 3 clue
-| 5 (33)   | (N/A)                                               | a useful card (green on slot 1)                                    | 1 player away  | 4 clue
-| 6 (34)   | (N/A)                                               | a useful card (green on slot 2)                                    | 1 player away  | 5 clue
-| 7 (35)   | (N/A)                                               | a useful card (green on slot 3)                                    | 2 players away | color clue on newest card
-| 8 (36)   | (N/A)                                               | a useful card (green on slot 4)                                    | 2 players away | color clue not on newest card
-| 9 (37)   | play a one-away card<br />(2nd-priorty from slot 4) | a useful card (blue on slot 1)                                     | 2 players away | 1 clue
-| 10 (38)  | play a one-away card<br />(2nd-priorty from slot 3) | a useful card (blue on slot 2)                                     | 2 players away | 2 clue
-| 11 (39)  | play a one-away card<br />(2nd-priorty from slot 2) | a useful card (blue on slot 3)                                     | 2 players away | 3 clue
-| 12 (40)  | play a one-away card<br />(2nd-priorty from slot 1) | a useful card (blue on slot 4)                                     | 2 players away | 4 clue
-| 13 (41)  | (N/A)                                               | two useful cards<br />(blue on slot 4)                             | 2 players away | 5 clue
-| 14 (42)  | (N/A)                                               | two useful cards<br />(blue on slot 3)                             | 3 players away | color clue on newest card
-| 15 (43)  | (N/A)                                               | two useful cards<br />(blue on slot 2)                             | 3 players away | color clue not on newest card
-| 16 (44)  | (N/A)                                               | two useful cards<br />(blue on slot 1)                             | 3 players away | 1 clue
-| 17 (45)  | play a card<br />(2nd-priorty from slot 1)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 2)  | 3 players away | 2 clue
-| 18 (46)  | play a card<br />(2nd-priorty from slot 2)          | two useful cards<br />(green on slot 4)                            | 3 players away | 3 clue
-| 19 (47)  | play a card<br />(2nd-priorty from slot 3)          | two useful cards<br />(green on slot 3)                            | 3 players away | 4 clue
-| 20 (48)  | play a card<br />(2nd-priorty from slot 4)          | two useful cards<br />(green on slot 2)                            | 3 players away | 5 clue
-| 21 (49)  | (N/A)                                               | two useful cards<br />(green on slot 1)                            | 4 players away | color clue on newest card
-| 22 (50)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 2) | 4 players away | color clue not on newest card
-| 23 (51)  | (N/A)                                               | two useful cards<br />(red on slot 4)                              | 4 players away | 1 clue
-| 24 (52)  | play a one-away card<br />(from slot 4)             | two useful cards<br />(red on slot 3)                              | 4 players away | 2 clue
-| 25 (53)  | play a one-away card<br />(from slot 3)             | two useful cards<br />(red on slot 2)                              | 4 players away | 3 clue
-| 26 (54)  | play a one-away card<br />(from slot 2)             | two useful cards<br />(red on slot 1)                              | 4 players away | 4 clue
-| 27 (55)  | play a one-away card<br />(from slot 1)             | two useful cards<br />(red on slot 1)<br />(the other on slot 2)   | 4 players away | 5 clue
+| # mod 28 | action                                              | information                                                             | person clued   | type of clue
+| -------- | --------------------------------------------------- | ----------------------------------------------------------------------- | -------------- | -------------
+| 0 (28)   | give clue                                           | no useful card                                                          | 1 player away  | color clue on newest card
+| 1 (29)   | play a card (from slot 1)                           | a useful card (red on slot 1)                                           | 1 player away  | color clue not on newest card
+| 2 (30)   | play a card (from slot 2)                           | a useful card (red on slot 2)                                           | 1 player away  | 1 clue
+| 3 (31)   | play a card (from slot 3)                           | a useful card (red on slot 3)                                           | 1 player away  | 2 clue
+| 4 (32)   | play a card (from slot 4)                           | a useful card (red on slot 4)                                           | 1 player away  | 3 clue
+| 5 (33)   | (N/A)                                               | a useful card (green on slot 1)                                         | 1 player away  | 4 clue
+| 6 (34)   | (N/A)                                               | a useful card (green on slot 2)                                         | 1 player away  | 5 clue
+| 7 (35)   | (N/A)                                               | a useful card (green on slot 3)                                         | 2 players away | color clue on newest card
+| 8 (36)   | (N/A)                                               | a useful card (green on slot 4)                                         | 2 players away | color clue not on newest card
+| 9 (37)   | play a one-away card<br />(from slot 1)             | a useful card (blue on slot 1)                                          | 2 players away | 1 clue
+| 10 (38)  | play a one-away card<br />(from slot 2)             | a useful card (blue on slot 2)                                          | 2 players away | 2 clue
+| 11 (39)  | play a one-away card<br />(from slot 3)             | a useful card (blue on slot 3)                                          | 2 players away | 3 clue
+| 12 (40)  | play a one-away card<br />(from slot 4)             | a useful card (blue on slot 4)                                          | 2 players away | 4 clue
+| 13 (41)  | (N/A)                                               | two useful cards<br />(red on slot 1)<br />(the other on slot 2)        | 2 players away | 5 clue
+| 14 (42)  | (N/A)                                               | two useful cards<br />(red on slot 1)<br />(the other on slot 3 or 4)   | 3 players away | color clue on newest card
+| 15 (43)  | (N/A)                                               | two useful cards<br />(red on slot 2)                                   | 3 players away | color clue not on newest card
+| 16 (44)  | (N/A)                                               | two useful cards<br />(red on slot 3)                                   | 3 players away | 1 clue
+| 17 (45)  | play a one-away card<br />(2nd-priorty from slot 4) | two useful cards<br />(red on slot 4)                                   | 3 players away | 2 clue
+| 18 (46)  | play a one-away card<br />(2nd-priorty from slot 3) | two useful cards<br />(green on slot 1)<br />(the other on slot 2)      | 3 players away | 3 clue
+| 19 (47)  | play a one-away card<br />(2nd-priorty from slot 2) | two useful cards<br />(green on slot 1)<br />(the other on slot 3 or 4) | 3 players away | 4 clue
+| 20 (48)  | play a one-away card<br />(2nd-priorty from slot 1) | two useful cards<br />(green on slot 2)                                 | 3 players away | 5 clue
+| 21 (49)  | (N/A)                                               | two useful cards<br />(green on slot 3)                                 | 4 players away | color clue on newest card
+| 22 (50)  | (N/A)                                               | two useful cards<br />(green on slot 4)                                 | 4 players away | color clue not on newest card
+| 23 (51)  | (N/A)                                               | two useful cards<br />(blue on slot 1)<br />(the other on slot 2)       | 4 players away | 1 clue
+| 24 (52)  | play a card<br />(2nd-priorty from slot 4)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 3 or 4)  | 4 players away | 2 clue
+| 25 (53)  | play a card<br />(2nd-priorty from slot 3)          | two useful cards<br />(blue on slot 2)                                  | 4 players away | 3 clue
+| 26 (54)  | play a card<br />(2nd-priorty from slot 2)          | two useful cards<br />(blue on slot 3)                                  | 4 players away | 4 clue
+| 27 (55)  | play a card<br />(2nd-priorty from slot 1)          | two useful cards<br />(blue on slot 4)                                  | 4 players away | 5 clue
 
 <br />
 
@@ -317,29 +317,29 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 6 (38)   | (N/A)                                               | a useful card (green on slot 2)                                    | 1 player away  | 4 clue
 | 7 (39)   | (N/A)                                               | a useful card (green on slot 3)                                    | 1 player away  | 5 clue
 | 8 (40)   | (N/A)                                               | a useful card (green on slot 4)                                    | 2 players away | red clue
-| 9 (41)   | play a one-away card<br />(2nd-priorty from slot 4) | a useful card (blue on slot 1)                                     | 2 players away | green clue
-| 10 (42)  | play a one-away card<br />(2nd-priorty from slot 3) | a useful card (blue on slot 2)                                     | 2 players away | blue clue
-| 11 (43)  | play a one-away card<br />(2nd-priorty from slot 2) | a useful card (blue on slot 3)                                     | 2 players away | 1 clue
-| 12 (44)  | play a one-away card<br />(2nd-priorty from slot 1) | a useful card (blue on slot 4)                                     | 2 players away | 2 clue
-| 13 (45)  | (N/A)                                               | (N/A)                                                              | 2 players away | 3 clue
-| 14 (46)  | (N/A)                                               | two useful cards<br />(blue on slot 4)                             | 2 players away | 4 clue
-| 15 (47)  | (N/A)                                               | two useful cards<br />(blue on slot 3)                             | 2 players away | 5 clue
-| 16 (48)  | (N/A)                                               | two useful cards<br />(blue on slot 2)                             | 3 players away | red clue
-| 17 (49)  | play a card<br />(2nd-priorty from slot 1)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 4)  | 3 players away | green clue
-| 18 (50)  | play a card<br />(2nd-priorty from slot 2)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 3)  | 3 players away | blue clue
-| 19 (51)  | play a card<br />(2nd-priorty from slot 3)          | two useful cards<br />(blue on slot 1)<br />(the other on slot 2)  | 3 players away | 1 clue
-| 20 (52)  | play a card<br />(2nd-priorty from slot 4)          | two useful cards<br />(green on slot 4)                            | 3 players away | 2 clue
-| 21 (53)  | (N/A)                                               | two useful cards<br />(green on slot 3)                            | 3 players away | 3 clue
+| 9 (41)   | play a one-away card<br />(1st-priorty from slot 1) | a useful card (blue on slot 1)                                     | 2 players away | green clue
+| 10 (42)  | play a one-away card<br />(1st-priorty from slot 2) | a useful card (blue on slot 2)                                     | 2 players away | blue clue
+| 11 (43)  | play a one-away card<br />(1st-priorty from slot 3) | a useful card (blue on slot 3)                                     | 2 players away | 1 clue
+| 12 (44)  | play a one-away card<br />(1st-priorty from slot 4) | a useful card (blue on slot 4)                                     | 2 players away | 2 clue
+| 13 (45)  | (N/A)                                               | two useful cards<br />(red on slot 1)<br />(the other on slot 2)   | 2 players away | 3 clue
+| 14 (46)  | (N/A)                                               | two useful cards<br />(red on slot 1)<br />(the other on slot 3)   | 2 players away | 4 clue
+| 15 (47)  | (N/A)                                               | two useful cards<br />(red on slot 1)<br />(the other on slot 4)   | 2 players away | 5 clue
+| 16 (48)  | (N/A)                                               | two useful cards<br />(red on slot 2)                              | 3 players away | red clue
+| 17 (49)  | play a one-away card<br />(2nd-priorty from slot 4) | two useful cards<br />(red on slot 3)                              | 3 players away | green clue
+| 18 (50)  | play a one-away card<br />(2nd-priorty from slot 3) | two useful cards<br />(red on slot 4)                              | 3 players away | blue clue
+| 19 (51)  | play a one-away card<br />(2nd-priorty from slot 2) | two useful cards<br />(green on slot 1)<br />(the other on slot 2) | 3 players away | 1 clue
+| 20 (52)  | play a one-away card<br />(2nd-priorty from slot 1) | two useful cards<br />(green on slot 1)<br />(the other on slot 3) | 3 players away | 2 clue
+| 21 (53)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 4) | 3 players away | 3 clue
 | 22 (54)  | (N/A)                                               | two useful cards<br />(green on slot 2)                            | 3 players away | 4 clue
-| 23 (55)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 4) | 3 players away | 5 clue
-| 24 (56)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 3) | 4 players away | red clue
-| 25 (57)  | (N/A)                                               | two useful cards<br />(green on slot 1)<br />(the other on slot 2) | 4 players away | green clue
-| 26 (58)  | (N/A)                                               | two useful cards<br />(red on slot 4)                              | 4 players away | blue clue
-| 27 (59)  | (N/A)                                               | two useful cards<br />(red on slot 3)                              | 4 players away | 1 clue
-| 28 (60)  | play a one-away card<br />(1st-priorty from slot 4) | two useful cards<br />(red on slot 2)                              | 4 players away | 2 clue
-| 29 (61)  | play a one-away card<br />(1st-priorty from slot 3) | two useful cards<br />(red on slot 1)<br />(the other on slot 4)   | 4 players away | 3 clue
-| 30 (62)  | play a one-away card<br />(1st-priorty from slot 2) | two useful cards<br />(red on slot 1)<br />(the other on slot 3)   | 4 players away | 4 clue
-| 31 (63)  | play a one-away card<br />(1st-priorty from slot 1) | two useful cards<br />(red on slot 1)<br />(the other on slot 2)   | 4 players away | 5 clue
+| 23 (55)  | (N/A)                                               | two useful cards<br />(green on slot 3)                            | 3 players away | 5 clue
+| 24 (56)  | (N/A)                                               | two useful cards<br />(green on slot 4)                            | 4 players away | red clue
+| 25 (57)  | (N/A)                                               | two useful cards<br />(blue on slot 1)<br />(the other on slot 2)  | 4 players away | green clue
+| 26 (58)  | (N/A)                                               | two useful cards<br />(blue on slot 1)<br />(the other on slot 3)  | 4 players away | blue clue
+| 27 (59)  | (N/A)                                               | two useful cards<br />(blue on slot 1)<br />(the other on slot 4)  | 4 players away | 1 clue
+| 28 (60)  | play a card<br />(2nd-priorty from slot 4)          | two useful cards<br />(blue on slot 2)                             | 4 players away | 2 clue
+| 29 (61)  | play a card<br />(2nd-priorty from slot 3)          | two useful cards<br />(blue on slot 3)                             | 4 players away | 3 clue
+| 30 (62)  | play a card<br />(2nd-priorty from slot 2)          | two useful cards<br />(blue on slot 4)                             | 4 players away | 4 clue
+| 31 (63)  | play a card<br />(2nd-priorty from slot 1)          | (N/A)                                                              | 4 players away | 5 clue
 
 <br />
 
@@ -352,9 +352,9 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 | 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | any clue on newest card
 | 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 2 players away | any clue not touching the newest card
 | 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 3 players away | any clue on newest card
-| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | 3 players away | any clue not touching the newest card
-| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue on newest card
-| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | any clue not touching the newest card
-| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | any player     | any clue touching only oldest card
+| 5 (14)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 1) | 3 players away | any clue not touching the newest card
+| 6 (15)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | any clue on newest card
+| 7 (16)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue not touching the newest card
+| 8 (17)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | any player     | any clue touching only oldest card
 
 <br />
