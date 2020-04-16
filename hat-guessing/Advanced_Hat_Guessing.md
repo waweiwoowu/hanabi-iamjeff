@@ -39,9 +39,33 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
+## Find Tables
+
+* [4-player](#clue-interpretation-tables-4-player)
+* [5-player](#clue-interpretation-tables-5-player)
+* [6-player](#clue-interpretation-tables-6-player)
+
+
 ## Clue Interpretation Tables (4-player)
 
-* You can play a No Variant game with any variant-specific table.
+### Standard
+| Touched by         | No color clues                  | Own color clue                                                     | All color clues                                                                    |
+| ------------------ | ------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| No rank clues      | Null (Dark Null)                | [Brown](#brown--up-or-down-4-player) (Dark Brown)                  | Muddy Rainbow (Cocoa Rainbow)                                                      |
+| Own rank clue      | [White](#white-4-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-4-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) (Dark Rainbow) |
+| All rank clues     | Light Pink (Gray Pink)          | [Pink](#pink-4-player) (Dark Pink)                                 | Omni (Dark Omni)                                                                   |
+
+
+### Special
+* [Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) / [Very Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) / Extremely Ambiguous / [Dual-Color](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)
+* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
+* Alternating Clues
+* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player)
+* [Up or Down](#brown--up-or-down-4-player)
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player) / Duck
+* Throw It in a Hole
+
+<br />
 
 ### No Variant / Clue Starved / Cow & Pig (4-Player)
 
@@ -57,8 +81,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (19)   | play a one-away card from slot 3 | 2 players away | color clue not touching the newest card
 | 8 (20)   | play a one-away card from slot 4 | 3 players away | number on newest card
 | 9 (21)   | triple chop move                 | 3 players away | color on newest card
-| 10(22)   | double chop move                 | 3 players away | number clue not touching the newest card
-| 11(23)   | chop move                        | 3 players away | color clue not touching the newest card
+| 10 (22)  | double chop move                 | 3 players away | number clue not touching the newest card
+| 11 (23)  | chop move                        | 3 players away | color clue not touching the newest card
 
 <br />
 
@@ -133,7 +157,25 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 ## Clue Interpretation Tables (5-player)
 
 * 3 Suits 5-player Conventions: [see here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-player_Conventions.md).
-* You can play a No Variant game with any variant-specific table.
+
+### Standard
+| Touched by         | No color clues                                                                                   | Own color clue                                                                     | All color clues                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null--white--brown--white--null--brown--null-5-player) (Dark Null)                       | [Brown](#white--brown--up-or-down-5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player) (Cocoa Rainbow) |
+| Own rank clue      | [White](#white--brown--up-or-down-5-player) (Gray)                                               | [No Variant](#no-variant--clue-starved--cow--pig-5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Rainbow)                               |
+| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-5-player) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-5-player) (Dark Omni)                                           |
+
+
+### Special
+* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / Extremely Ambiguous / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)
+* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
+* Alternating Clues
+* [Clue Starved](#no-variant--clue-starved--cow--pig-5-player)
+* [Up or Down](#white--brown--up-or-down-5-player)
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-5-player) / Duck
+* Throw It in a Hole
+
+<br />
 
 ### No Variant / Clue Starved / Cow & Pig (5-Player)
 
@@ -149,12 +191,12 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (23)   | (N/A)                            | 2 players away | color clue not touching the newest card
 | 8 (24)   | (N/A)                            | 3 players away | number on newest card
 | 9 (25)   | play a one-away card from slot 1 | 3 players away | color on newest card
-| 10(26)   | play a one-away card from slot 2 | 3 players away | number clue not touching the newest card
-| 11(27)   | play a one-away card from slot 3 | 3 players away | color clue not touching the newest card
-| 12(28)   | play a one-away card from slot 4 | 4 players away | number on newest card
-| 13(29)   | triple chop move                 | 4 players away | color on newest card
-| 14(30)   | double chop move                 | 4 players away | number clue not touching the newest card
-| 15(31)   | chop move                        | 4 players away | color clue not touching the newest card
+| 10 (26)  | play a one-away card from slot 2 | 3 players away | number clue not touching the newest card
+| 11 (27)  | play a one-away card from slot 3 | 3 players away | color clue not touching the newest card
+| 12 (28)  | play a one-away card from slot 4 | 4 players away | number on newest card
+| 13 (29)  | triple chop move                 | 4 players away | color on newest card
+| 14 (30)  | double chop move                 | 4 players away | number clue not touching the newest card
+| 15 (31)  | chop move                        | 4 players away | color clue not touching the newest card
 
 <br />
 
@@ -172,8 +214,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (19)   | play a one-away card from slot 3 | 3 players away | color on newest card
 | 8 (20)   | play a one-away card from slot 4 | 3 players away | any clue not touching the newest card
 | 9 (21)   | triple chop move                 | 4 players away | number on newest card
-| 10(22)   | double chop move                 | 4 players away | color on newest card
-| 11(23)   | chop move                        | 4 players away | any clue not touching the newest card
+| 10 (22)  | double chop move                 | 4 players away | color on newest card
+| 11 (23)  | chop move                        | 4 players away | any clue not touching the newest card
 
 <br />
 
@@ -191,8 +233,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (19)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
 | 8 (20)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (21)   | triple chop move                 | 4 players away | any clue on newest card
-| 10(22)   | double chop move                 | 4 players away | number clue not touching the newest card
-| 11(23)   | chop move                        | 4 players away | color clue not touching the newest card
+| 10 (22)  | double chop move                 | 4 players away | number clue not touching the newest card
+| 11 (23)  | chop move                        | 4 players away | color clue not touching the newest card
 
 <br />
 
@@ -261,5 +303,28 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue not touching the newest card
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
+
+<br />
+
+## Clue Interpretation Tables (6-player)
+
+* _Currently unavailable_
+
+### Standard
+| Touched by         | No color clues         | Own color clue      | All color clues               |
+| ------------------ | ---------------------- | ------------------- | ----------------------------- |
+| No rank clues      | Null (Dark Null)       | Brown] (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
+| Own rank clue      | White (Gray)           | No Variant (Black)  | Rainbow (Dark Rainbow)        |
+| All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)    | Omni (Dark Omni)              |
+
+
+### Special
+* Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
+* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
+* Alternating Clues
+* Clue Starved
+* Up or Down
+* Cow & Pig / Duck
+* Throw It in a Hole
 
 <br />
