@@ -45,15 +45,24 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 * [Clue Interpretation Tables (5-player)](#clue-interpretation-tables-5-player)
 * [Clue Interpretation Tables (6-player)](#clue-interpretation-tables-6-player)
 
+### Use Same Tables
+* No Variant = Clue Starved = Cow & Pig
+* Rainbow = Ambiguous = Very Ambiguous = Dual-Color
+* Brown = Up or Down
+* Omni = Rainbow & Pink = Rainbow & Omni = Pink & Omni
+* Null = White & Brown = White & Null = Brown & Null
+* Muddy Rainbow = Rainbow & Brown = Rainbow & Muddy Rainbow = Brown & Muddy Rainbow
+* Light Pink = Pink & White = Pink & Light Pink = White & Light Pink
+* Special Suit = Special-Ones = Special-Fives, e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.
 
 ## Clue Interpretation Tables (4-player)
 
 ### Standard
-| Touched by         | No color clues                                                                                   | Own color clue                                                     | All color clues                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null-4-player) (Dark Null)                       | [Brown](#brown--up-or-down-4-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-4-player) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white-4-player) (Gray)                                                                  | [No Variant](#no-variant--clue-starved--cow--pig-4-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) (Dark Rainbow)                                     |
-| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-4-player) (Gray Pink) | [Pink](#pink-4-player) (Dark Pink)                                 | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-4-player) (Dark Omni)                                           |
+| Touched by         | No color clues                                 | Own color clue                                                     | All color clues                                                                    |
+| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null-4-player) (Dark Null)             | [Brown](#brown--up-or-down-4-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow-4-player) (Cocoa Rainbow)                           |
+| Own rank clue      | [White](#white-4-player) (Gray)                | [No Variant](#no-variant--clue-starved--cow--pig-4-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) (Dark Rainbow) |
+| All rank clues     | [Light Pink](#light-pink-4-player) (Gray Pink) | [Pink](#pink-4-player) (Dark Pink)                                 | [Omni](#omni-4-player) (Dark Omni)                                                 |
 
 ### Special
 * [Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) / [Very Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player) / [Dual-Color](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)
@@ -153,7 +162,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (4-Player)
+### Omni (4-Player)
 
 | # mod 8 | action                           | person clued   | type of clue
 | ------- | -------------------------------- | -------------- | -------------
@@ -168,7 +177,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Null / White & Brown / White & Null / Brown & Null (4-Player)
+### Null (4-Player)
 
 | # mod 8 | action                           | person clued   | type of clue
 | ------- | -------------------------------- | -------------- | -------------
@@ -183,7 +192,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (4-Player)
+### Muddy Rainbow (4-Player)
 
 | # mod 8 | action                           | person clued   | type of clue
 | ------- | -------------------------------- | -------------- | -------------
@@ -198,7 +207,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (4-Player)
+### Light Pink (4-Player)
 
 | # mod 8 | action                           | person clued   | type of clue
 | ------- | -------------------------------- | -------------- | -------------
@@ -234,11 +243,11 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 * 3 Suits 5-player Conventions: [See here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-player_Conventions.md).
 
 ### Standard
-| Touched by         | No color clues                                                                                   | Own color clue                                                                     | All color clues                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null-5-player) (Dark Null)                       | [Brown](#white--brown--up-or-down-5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down-5-player) (Gray)                                               | [No Variant](#no-variant--clue-starved--cow--pig-5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Rainbow)                               |
-| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-5-player) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-5-player) (Dark Omni)                                           |
+| Touched by         | No color clues                                     | Own color clue                                                                     | All color clues                                                                          |
+| ------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null-5-player) (Dark Null)                 | [Brown](#white--brown--up-or-down-5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow-5-player) (Cocoa Rainbow)                                 |
+| Own rank clue      | [White](#white--brown--up-or-down-5-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Rainbow) |
+| All rank clues     | [Light Pink](#light-pink-5-player) (Gray Pink)     | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Pink) | [Omni](#omni-5-player) (Dark Omni)                                                       |
 
 
 ### Special
@@ -313,7 +322,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (5-Player)
+### Omni (5-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -330,7 +339,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Null / White & Brown / White & Null / Brown & Null (5-Player)
+### Null (5-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -347,7 +356,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (5-Player)
+### Muddy Rainbow (5-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -364,7 +373,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (5-Player)
+### Light Pink (5-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -433,23 +442,21 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 ## Clue Interpretation Tables (6-player)
 
-* _Currently Unavailable_
-
 ### Standard
-| Touched by         | No color clues                                                                                   | Own color clue                                                     | All color clues                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null-6-player) (Dark Null)                       | [Brown](#brown--up-or-down-6-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-6-player) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white-6-player) (Gray)                                                                  | [No Variant](#no-variant--clue-starved--cow--pig-6-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) (Dark Rainbow)                                     |
-| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-6-player) (Gray Pink) | [Pink](#pink-6-player) (Dark Pink)                                 | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-6-player) (Dark Omni)                                           |
+| Touched by         | No color clues                                 | Own color clue                                                     | All color clues                                                                    |
+| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null-6-player) (Dark Null)             | [Brown](#brown--up-or-down-6-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow-6-player) (Cocoa Rainbow)                           |
+| Own rank clue      | [White](#white-6-player) (Gray)                | [No Variant](#no-variant--clue-starved--cow--pig-6-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) (Dark Rainbow) |
+| All rank clues     | [Light Pink](#light-pink-6-player) (Gray Pink) | [Pink](#pink-6-player) (Dark Pink)                                 | [Omni](#omni-6-player) (Dark Omni)                                                 |
 
 
 ### Special
 * [Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) / [Very Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) / Extremely Ambiguous / [Dual-Color](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)
 * Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
 * Alternating Clues
-* [Clue Starved](#no-variant--clue-starved--cow--pig-5-player)
+* [Clue Starved](#no-variant--clue-starved--cow--pig-6-player)
 * [Up or Down](#brown--up-or-down-6-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-5-player) / Duck
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-6-player) / Duck
 * Throw It in a Hole
 
 <br />
@@ -567,7 +574,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (6-Player)
+### Omni (6-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -584,7 +591,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Null / White & Brown / White & Null / Brown & Null (6-Player)
+### Null (6-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -601,7 +608,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (6-Player)
+### Muddy Rainbow (6-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
@@ -618,7 +625,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
-### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (6-Player)
+### Light Pink (6-Player)
 
 | # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
