@@ -13,7 +13,7 @@
 
 <br />
 
-## Conventions (2-player)
+## General Conventions (2-player)
 
 ### 2 Stalls & 5 Stalls
 * In each player's first turn, players are allowed to "stall" with a 2 clue or a 5 clue.
@@ -32,8 +32,12 @@
 
 ## Color Positional Clues Rules (for hanabi.live)
 
-* Color Positional Clues only applies to the slot without _Positive Number Information_.
+* Color Positional Clues only applies to the cards without _Positive Number Information_.
 * File-in _Tempo Clues_ are not treated as _Positional Clues_.
+* Tips:
+  * Red always means "Play 1st slot"
+  * Yellow always means "Play 1st slot" (Play 2nd slot while Red clue is available)
+  * Teal always means "Play 1st slot" (Double Chop Move while Red OR Yellow clue is available)
 
 ### 5 Slots
 * Red: Play 1st slot
@@ -61,10 +65,10 @@
 
 ### 2 Slots
 * Red: Play 1st slot
-* Yellow: Play 1st slot
-* Green: Play 1st slot
+* Yellow: Play 1st slot (Play 2nd slot while Red clue is available)
+* Green: Play 2nd slot
 * Blue: Play 2nd slot
 * Purple: Play 2nd slot
-* Teal: Play 2nd slot
+* Teal: Play 1st slot (Double Chop Move while Red OR Yellow clue is available)
 
 <br />
