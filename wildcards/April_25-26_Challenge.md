@@ -19,7 +19,7 @@
 * In each player's first turn, players are allowed to "stall" with a 2 clue or a 5 clue.
 
 ### Color Positional Clues
-* Any color clue should be treated as a _Positional Clue_. See the [rules]() below.
+* Any color clue should be treated as a _Positional Clue_. See the [rules](#color-positional-clues-rules-for-hanabilive) below.
 
 ### Color Saves
 * Any color clue on chop is treated as a _Save Clue_. (only saving one card)
