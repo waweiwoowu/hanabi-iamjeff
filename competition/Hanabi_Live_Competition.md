@@ -4,8 +4,6 @@
 ### Mission:
 Our goal is to have weekly competitions to have teams compete against one another playing Hanabi with identical decks.  These are special challenges that will bring a competitive atmosphere where anyone can join to show off their skills.  
 
-<br/>
-
 ### Standard Scoring
 * Game points = Total Max Score + Bonus Points
 * Bonus Points = (# of cards left in the deck + # of clues left) * 0.1
@@ -26,8 +24,6 @@ Thus, you are more inclined to complete a game as you will receive bonus points 
 You played 4 games and received scores of 20, 25, 18, 14
 Total Victory Points = 20 + 25 + 18 = 21
 This is setup such that a really bad game doesn’t destroy the team’s success/chance.  It really gives you 1 warmup game essentially.
-
-<br/>
 
 ### Standard Rules
 1.	All players welcomed.
