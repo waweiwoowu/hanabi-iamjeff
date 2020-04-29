@@ -111,7 +111,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 * [5-Player](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
 * 6-Player
 #### Color Blind
-* [3-Player](#color-blind-3-player) ([Color Blind (3 Suits) (3-Player)](#color-blind-3-suits-3-player))
+* [3-Player](#color-blind-3-player) ([3-Player (3 Suits)](#color-blind-3-suits-3-player))
 * [4-Player](#color-blind-4-player--5-player)
 * [5-Player](#color-blind-4-player--5-player)
 * 6-Player
@@ -163,7 +163,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 #### Throw It in a Hole
 * 3-Player
 * 4-Player
-* [Throw It in a Hole (4 Suits) (5-Player)](#throw-it-in-a-hole-4-suits-5-player) / [Throw It in a Hole (5 Suits) (5-Player)](#throw-it-in-a-hole-5-suits-5-player) / [Throw It in a Hole (6 Suits) (5-Player)](#throw-it-in-a-hole-6-suits-5-player)
+* [5-Player (4 Suits)](#throw-it-in-a-hole-4-suits-5-player) / [5-Player (5 Suits)](#throw-it-in-a-hole-5-suits-5-player) / [5-Player (6 Suits)](#throw-it-in-a-hole-6-suits-5-player)
 * 6-Player
 
 <br />
