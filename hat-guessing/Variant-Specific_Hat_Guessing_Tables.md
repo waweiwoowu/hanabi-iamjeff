@@ -82,7 +82,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### No Variant / Clue Starved
+### No Variant / Clue Starved (3-player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
