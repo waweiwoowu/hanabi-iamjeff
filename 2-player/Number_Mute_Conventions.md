@@ -10,28 +10,31 @@
 
 ### Turn 1 Saves
 * In turn 1, any clue touching the chop is a _Save Clue_ on the chop card.
-* Notes: No _Play Clue_ in turn 1.
+* Notes: No _Play Clues_ in turn 1.
 
 ### Turn 1 Stalls & Chop Moves
 * In turn 1, any clue not touching the chop is just a _Stall Clue_.
 * However, it is so bad to burn a 0-for-1 clue in turn 1. Thus, players are agreed to chop move the clued card(s) and keep them for the rest of the game.
-* Notes: No _Play Clue_ in turn 1.
+* Notes: No _Play Clues_ in turn 1.
 
 ### Positional Clues
-* Any clue is treated as a positional clue. See the rules below.
+* Any clue is treated as _a positional clue_. See the [rules](#number-mute-positional-clue-rules) below.
 
 ### 8 Clue Stalls
-* If the next player has no clued cards, then it is treated as _Turn 1 Stalls_. (Do not chop move the clued card.)
-* If the next player has clued cards with only one color, then you should clue the same color as a Stall Clue; otherwise, it is treated as a Play Clue.
+* If the next player has no clued cards, then it is treated as _Turn 1 Stalls_. (**Do not** chop move the clued card(s).)
+* If the next player has clued card(s) with only one color, then you should clue the same color as a Stall Clue; otherwise, it is treated as a Play Clue.
 * If the next player has clued cards with two or more colors, then you should give the "rightmost" color clue as a Stall Clue; otherwise, it is treated as a Play Clue.
-* For example: in 5 suits, Bob has unknown red and green cards in hand. Alice is in 8 clues situation, if she clues red to Bob, it is just a stall clue; however, if she gives a clue with other color, then it is treated as a play clue.
+* For example: 
+  * In Number Mute (5 Suits) game, Bob has unknown red and green cards in hand.
+  * Alice is in 8 clues situation, if she clues green to Bob, then it is just a _Stall Clue_.
+  * However, if she gives a clue with any other color, then it is treated as a _Play Clue_.
 
 ### About Saves
-* In 2-player, use _Scream Discard_, _The Scream Blind-Play_, or _The Skipped Discard Chop Move_ to save cards on chop.
-* Or give a teal clue in some specific situations.
+* Use _Scream Discard_, _The Scream Blind-Play_, or _The Skipped Discard Chop Move_ to save cards on chop.
+* In some specific situations, you can give a teal clue as a _Chop Move_.
 
 ### About Discards
-* Good Touch Principle does not applly to Number Mutes, which means you should always discard right-most card unless it was chop moved.
+* _Good Touch Principle_ does not apply to Number Mutes, which means you should always discard the right-most card unless it was chop moved.
 
 <br/>
 
@@ -69,11 +72,24 @@
 
 ### Focus Slides
 * If the player knows the target of the positional clue is not playable from context, then the target slides over and targets the slot one position to the right.
-* For example: Alice discards. Bob clues something to Alice. Then Alice clues Bobs "blue" touching a card on slot 1 (telling him to play "slot 1"). If that blue card was playable, Alice would just clue Bob last turn, which means he has a playable card on slot 2 instead of slot 1. Bob blind-plays slot 2.
+* For example:
+  * Alice discards.
+  * And Bob clues something to Alice.
+  * Then Alice gives a red clue to Bob touching a card on slot 1 (telling him to play "slot 1").
+  * If that red card was playable, Alice would definitely give a red clue to Bob last turn. This implies the playable card is on slot 2 (slide-over) instead of slot 1.
+  * Bob blind-plays slot 2.
 
 ### Stacked Play Clues
 * If the same color is clued again before you play the target that was gotten last turn, it means there is another playable card "stacked" behind the gotten card.
-* For example: Alice clues blue to Bob (means play slot 1). Bob clues something to Alice. Alice clues Bobs "blue" again, which means Bob has another playable card on slot 2.
+* For example:
+  * Alice gives a red to Bob (telling him to play slot 1).
+  * Bob clues something to Alice.
+  * Alice gives a red clue again, which means Bob has another playable card on slot 2 (stacked behind the playable card on slot 1).
 
 <br/>
 
+## Modification
+
+* For 3 or more player games.
+
+<br/>
