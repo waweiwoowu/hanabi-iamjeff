@@ -22,7 +22,7 @@
 
 <br/>
 
-## Examples
+## Interpretations
 * Case A: The clue only touches one card.
 * Case B: The clue touches multiple cards.
 
@@ -33,6 +33,7 @@
 ### Case A2: The clued card is one-away-from-chop
 * Interpretation: **_Selfish Chop Move_**
 * Explanation: Your teammate has a critical card on chop.
+* Notes: Why do your teammate have a critical card on chop? The most common situation is you just discarded another copy of the card and made your teammate's chop become critical.
 
 ### Case A3: The clued card is two-away-from-chop
 * Interpretation: **_Selfish (Double) Chop Move_**
@@ -45,10 +46,13 @@
 ### Case B2: None of the cards is on chop and one of the cards is one-away-from-chop 
 * Interpretation: _**Normal Play Clue** (Focus on the leftmost)_
 * Explanation: If you don't do it this turn, and if your teammate discards after you play the card, the team loses the focus.
+* Example:
+  * Alice has a known blue 1. Bob has a blue 2 on slot 2 and a blue 4 on slot 4.
+  * If Alice doesn't give a blue clue to Bob this turn and play the blue 1, and if Bob has nothing to do and discards his chop.
+  * Then, Alice is not able to give a 2-for-1 blue clue since it turns out to be a _Chop Focus_ clue and the focus is no longer on the blue 2.
 
 ### Case B3: None of the cards is on chop and none of the cards is one-away-from-chop 
 * Interpretation: _**Selfish Focus Inversion**_
 * Explanation: It follows the current convention "Selfish Focus Inversion".
 
 <br/>
-
