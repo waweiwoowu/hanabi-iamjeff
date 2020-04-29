@@ -244,6 +244,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 3 players away | color on newest card
 | 8 (17)  | discard 4 | 3 players away | any clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### White / Brown / Up or Down (4-Player & 5-Player)
@@ -259,6 +261,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (15)  | discard 2 | 3 players away | number clue not touching the newest card
 | 7 (16)  | discard 3 | 3 players away | color clue not touching the newest card
 | 8 (17)  | discard 4 | 3 players away | any clue on newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -276,6 +280,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 3 players away | number clue not touching the newest card
 | 8 (17)  | discard 4 | 3 players away | color clue
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Color Blind (4-Player & 5-Player)
@@ -291,6 +297,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (15)  | discard 2 | 3 players away | red clue
 | 7 (16)  | discard 3 | 3 players away | yellow clue
 | 8 (17)  | discard 4 | 3 players away | green clue
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -308,6 +316,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 2 players away  | 2 clue
 | 8 (17)  | discard 4 | 2 players away  | 3 clue
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Color Mute / Number Mute / Alternating Clues / Duck (4-Player)
@@ -320,6 +330,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 3 (9)   | play 3    | 2 players away | any clue not touching the newest card
 | 4 (10)  | play 4    | 3 players away | any clue on newest card
 | 5 (11)  | chop move | 3 players away | any clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -355,6 +367,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 4 players away | color clue on newest card
 | 8 (17)  | discard 4 | any player     | any clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Null (5-Player)
@@ -370,6 +384,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (15)  | discard 2 | 4 players away | number clue not touching the newest card
 | 7 (16)  | discard 3 | 4 players away | color clue not touching the newest card
 | 8 (17)  | discard 4 | any player     | any clue on newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -387,6 +403,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 4 players away | color clue on newest card
 | 8 (17)  | discard 4 | any player     | number clue on newest card<br />color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Light Pink (5-Player)
@@ -403,6 +421,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 4 players away | color clue not touching the newest card
 | 8 (17)  | discard 4 | any player     | number clue not touching the newest card<br />color clue on newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Color Mute / Number Mute / Alternating Clues / Duck (5-Player)
@@ -418,6 +438,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 6 (15)  | discard 2 | 4 players away | any clue on newest card
 | 7 (16)  | discard 3 | 4 players away | any clue not touching the newest card
 | 8 (17)  | discard 4 | any player     | any clue touching only the oldest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -442,6 +464,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 14 (30)  | discard 3     | 4 players away | number not touching the newest card
 | 15 (31)  | discard 4     | 4 players away | color not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Throw It in a Hole (5 Suits) (5-Player)
@@ -465,6 +489,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 14 (30)  | play 4 purple | 4 players away | number not touching the newest card
 | 15 (31)  | chop move     | 4 players away | color not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Throw It in a Hole (6 Suits) (5-Player)
@@ -487,6 +513,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 13 (29)  | discard 2     | 4 players away | color on newest card
 | 14 (30)  | discard 3     | 4 players away | number not touching the newest card
 | 15 (31)  | discard 4     | 4 players away | color not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
