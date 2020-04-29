@@ -73,8 +73,7 @@
 ### Focus Slides
 * If the player knows the target of the positional clue is not playable from context, then the target slides over and targets the slot one position to the right.
 * For example:
-  * Alice discards.
-  * And Bob clues something to Alice.
+  * Alice discards. And Bob clues something to Alice.
   * Then Alice gives a red clue to Bob touching a card on slot 1 (telling him to play "slot 1").
   * If that red card was playable, Alice would definitely give a red clue to Bob last turn. This implies the playable card is on slot 2 (slide-over) instead of slot 1.
   * Bob blind-plays slot 2.
