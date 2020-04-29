@@ -4,6 +4,17 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 <br />
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [General Conventions](#general-conventions)
+3. [Find Tables](#find-tables)
+4. [Clue Interpretation Tables (4-player)](#clue-interpretation-tables-4-player)
+5. [Clue Interpretation Tables (5-player)](#clue-interpretation-tables-5-player)
+6. [Clue Interpretation Tables (6-player)](#clue-interpretation-tables-6-player)
+
+
+<br />
+
 ## Introduction
 
 * In regular hat-guessing conventions, players are not able to do a finesse by encoding an action on a one-way card while giving a clue. However, players are now able to do it with these advanced conventions.
