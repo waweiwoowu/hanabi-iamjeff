@@ -18,7 +18,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 * [Color Blind](#color-blind--number-blind--totally-blind) / [Number Blind](#color-blind--number-blind--totally-blind) / [Totally Blind](#color-blind--number-blind--totally-blind) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
-* [Up or Down](#white--brown--up-or-down-4-player-and-5-player)
+* [Up or Down](#white--brown--up-or-down-4-player--5-player)
 * [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Throw It in a Hole](#clue-interpretation-tables-throw-it-in-a-hole)
 
