@@ -96,6 +96,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 2 players away | color clue not on newest card 
 | 8 (17)  | discard 4 | any player     | 1 clue not on newest card
 
+[#FindTables](#find-tables)
+
 <br />
 
 ### Rainbow / Pink / Ambiguous / Very Ambiguous / Dual-Color (3-Player)
@@ -108,6 +110,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 3 (9)   | play 3    | 2 players away | number on newest card
 | 4 (10)  | play 4    | 2 players away | color on newest card
 | 5 (11)  | play 5    | 2 players away | any clue not touching the newest card
+
+[#FindTables](#find-tables)
 
 <br />
 
@@ -122,6 +126,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 4 (10)  | play 4    | 2 players away | color clue not touching the newest card
 | 5 (11)  | play 5    | 2 players away | any clue on newest card
 
+[#FindTables](#find-tables)
+
 <br />
 
 ### Extremely Ambiguous (3-Player)
@@ -134,6 +140,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 3 (9)   | play 3    | 2 players away | number clue on newest card
 | 4 (10)  | play 4    | 2 players away | number clue not touching the newest card
 | 5 (11)  | play 5    | 2 players away | color clue
+
+[#FindTables](#find-tables)
 
 <br />
 
@@ -151,6 +159,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7  (17)  | discard 3 | 2 players away  | green clue
 | 8  (18)  | discard 4 | 2 players away  | number clue on newest card
 | 9  (19)  | discard 5 | 2 players away  | number clue not on newest card
+
+[#FindTables](#find-tables)
 
 <br />
 
@@ -170,6 +180,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 9  (20)  | discard 4 | 2 players away  | number clue on newest card
 | 10 (21)  | discard 5 | any player away | number clue not on newest card
 
+[#FindTables](#find-tables)
+
 <br />
 
 ### Number Blind / Totally Blind (3-Player)
@@ -187,6 +199,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 8  (19)  | discard 3 | 2 players away  | 4 clue
 | 9  (20)  | discard 4 | 2 players away  | 5 clue
 | 10 (21)  | discard 5 | any player away | color clue
+
+[#FindTables](#find-tables)
 
 <br />
 
