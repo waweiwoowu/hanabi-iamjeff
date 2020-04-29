@@ -4,7 +4,14 @@ This is document of the conventions for 3 Suits 5-player games using [advanced h
 
 <br />
 
-## Conventions
+## Table of Contents
+1. [General Conventions](#general-conventions)
+2. [Find Tables](#find-tables)
+3. [Clue Interpretation Tables](#clue-interpretation-tables)
+
+<br />
+
+## General Conventions
 
 ### Clue Planning
 
