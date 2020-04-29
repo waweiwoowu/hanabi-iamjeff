@@ -6,7 +6,7 @@
 
 <br/>
 
-## General Conventions
+## General Conventions (2-player)
 
 ### Turn 1 Saves
 * In turn 1, any clue touching the chop is a _Save Clue_ on the chop card.
@@ -88,7 +88,7 @@
 
 <br/>
 
-## Modification
+## Modification (3-player)
 
 * Number Mute Convention Modification for 3 or more player games.
 
