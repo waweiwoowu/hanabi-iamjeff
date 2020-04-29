@@ -12,7 +12,6 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 5. [Clue Interpretation Tables (5-player)](#clue-interpretation-tables-5-player)
 6. [Clue Interpretation Tables (6-player)](#clue-interpretation-tables-6-player)
 
-
 <br />
 
 ## Introduction
@@ -54,9 +53,31 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 ## Find Tables
 
-* [Clue Interpretation Tables (4-player)](#clue-interpretation-tables-4-player)
-* [Clue Interpretation Tables (5-player)](#clue-interpretation-tables-5-player)
-* [Clue Interpretation Tables (6-player)](#clue-interpretation-tables-6-player)
+| 4 Player                                                                              | 5 Player                                                                                    | 6 Player                                                                              |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [No Variant (4-Player)](#no-variant--clue-starved--cow--pig-4-player)                 | [No Variant (5-Player)](#no-variant--clue-starved--cow--pig-5-player)                       | [No Variant (6-Player)](#no-variant--clue-starved--cow--pig-6-player)                 |
+| [Rainbow (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)        | [Rainbow (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)        | [Rainbow (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)        |
+| [Pink (4-Player)](#pink-4-player)                                                     | [Pink (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)           | [Pink (6-Player)](#pink-6-player)                                                     |
+| [White (4-Player)](#white-4-player)                                                   | [White (5-Player)](#white--brown--up-or-down-5-player)                                      | [White (6-Player)](#white-6-player)                                                   |
+| [Brown (4-Player)](#brown--up-or-down-4-player)                                       | [Brown (5-Player)](#white--brown--up-or-down-5-player)                                      | [Brown (6-Player)](#brown--up-or-down-6-player)                                       |
+| [Omni (4-Player)](#omni-4-player)                                                     | [Omni (5-Player)](#omni-5-player)                                                           | [Omni (6-Player)](#omni-6-player)                                                     |
+| [Null (4-Player)](#null-4-player)                                                     | [Null (5-Player)](#null-5-player)                                                           | [Null (6-Player)](#null-6-player)                                                     |
+| [Muddy Rainbow (4-Player)](#muddy-rainbow-4-player)                                   | [Muddy Rainbow (5-Player)](#muddy-rainbow-5-player)                                         | [Muddy Rainbow (6-Player)](#muddy-rainbow-6-player)                                   |
+| [Light Pink (4-Player)](#light-pink-4-player)                                         | [Light Pink (5-Player)](#light-pink-5-player)                                               | [Light Pink (6-Player)](#light-pink-6-player)                                         |
+| [Ambiguous (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)      | [Ambiguous (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)      | [Ambiguous (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)      |
+| [Very Ambiguous (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) | [Very Ambiguous (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) | [Very Ambiguous (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) |
+| [Extremely Ambiguous (4-Player)](#extremely-ambiguous-4-player)                       | [Extremely Ambiguous (5-Player)](#extremely-ambiguous-5-player)                             | Extremely Ambiguous (6-Player)                                                        |
+| [Dual-Color (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)     | [Dual-Color (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)     | [Dual-Color (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)     |
+| Color Blind (4-Player)                                                                | Color Blind (5-Player)                                                                      | Color Blind (6-Player)                                                                |
+| Number Blind (4-Player)                                                               | Number Blind (5-Player)                                                                     | Number Blind (6-Player)                                                               |
+| Totally Blind (4-Player)                                                              | Totally Blind (5-Player)                                                                    | Totally Blind (6-Player)                                                              |
+| Color Mute (4-Player)                                                                 | [Color Mute (5-Player)](#color-mute--number-mute--alternating-clues-5-player)               | Color Mute (6-Player)                                                                 |
+| Number Mute (4-Player)                                                                | [Number Mute (5-Player)](#color-mute--number-mute--alternating-clues-5-player)              | Number Mute (6-Player)                                                                |
+| Alternating Clues (4-Player)                                                          | [Alternating Clues (5-Player)](#color-mute--number-mute--alternating-clues-5-player)        | Alternating Clues (6-Player)                                                          |
+| [Clue Starved (4-Player)](#no-variant--clue-starved--cow--pig-4-player)               | [Clue Starved (5-Player)](#no-variant--clue-starved--cow--pig-5-player)                     | [Clue Starved (6-Player)](#no-variant--clue-starved--cow--pig-6-player)               |
+| [Up or Down (4-Player)](#brown--up-or-down-4-player)                                  | [Up or Down (5-Player)](#white--brown--up-or-down-5-player)                                 | [Up or Down (6-Player)](#brown--up-or-down-6-player)                                  |
+| [Cow & Pig (4-Player)](#no-variant--clue-starved--cow--pig-4-player)                  | [Cow & Pig (5-Player)](#no-variant--clue-starved--cow--pig-5-player)                        | [Cow & Pig (6-Player)](#no-variant--clue-starved--cow--pig-6-player)                  |
+| Duck (4-Player)                                                                       | [Duck (5-Player)](#duck-5-player)                                                           | Duck (6-Player)                                                                       |
 
 ### Use Same Tables
 * No Variant = Clue Starved = Cow & Pig
@@ -66,27 +87,10 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 * Null = White & Brown = White & Null = Brown & Null
 * Muddy Rainbow = Rainbow & Brown = Rainbow & Muddy Rainbow = Brown & Muddy Rainbow
 * Light Pink = Pink & White = Pink & Light Pink = White & Light Pink
-* Special Suit = Special-Ones = Special-Fives, e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.
+* Special Suit = Special-Ones = Special-Fives (e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.)
+* Special Suit = Dark Special Suit (Light Pink = Gray Pink)
 
 ## Clue Interpretation Tables (4-player)
-
-### Standard
-| Touched by         | No color clues                                 | Own color clue                                                     | All color clues                                                                    |
-| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null-4-player) (Dark Null)             | [Brown](#brown--up-or-down-4-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow-4-player) (Cocoa Rainbow)                           |
-| Own rank clue      | [White](#white-4-player) (Gray)                | [No Variant](#no-variant--clue-starved--cow--pig-4-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) (Dark Rainbow) |
-| All rank clues     | [Light Pink](#light-pink-4-player) (Gray Pink) | [Pink](#pink-4-player) (Dark Pink)                                 | [Omni](#omni-4-player) (Dark Omni)                                                 |
-
-### Special
-* [Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) / [Very Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player) / [Dual-Color](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)
-* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
-* Alternating Clues
-* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player)
-* [Up or Down](#brown--up-or-down-4-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player) / Duck
-* Throw It in a Hole
-
-<br />
 
 ### No Variant / Clue Starved / Cow & Pig (4-Player)
 
@@ -105,6 +109,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10 (22)  | double chop move                 | 3 players away | number clue not touching the newest card
 | 11 (23)  | chop move                        | 3 players away | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Rainbow / Ambiguous / Very Ambiguous / Dual-Color (4-Player)
@@ -121,6 +127,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 3 players away | color on newest card
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -139,6 +147,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | number clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### White (4-Player)
@@ -155,6 +165,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 3 players away | number clue not touching the newest card
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -173,6 +185,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 3 players away | color clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | number clue on newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Omni (4-Player)
@@ -187,6 +201,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 5 (13)  | play a one-away card from slot 1 | 3 players away | color clue on newest card
 | 6 (14)  | play a one-away card from chop   | any player     | number clue not touching the newest card
 | 7 (15)  | chop move                        | any player     | color clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -203,6 +219,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 6 (14)  | play a one-away card from chop   | any player     | number clue on newest card
 | 7 (15)  | chop move                        | any player     | color clue on newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Muddy Rainbow (4-Player)
@@ -218,6 +236,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 6 (14)  | play a one-away card from chop   | any player     | number clue on newest card
 | 7 (15)  | chop move                        | any player     | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Light Pink (4-Player)
@@ -232,6 +252,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 5 (13)  | play a one-away card from slot 1 | 3 players away | color clue not touching the newest card
 | 6 (14)  | play a one-away card from chop   | any player     | number clue not touching the newest card
 | 7 (15)  | chop move                        | any player     | color clue on newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -249,30 +271,13 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (16)  | play a one-away card from chop   | 3 players away | number clue not touching the newest card
 | 8 (17)  | chop move                        | 3 players away | color clue
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ## Clue Interpretation Tables (5-player)
 
 * 3 Suits 5-player Conventions: [See here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-player_Conventions.md).
-
-### Standard
-| Touched by         | No color clues                                     | Own color clue                                                                     | All color clues                                                                          |
-| ------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null-5-player) (Dark Null)                 | [Brown](#white--brown--up-or-down-5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow-5-player) (Cocoa Rainbow)                                 |
-| Own rank clue      | [White](#white--brown--up-or-down-5-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Rainbow) |
-| All rank clues     | [Light Pink](#light-pink-5-player) (Gray Pink)     | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) (Dark Pink) | [Omni](#omni-5-player) (Dark Omni)                                                       |
-
-
-### Special
-* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) / [Extremely Ambiguous](#extremely-ambiguous-5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)
-* Color Blind / Number Blind / Totally Blind / [Color Mute](#color-mute--number-mute--alternating-clues-5-player) / [Number Mute](#color-mute--number-mute--alternating-clues-5-player)
-* [Alternating Clues](#color-mute--number-mute--alternating-clues-5-player)
-* [Clue Starved](#no-variant--clue-starved--cow--pig-5-player)
-* [Up or Down](#white--brown--up-or-down-5-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-5-player) / [Duck](#duck-5-player)
-* Throw It in a Hole
-
-<br />
 
 ### No Variant / Clue Starved / Cow & Pig (5-Player)
 
@@ -295,6 +300,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 14 (30)  | double chop move                 | 4 players away | number clue not touching the newest card
 | 15 (31)  | chop move                        | 4 players away | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Rainbow / Pink / Ambiguous / Very Ambiguous / Dual-Color (5-Player)
@@ -313,6 +320,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 9 (21)   | triple chop move                 | 4 players away | number on newest card
 | 10 (22)  | double chop move                 | 4 players away | color on newest card
 | 11 (23)  | chop move                        | 4 players away | any clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -333,6 +342,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10 (22)  | double chop move                 | 4 players away | number clue not touching the newest card
 | 11 (23)  | chop move                        | 4 players away | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Omni (5-Player)
@@ -349,6 +360,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue on newest card
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -367,6 +380,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue on newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Muddy Rainbow (5-Player)
@@ -384,6 +399,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue on newest card
 | 9 (19)   | chop move                        | any player     | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Light Pink (5-Player)
@@ -400,6 +417,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue not touching the newest card
 | 8 (18)   | play a one-away card from slot 4 | any player     | number clue not touching the newest card
 | 9 (19)   | chop move                        | any player     | color clue on newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -420,6 +439,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 10 (22)  | double chop move                 | 4 players away | number clue not touching the newest card
 | 11 (23)  | chop move                        | 4 players away | color clue
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Color Mute / Number Mute / Alternating Clues (5-player)
@@ -434,6 +455,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 5 (13)  | play a one-away card from slot 1 | 3 players away | any clue not touching the newest card
 | 6 (14)  | play a one-away card from chop   | 4 players away | any clue on newest card
 | 7 (15)  | chop move                        | 4 players away | any clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -451,28 +474,11 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (16)  | play a one-away card from chop   | 4 players away | any clue not touching the newest card
 | 8 (17)  | chop move                        | any player     | any clue touching only oldest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ## Clue Interpretation Tables (6-player)
-
-### Standard
-| Touched by         | No color clues                                 | Own color clue                                                     | All color clues                                                                    |
-| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null-6-player) (Dark Null)             | [Brown](#brown--up-or-down-6-player) (Dark Brown)                  | [Muddy Rainbow](#muddy-rainbow-6-player) (Cocoa Rainbow)                           |
-| Own rank clue      | [White](#white-6-player) (Gray)                | [No Variant](#no-variant--clue-starved--cow--pig-6-player) (Black) | [Rainbow](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) (Dark Rainbow) |
-| All rank clues     | [Light Pink](#light-pink-6-player) (Gray Pink) | [Pink](#pink-6-player) (Dark Pink)                                 | [Omni](#omni-6-player) (Dark Omni)                                                 |
-
-
-### Special
-* [Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) / [Very Ambiguous](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) / Extremely Ambiguous / [Dual-Color](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)
-* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
-* Alternating Clues
-* [Clue Starved](#no-variant--clue-starved--cow--pig-6-player)
-* [Up or Down](#brown--up-or-down-6-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-6-player) / Duck
-* Throw It in a Hole
-
-<br />
 
 ### General Table (6-Player)
 
@@ -490,6 +496,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 9 (21)   | triple chop move                 | 5 players away | color on newest card
 | 10 (22)  | double chop move                 | any player     | number clue not touching the newest card
 | 11 (23)  | chop move                        | any player     | color clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -513,6 +521,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 13 (28)  | double chop move                 | 5 players away | color on newest card
 | 14 (29)  | chop move                        | 5 players away | any clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Rainbow / Ambiguous / Very Ambiguous / Dual-Color (6-Player)
@@ -530,6 +540,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (19)   | play a one-away card from slot 4 | 5 players away | number on newest card
 | 9 (20)   | double chop move                 | 5 players away | color on newest card
 | 10 (21)  | chop move                        | any player     | number clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -549,6 +561,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 9 (20)   | double chop move                 | 5 players away | color on newest card
 | 10 (21)  | chop move                        | any player     | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### White (6-Player)
@@ -566,6 +580,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (19)   | play a one-away card from slot 4 | 5 players away | number on newest card
 | 9 (20)   | double chop move                 | 5 players away | color clue not touching the newest newest card
 | 10 (21)  | chop move                        | any player     | number clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -585,6 +601,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 9 (20)   | double chop move                 | 5 players away | color on newest card
 | 10 (21)  | chop move                        | any player     | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Omni (6-Player)
@@ -601,6 +619,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color on newest card
 | 8 (18)   | play a one-away card from slot 4 | 5 players away | number on newest card
 | 9 (19)   | chop move                        | 5 players away | color on newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
 
@@ -619,6 +639,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 5 players away | number clue not touching the newest card
 | 9 (19)   | chop move                        | 5 players away | color clue not touching the newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Muddy Rainbow (6-Player)
@@ -636,6 +658,8 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 8 (18)   | play a one-away card from slot 4 | 5 players away | number clue not touching the newest card
 | 9 (19)   | chop move                        | 5 players away | color on newest card
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### Light Pink (6-Player)
@@ -652,5 +676,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue not touching the newest card
 | 8 (18)   | play a one-away card from slot 4 | 5 players away | number on newest card
 | 9 (19)   | chop move                        | 5 players away | color clue not touching the newest card
+
+[(Find Tables)](#find-tables)
 
 <br />
