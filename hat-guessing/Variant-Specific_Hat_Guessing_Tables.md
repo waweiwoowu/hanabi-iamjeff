@@ -32,7 +32,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## General Tables
 
-* Table for any variant not listed in **Variant-Specific Clue Interpretation Tables**. (e.g. Dark Omni & Dark Null)
+* Table for any variant not listed above. (e.g. Dark Omni & Dark Null)
 
 ### 4-Player
 
@@ -73,7 +73,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ### Special (3-player)
 * Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
-* [Color Blind](#color-blind--number-blind--totally-blind-3-player) / [Number Blind](#color-blind--number-blind--totally-blind-3-player) / [Totally Blind](#color-blind--number-blind--totally-blind-3-player) / Color Mute / Number Mute
+* [Color Blind](#color-blind-3-player) (*[Color Blind (3 Suits)](#color-blind-3-suits-3-player)) / [Number Blind](#number-blind--totally-blind-3-player) / [Totally Blind](#number-blind--totally-blind-3-player) / Color Mute / Number Mute
 * Alternating Clues
 * Clue Starved
 * Up or Down
@@ -82,21 +82,56 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### Color Blind / Number Blind / Totally Blind (3-Player)
+### Color Blind (3 Suits) (3-Player)
 
-| # mod 11 | action    | person clued   | type of clue
-| -------- | --------- | -------------- | --------------
-| 0  (11)  | give clue | 1 player away  | clue blue
-| 1  (12)  | play 1    | 1 player away  | clue green
-| 2  (13)  | play 2    | 1 player away  | clue yellow
-| 3  (14)  | play 3    | 1 player away  | clue red
-| 4  (15)  | play 4    | 1 player away  | clue purple
-| 5  (16)  | play 5    | 1 player away  | clue orange
-| 6  (17)  | discard 1 | 2 players away | clue blue
-| 7  (18)  | discard 2 | 2 players away | clue green
-| 8  (19)  | discard 3 | 2 players away | clue yellow
-| 9  (20)  | discard 4 | 2 players away | clue red
-| 10 (21)  | discard 5 | 2 players away | clue purple
+| # mod 10 | action    | person clued    | type of clue
+| -------- | --------- | --------------- | --------------
+| 0  (10)  | give clue | 1 player away   | red clue
+| 1  (11)  | play 1    | 1 player away   | yellow clue
+| 2  (12)  | play 2    | 1 player away   | green clue
+| 3  (13)  | play 3    | 1 player away   | number clue on newest card
+| 4  (14)  | play 4    | 1 player away   | number clue not on newest card
+| 5  (15)  | play 5    | 2 players away  | red clue
+| 6  (16)  | discard 2 | 2 players away  | yellow clued
+| 7  (17)  | discard 3 | 2 players away  | green clue
+| 8  (18)  | discard 4 | 2 players away  | number clue on newest card
+| 9  (19)  | discard 5 | 2 players away  | number clue not on newest card
+
+<br />
+
+### Color Blind (3-Player)
+
+| # mod 11 | action    | person clued    | type of clue
+| -------- | --------- | --------------- | --------------
+| 0  (11)  | give clue | 1 player away   | red clue
+| 1  (12)  | play 1    | 1 player away   | yellow clue
+| 2  (13)  | play 2    | 1 player away   | green clue
+| 3  (14)  | play 3    | 1 player away   | blue clue
+| 4  (15)  | play 4    | 1 player away   | number clue on newest card
+| 5  (16)  | play 5    | 2 players away  | red clue
+| 6  (17)  | discard 1 | 2 players away  | yellow clued
+| 7  (18)  | discard 2 | 2 players away  | green clue
+| 8  (19)  | discard 3 | 2 players away  | blue clue
+| 9  (20)  | discard 4 | 2 players away  | number clue on newest card
+| 10 (21)  | discard 5 | any player away | number clue not on newest card
+
+<br />
+
+### Number Blind / Totally Blind (3-Player)
+
+| # mod 11 | action    | person clued    | type of clue
+| -------- | --------- | --------------- | --------------
+| 0  (11)  | give clue | 1 player away   | 1 clue
+| 1  (12)  | play 1    | 1 player away   | 2 clue
+| 2  (13)  | play 2    | 1 player away   | 3 clue
+| 3  (14)  | play 3    | 1 player away   | 4 clue
+| 4  (15)  | play 4    | 1 player away   | 5 clue
+| 5  (16)  | play 5    | 2 players away  | 1 clue
+| 6  (17)  | discard 1 | 2 players away  | 2 clued
+| 7  (18)  | discard 2 | 2 players away  | 3 clue
+| 8  (19)  | discard 3 | 2 players away  | 4 clue
+| 9  (20)  | discard 4 | 2 players away  | 5 clue
+| 10 (21)  | discard 5 | any player away | color clue
 
 <br />
 
@@ -111,7 +146,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ### Special (4-player)
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
-* Color Blind / Number Blind / Totally Blind / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
+* [Color Blind](#color-blind-4-player--5-player) / [Number Blind](#number-blind--totally-blind-4-player--5-player) / [Totally Blind](#number-blind--totally-blind-4-player--5-player) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
 * [Up or Down](#white--brown--up-or-down-4-player--5-player)
@@ -174,9 +209,35 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### Color Blind / Number Blind / Totally Blind (4-Player & 5-Player)
+### Color Blind (4-Player & 5-Player)
 
-* TODO
+| # mod 9 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (9)   | give clue | 1 player away  | red clue
+| 1 (10)  | play 1    | 1 player away  | yellow clue
+| 2 (11)  | play 2    | 1 player away  | green clue
+| 3 (12)  | play 3    | 2 players away | red clue
+| 4 (13)  | play 4    | 2 players away | yellow clue
+| 5 (14)  | discard 1 | 2 players away | green clue
+| 6 (15)  | discard 2 | 3 players away | red clue
+| 7 (16)  | discard 3 | 3 players away | yellow clue
+| 8 (17)  | discard 4 | 3 players away | green clue
+
+<br />
+
+### Number Blind / Totally Blind (4-Player & 5-Player)
+
+| # mod 9 | action    | person clued    | type of clue
+| ------- | --------- | --------------- | -------------
+| 0 (9)   | give clue | any player away | color clue
+| 1 (10)  | play 1    | 1 player away   | 1 clue
+| 2 (11)  | play 2    | 1 player away   | 2 clue
+| 3 (12)  | play 3    | 1 player away   | 3 clue
+| 4 (13)  | play 4    | 1 player away   | 4 clue
+| 5 (14)  | discard 1 | 1 player away   | 5 clue
+| 6 (15)  | discard 2 | 2 players away  | 1 clue
+| 7 (16)  | discard 3 | 2 players away  | 2 clue
+| 8 (17)  | discard 4 | 2 players away  | 3 clue
 
 <br />
 
@@ -204,7 +265,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ### Special (5-player)
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
-* [Color Blind](#color-blind--number-blind--totally-blind) / [Number Blind](#color-blind--number-blind--totally-blind) / [Totally Blind](#color-blind--number-blind--totally-blind) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-5-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-5-player)
+* [Color Blind](#color-blind-4-player--5-player) / [Number Blind](#number-blind--totally-blind-4-player--5-player) / [Totally Blind](#number-blind--totally-blind-4-player--5-player) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-5-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-5-player)
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-5-player)
 * [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
 * [Up or Down](#white--brown--up-or-down-4-player--5-player)
