@@ -6,9 +6,6 @@
 ## Conventions
 * Here are some conventions related to _Selfish Color Clues_ you might use in the games:
 
-### Selfish Focus Inversion
-* See [here](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#selfish-focus-inversion-sfi--sfi).
-
 ### Selfish Chop Move
 * If the player gives a _Selfish Color Clue_ touching **only** one card and the card is not on chop.
 * It is a signal as a _Chop Move_, and the clue receiver should chop move their cards to the right of the clued card.
@@ -20,9 +17,12 @@
   * Now, it's Alice's turn, she is surprised that Bob didn't play his blue 1 and gave a blue clue to her. It is not a Selfish Focus Inversion, since it only touches one blue card.
   * Then she realizes her blue card is exactly a blue 2 and also Chop Moves her slot 5 as a _Selfish Chop Move_.
 
+### Selfish Focus Inversion
+* See [here](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#selfish-focus-inversion-sfi--sfi).
+
 <br/>
 
-## Details
+## Examples
 * Case A: The clue only touches one card.
 * Case B: The clue touches multiple cards.
 
