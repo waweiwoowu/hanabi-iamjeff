@@ -7,27 +7,19 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 ## Table of Contents
 1. [Find Tables](#find-tables)
 2. [General Tables](#general-tables)
-3. [Variant-Specific Clue Interpretation Tables](#variant-specific-clue-interpretation-tables)
+3. [Variant-Specific Clue Interpretation Tables (3-player)](#variant-specific-clue-interpretation-tables-3-player)
+4. [Variant-Specific Clue Interpretation Tables (4-player)](#variant-specific-clue-interpretation-tables-4-player)
+5. [Variant-Specific Clue Interpretation Tables (5-player)](#variant-specific-clue-interpretation-tables-5-player)
+6. [Variant-Specific Clue Interpretation Tables (6-player)](#variant-specific-clue-interpretation-tables-6-player)
 
 <br />
 
 ## Find Tables
-
-### Standard
-| Touched by         | No color clues                                                                                   | Own color clue                                                                                  | All color clues                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null-5-player) (Dark Null)                       | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down-4-player-and-5-player) (Gray)                                  | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Rainbow)                  |
-| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-5-player) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-5-player) (Dark Omni)                                           |
-
-### Special
-* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
-* [Color Blind](#color-blind--number-blind--totally-blind) / [Number Blind](#color-blind--number-blind--totally-blind) / [Totally Blind](#color-blind--number-blind--totally-blind) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
-* [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-4-player)
-* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
-* [Up or Down](#white--brown--up-or-down-4-player--5-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-4-player)
-* [Throw It in a Hole](#clue-interpretation-tables-throw-it-in-a-hole)
+* [General Tables](#general-tables)
+* [Variant-Specific Clue Interpretation Tables (3-player)](#variant-specific-clue-interpretation-tables-3-player)
+* [Variant-Specific Clue Interpretation Tables (4-player)](#variant-specific-clue-interpretation-tables-4-player)
+* [Variant-Specific Clue Interpretation Tables (5-player)](#variant-specific-clue-interpretation-tables-5-player)
+* [Variant-Specific Clue Interpretation Tables (6-player)](#variant-specific-clue-interpretation-tables-6-player)
 
 <br />
 
@@ -63,17 +55,27 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-## Variant-Specific Clue Interpretation Tables
+## Variant-Specific Clue Interpretation Tables (3-player)
 
-### No Variant / Clue Starved / Cow & Pig (4-Player & 5-Player)
+### Standard
+| Touched by         | No color clues         | Own color clue     | All color clues               |
+| ------------------ | ---------------------- | ------------------ | ----------------------------- |
+| No rank clues      | Null (Dark Null)       | Brown (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
+| Own rank clue      | White (Gray)           | No Variant (Black) | Rainbow (Dark Rainbow)        |
+| All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)   | Omni (Dark Omni)              |
 
-* Use any table below.
+### Special
+* Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
+* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
+* Alternating Clues
+* Clue Starved
+* Up or Down
+* Cow & Pig / Duck
+* Throw It in a Hole
 
 <br />
 
-### Color Blind / Number Blind / Totally Blind
-
-### 3 Player
+### Color Blind / Number Blind / Totally Blind (3-Player)
 
 | # mod 11 | action    | person clued   | type of clue
 | -------- | --------- | -------------- | --------------
@@ -91,9 +93,29 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### 4 Player & 5 Player
+## Variant-Specific Clue Interpretation Tables (4-player)
 
-* TODO
+### Standard
+| Touched by         | No color clues                                                  | Own color clue                                                                                  | All color clues                                                                                       |
+| ------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| No rank clues      | Null (Dark Null)                                                | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                              | Muddy Rainbow (Cocoa Rainbow)                                                                         |
+| Own rank clue      | [White](#white--brown--up-or-down-4-player-and-5-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                    | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Rainbow) |
+| All rank clues     | Light Pink (Gray Pink)                                          | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Pink) | Omni (Dark Omni)                                                                                      |
+
+### Special
+* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
+* Color Blind / Number Blind / Totally Blind / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
+* [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-4-player)
+* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
+* [Up or Down](#white--brown--up-or-down-4-player--5-player)
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-4-player)
+* Throw It in a Hole
+
+<br />
+
+### No Variant / Clue Starved / Cow & Pig (4-Player & 5-Player)
+
+* Use any table below.
 
 <br />
 
@@ -128,6 +150,59 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 8 (17)  | discard 4 | 3 players away | any clue on newest card
 
 <br />
+
+### Extremely Ambiguous (4-Player & 5-Player)
+
+| # mod 9 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (9)   | give clue | 1 player away  | number clue on newest card
+| 1 (10)  | play 1    | 1 player away  | number clue not touching the newest card
+| 2 (11)  | play 2    | 1 player away  | color clue
+| 3 (12)  | play 3    | 2 players away | number clue on newest card
+| 4 (13)  | play 4    | 2 players away | number clue not touching the newest card
+| 5 (14)  | discard 1 | 2 players away | color clue
+| 6 (15)  | discard 2 | 3 players away | number clue on newest card
+| 7 (16)  | discard 3 | 3 players away | number clue not touching the newest card
+| 8 (17)  | discard 4 | 3 players away | color clue
+
+<br />
+
+### Color Blind / Number Blind / Totally Blind (4-Player & 5-Player)
+
+* TODO
+
+<br />
+
+### Color Mute / Number Mute / Alternating Clues / Duck (4-Player)
+
+| # mod 6 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (6)   | give clue | 1 player away  | any clue on newest card
+| 1 (7)   | play 1    | 1 player away  | any clue not touching the newest card
+| 2 (8)   | play 2    | 2 players away | any clue on newest card
+| 3 (9)   | play 3    | 2 players away | any clue not touching the newest card
+| 4 (10)  | play 4    | 3 players away | any clue on newest card
+| 5 (11)  | chop move | 3 players away | any clue not touching the newest card
+
+<br />
+
+## Variant-Specific Clue Interpretation Tables (5-player)
+
+### Standard
+| Touched by         | No color clues                                                                                   | Own color clue                                                                                  | All color clues                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null--white--brown--white--null--brown--null-5-player) (Dark Null)                       | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                              | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player) (Cocoa Rainbow) |
+| Own rank clue      | [White](#white--brown--up-or-down-4-player-and-5-player) (Gray)                                  | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                    | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Rainbow)                  |
+| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-5-player) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-5-player) (Dark Omni)                                           |
+
+### Special
+* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
+* [Color Blind](#color-blind--number-blind--totally-blind) / [Number Blind](#color-blind--number-blind--totally-blind) / [Totally Blind](#color-blind--number-blind--totally-blind) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-5-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-5-player)
+* [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-5-player)
+* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
+* [Up or Down](#white--brown--up-or-down-4-player--5-player)
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-5-player)
+* [Throw It in a Hole](#clue-interpretation-tables-throw-it-in-a-hole)
 
 ### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (5-Player)
 
@@ -193,35 +268,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### Extremely Ambiguous (4-Player & 5-Player)
-
-| # mod 9 | action    | person clued   | type of clue
-| ------- | --------- | -------------- | -------------
-| 0 (9)   | give clue | 1 player away  | number clue on newest card
-| 1 (10)  | play 1    | 1 player away  | number clue not touching the newest card
-| 2 (11)  | play 2    | 1 player away  | color clue
-| 3 (12)  | play 3    | 2 players away | number clue on newest card
-| 4 (13)  | play 4    | 2 players away | number clue not touching the newest card
-| 5 (14)  | discard 1 | 2 players away | color clue
-| 6 (15)  | discard 2 | 3 players away | number clue on newest card
-| 7 (16)  | discard 3 | 3 players away | number clue not touching the newest card
-| 8 (17)  | discard 4 | 3 players away | color clue
-
-<br />
-
-### Color Mute / Number Mute / Alternating Clues / Duck (4-Player)
-
-| # mod 6 | action    | person clued   | type of clue
-| ------- | --------- | -------------- | -------------
-| 0 (6)   | give clue | 1 player away  | any clue on newest card
-| 1 (7)   | play 1    | 1 player away  | any clue not touching the newest card
-| 2 (8)   | play 2    | 2 players away | any clue on newest card
-| 3 (9)   | play 3    | 2 players away | any clue not touching the newest card
-| 4 (10)  | play 4    | 3 players away | any clue on newest card
-| 5 (11)  | chop move | 3 players away | any clue not touching the newest card
-
-<br />
-
 ### Color Mute / Number Mute / Alternating Clues / Duck (5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
@@ -238,9 +284,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-## Clue Interpretation Tables (Throw It in a Hole)
-
-### 4 Suits (5-Player)
+### Throw It in a Hole (4 Suits) (5-Player)
 
 | # mod 16 | action        | person clued   | type of clue
 | -------- | ------------- | -------------- | -------------
@@ -254,16 +298,16 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (23)   | play 1 green  | 2 players away | color not touching the newest card
 | 8 (24)   | play 3 green  | 3 players away | number on newest card
 | 9 (25)   | play 4 green  | 3 players away | color on newest card
-| 10 (26)   | play 1 blue   | 3 players away | number not touching the newest card
-| 11 (27)   | play 3 blue   | 3 players away | color not touching the newest card
-| 12 (28)   | play 4 blue   | 4 players away | number on newest card
-| 13 (29)   | discard 2     | 4 players away | color on newest card
-| 14 (30)   | discard 3     | 4 players away | number not touching the newest card
-| 15 (31)   | discard 4     | 4 players away | color not touching the newest card
+| 10 (26)  | play 1 blue   | 3 players away | number not touching the newest card
+| 11 (27)  | play 3 blue   | 3 players away | color not touching the newest card
+| 12 (28)  | play 4 blue   | 4 players away | number on newest card
+| 13 (29)  | discard 2     | 4 players away | color on newest card
+| 14 (30)  | discard 3     | 4 players away | number not touching the newest card
+| 15 (31)  | discard 4     | 4 players away | color not touching the newest card
 
 <br />
 
-### 5 Suits (5-Player)
+### Throw It in a Hole (5 Suits) (5-Player)
 
 | # mod 16 | action        | person clued   | type of clue
 | -------- | ------------- | -------------- | -------------
@@ -286,7 +330,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### 6 Suits (5-Player)
+### Throw It in a Hole (6 Suits) (5-Player)
 
 | # mod 16 | action        | person clued   | type of clue
 | -------- | ------------- | -------------- | -------------
@@ -306,5 +350,25 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 13 (29)  | discard 2     | 4 players away | color on newest card
 | 14 (30)  | discard 3     | 4 players away | number not touching the newest card
 | 15 (31)  | discard 4     | 4 players away | color not touching the newest card
+
+<br />
+
+## Variant-Specific Clue Interpretation Tables (6-player)
+
+### Standard
+| Touched by         | No color clues         | Own color clue     | All color clues               |
+| ------------------ | ---------------------- | ------------------ | ----------------------------- |
+| No rank clues      | Null (Dark Null)       | Brown (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
+| Own rank clue      | White (Gray)           | No Variant (Black) | Rainbow (Dark Rainbow)        |
+| All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)   | Omni (Dark Omni)              |
+
+### Special
+* Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
+* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
+* Alternating Clues
+* Clue Starved
+* Up or Down
+* Cow & Pig / Duck
+* Throw It in a Hole
 
 <br />
