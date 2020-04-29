@@ -7,16 +7,49 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 ## Table of Contents
 1. [Find Tables](#find-tables)
 2. [General Tables](#general-tables)
-3. Variant-Specific Clue Interpretation Tables
+3. [Variant-Specific Clue Interpretation Tables](#variant-specific-clue-interpretation-tables)
 
 <br />
 
 ## Find Tables
-* [General Tables](#general-tables)
-* [3-Player Tables](#variant-specific-clue-interpretation-tables-3-player)
-* [4-Player Tables](#variant-specific-clue-interpretation-tables-4-player)
-* [5-Player Tables](#variant-specific-clue-interpretation-tables-5-player)
-* [6-Player Tables](#variant-specific-clue-interpretation-tables-6-player)
+
+| Variant             | 3 Player                                                                                         | 4 Player                                                                                                   | 5 Player                                                                                                   | 6 Player                            |
+| ------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| No Variant          | [No Variant (3-Player)](#no-variant--clue-starved-3-player)                                      | [No Variant (4-Player)](#no-variant--clue-starved--cow--pig-4-player--5-player)                            | [No Variant (5-Player)](#no-variant--clue-starved--cow--pig-4-player--5-player)                            | No Variant (6-Player)               |
+| Rainbow             | [Rainbow (3-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player)             | [Rainbow (4-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)             | [Rainbow (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)             | Rainbow (6-Player)                  |
+| Pink                | [Pink (3-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player)                | [Pink (4-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)                | [Pink (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)                | Pink (6-Player)                     |
+| White               | [White (3-Player)](#white--brown--up-or-down-3-player)                                           | [White (4-Player)](#white--brown--up-or-down-4-player--5-player)                                           | [White (5-Player)](#white--brown--up-or-down-4-player--5-player)                                           | White (6-Player)                    |
+| Brown               | [Brown (3-Player)](#white--brown--up-or-down-3-player)                                           | [Brown (4-Player)](#white--brown--up-or-down-4-player--5-player)                                           | [Brown (5-Player)](#white--brown--up-or-down-4-player--5-player)                                           | Brown (6-Player)                    |
+| Omni                | Omni (3-Player)                                                                                  | Omni (4-Player)                                                                                            | [Omni (5-Player)](#omni-5-player)                                                                          | Omni (6-Player)                     |
+| Null                | Null (3-Player)                                                                                  | Null (4-Player)                                                                                            | [Null (5-Player)](#null-5-player)                                                                          | Null (6-Player)                     |
+| Muddy Rainbow       | Muddy Rainbow<br />(3-Player)                                                                    | Muddy Rainbow<br />(4-Player)                                                                              | [Muddy Rainbow<br />(5-Player)](#muddy-rainbow-5-player)                                                   | Muddy Rainbow<br />(6-Player)       |
+| Light Pink          | Light Pink (3-Player)                                                                            | Light Pink (4-Player)                                                                                      | [Light Pink (5-Player)](#light-pink-5-player)                                                              | Light Pink (6-Player)               |
+| Ambiguous           | [Ambiguous (3-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player)           | [Ambiguous (4-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)           | [Ambiguous (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)           | Ambiguous (6-Player)                |
+| Very Ambiguous      | [Very Ambiguous<br />(3-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) | [Very Ambiguous<br />(4-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) | [Very Ambiguous<br />(5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) | Very Ambiguous<br />(6-Player)      |
+| Extremely Ambiguous | [Extremely Ambiguous<br />(3-Player)](#extremely-ambiguous-3-player)                             | [Extremely Ambiguous<br />(4-Player)](#extremely-ambiguous-4-player--5-player)                             | [Extremely Ambiguous<br />(5-Player)](#extremely-ambiguous-4-player--5-player)                             | Extremely Ambiguous<br />(6-Player) |
+| Dual-Color          | [Dual-Color (3-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player)          | [Dual-Color (4-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)          | [Dual-Color (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)          | Dual-Color (6-Player)               |
+| Color Blind         | [Color Blind (3-Player)](#color-blind-3-player)<br />(*[3 Suits](#color-blind-3-suits-3-player)) | [Color Blind (4-Player)](#color-blind-4-player--5-player)                                                  | [Color Blind (5-Player)](#color-blind-4-player--5-player)                                                  | Color Blind (6-Player)              |
+| Number Blind        | [Number Blind (3-Player)](#number-blind--totally-blind-3-player)                                 | [Number Blind (4-Player)](#number-blind--totally-blind-4-player--5-player)                                 | [Number Blind (5-Player)](#number-blind--totally-blind-4-player--5-player)                                 | Number Blind (6-Player)             |
+| Totally Blind       | [Totally Blind (3-Player)](#number-blind--totally-blind-3-player)                                | [Totally Blind (4-Player)](#number-blind--totally-blind-4-player--5-player)                                | [Totally Blind (5-Player)](#number-blind--totally-blind-4-player--5-player)                                | Totally Blind (6-Player)            |
+| Color Mute          | Color Mute (3-Player)                                                                            | [Color Mute (4-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                        | [Color Mute (5-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                        | Color Mute (6-Player)               |
+| Number Mute         | Number Mute (3-Player)                                                                           | [Number Mute (4-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                       | [Number Mute (5-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                       | Number Mute (6-Player)              |
+| Alternating Clues   | Alternating Clues<br />(3-Player)                                                                | [Alternating Clues<br />(4-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)            | [Alternating Clues<br />(5-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)            | Alternating Clues<br />(6-Player)   |
+| Clue Starved        | _(Currently Unavailable)_                                                                        | _(Currently Unavailable)_                                                                                  | [Clue Starved (5-Player)](#no-variant--clue-starved--cow--pig-4-player--5-player)                          | Clue Starved (6-Player)             |
+| Up or Down          | [Up or Down (3-Player)](#white--brown--up-or-down-3-player)                                      | [Up or Down (4-Player)](#white--brown--up-or-down-4-player--5-player)                                      | [Up or Down (5-Player)](#white--brown--up-or-down-4-player--5-player)                                      | Up or Down (6-Player)               |
+| Cow & Pig           | Cow & Pig (3-Player)                                                                             | [Cow & Pig (4-Player)](#no-variant--clue-starved--cow--pig-4-player--5-player)                             | [Cow & Pig (5-Player)](#no-variant--clue-starved--cow--pig-4-player--5-player)                             | Cow & Pig (6-Player)                |
+| Duck                | Duck (3-Player)                                                                                  | [Duck (4-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                              | [Duck (5-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                              | Duck (6-Player)                     |
+
+#### Throw It in a Hole
+* 3-Player
+* 4-Player
+* [5-Player (4 Suits)](#throw-it-in-a-hole-4-suits-5-player) / [5-Player (5 Suits)](#throw-it-in-a-hole-5-suits-5-player) / [5-Player (6 Suits)](#throw-it-in-a-hole-6-suits-5-player)
+* 6-Player
+
+### Others
+* [4 Player](#general-table-4-player)
+* [5 Player](#general-table-5-player)
+
+<br />
 
 ### Use Same Tables
 * No Variant = Clue Starved = Cow & Pig
@@ -27,6 +60,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 * Muddy Rainbow = Rainbow & Brown = Rainbow & Muddy Rainbow = Brown & Muddy Rainbow
 * Light Pink = Pink & White = Pink & Light Pink = White & Light Pink
 * Special Suit = Special-Ones = Special-Fives (e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.)
+* Special Suit = Dark Special Suit (Light Pink = Gray Pink)
 
 <br />
 
@@ -34,7 +68,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 * Table for any variant not listed above. (e.g. Dark Omni & Dark Null)
 
-### 4-Player
+### General Table (4-Player)
 
 | # mod 6 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -49,7 +83,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### 5-Player
+### General Table (5-Player)
 
 | # mod 8 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -66,25 +100,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-## Variant-Specific Clue Interpretation Tables (3-player)
-
-### Standard (3-player)
-| Touched by         | No color clues                                     | Own color clue                                                                     | All color clues                                                                          |
-| ------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| No rank clues      | Null (Dark Null)                                   | [Brown](#white--brown--up-or-down-3-player) (Dark Brown)                           | Muddy Rainbow (Cocoa Rainbow)                                                            |
-| Own rank clue      | [White](#white--brown--up-or-down-3-player) (Gray) | [No Variant](#no-variant--clue-starved-3-player) (Black)                           | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) (Dark Rainbow) |
-| All rank clues     | Light Pink (Gray Pink)                             | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) (Dark Pink) | Omni (Dark Omni)                                                                         |
-
-### Special (3-player)
-* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) / [Extremely Ambiguous](#extremely-ambiguous-3-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player)
-* [Color Blind](#color-blind-3-player) (*[Color Blind (3 Suits)](#color-blind-3-suits-3-player)) / [Number Blind](#number-blind--totally-blind-3-player) / [Totally Blind](#number-blind--totally-blind-3-player) / Color Mute / Number Mute
-* Alternating Clues
-* [Clue Starved](#no-variant--clue-starved-3-player)
-* [Up or Down](#white--brown--up-or-down-3-player)
-* Cow & Pig / Duck
-* Throw It in a Hole
-
-<br />
+## Variant-Specific Clue Interpretation Tables
 
 ### No Variant / Clue Starved (3-player)
 
@@ -208,26 +224,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-## Variant-Specific Clue Interpretation Tables (4-player)
-
-### Standard (4-player)
-| Touched by         | No color clues                                               | Own color clue                                                                               | All color clues                                                                                    |
-| ------------------ | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| No rank clues      | Null (Dark Null)                                             | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                           | Muddy Rainbow (Cocoa Rainbow)                                                                      |
-| Own rank clue      | [White](#white--brown--up-or-down-4-player--5-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Rainbow) |
-| All rank clues     | Light Pink (Gray Pink)                                       | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Pink) | Omni (Dark Omni)                                                                                   |
-
-### Special (4-player)
-* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
-* [Color Blind](#color-blind-4-player--5-player) / [Number Blind](#number-blind--totally-blind-4-player--5-player) / [Totally Blind](#number-blind--totally-blind-4-player--5-player) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
-* [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-4-player)
-* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
-* [Up or Down](#white--brown--up-or-down-4-player--5-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-4-player)
-* Throw It in a Hole
-
-<br />
-
 ### No Variant / Clue Starved / Cow & Pig (4-Player & 5-Player)
 
 * Use any table below.
@@ -338,24 +334,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 [(Find Tables)](#find-tables)
 
 <br />
-
-## Variant-Specific Clue Interpretation Tables (5-player)
-
-### Standard (5-player)
-| Touched by         | No color clues                                               | Own color clue                                                                               | All color clues                                                                                    |
-| ------------------ | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null-5-player) (Dark Null)                           | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow-5-player) (Cocoa Rainbow)                                           |
-| Own rank clue      | [White](#white--brown--up-or-down-4-player--5-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Rainbow) |
-| All rank clues     | [Light Pink](#light-pink-5-player) (Gray Pink)               | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Pink) | [Omni](#omni-5-player) (Dark Omni)                                                                 |
-
-### Special (5-player)
-* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
-* [Color Blind](#color-blind-4-player--5-player) / [Number Blind](#number-blind--totally-blind-4-player--5-player) / [Totally Blind](#number-blind--totally-blind-4-player--5-player) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-5-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-5-player)
-* [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-5-player)
-* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
-* [Up or Down](#white--brown--up-or-down-4-player--5-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-5-player)
-* [Throw It in a Hole (4 Suits)](#throw-it-in-a-hole-4-suits-5-player) / [Throw It in a Hole (5 Suits)](#throw-it-in-a-hole-5-suits-5-player) / [Throw It in a Hole (6 Suits)](#throw-it-in-a-hole-6-suits-5-player)
 
 ### Omni (5-Player)
 
@@ -517,30 +495,6 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 13 (29)  | discard 2     | 4 players away | color on newest card
 | 14 (30)  | discard 3     | 4 players away | number not touching the newest card
 | 15 (31)  | discard 4     | 4 players away | color not touching the newest card
-
-[(Find Tables)](#find-tables)
-
-<br />
-
-## Variant-Specific Clue Interpretation Tables (6-player)
-
-### Standard (6-player)
-| Touched by         | No color clues         | Own color clue     | All color clues               |
-| ------------------ | ---------------------- | ------------------ | ----------------------------- |
-| No rank clues      | Null (Dark Null)       | Brown (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
-| Own rank clue      | White (Gray)           | No Variant (Black) | Rainbow (Dark Rainbow)        |
-| All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)   | Omni (Dark Omni)              |
-
-### Special (6-player)
-* Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
-* Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
-* Alternating Clues
-* Clue Starved
-* Up or Down
-* Cow & Pig / Duck
-* Throw It in a Hole
-
-<br />
 
 [(Find Tables)](#find-tables)
 
