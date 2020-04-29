@@ -1,8 +1,8 @@
 # Number Mute Conventions
 
 * These conventions are optimal for a 2-player game.
-* If you want to try these conventions in a 3-player game, see the [modification](#modification) below.
-* For a 4 or more player game, it is proved that hat-guessing is better than these number mute conventions.
+* If you want to try these conventions in a 3-player game, see the modification below.
+* For a 4 or more player game, it is proved that [hat-guessing](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#color-mute--number-mute--alternating-clues--duck-4-player) is better than these number mute conventions.
 
 <br/>
 
