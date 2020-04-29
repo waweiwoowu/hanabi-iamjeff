@@ -96,7 +96,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 7 (16)  | discard 3 | 2 players away | color clue not on newest card 
 | 8 (17)  | discard 4 | any player     | 1 clue not on newest card
 
-[#FindTables](#find-tables)
+[Find Tables ↑](#find-tables)
 
 <br />
 
@@ -111,7 +111,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 4 (10)  | play 4    | 2 players away | color on newest card
 | 5 (11)  | play 5    | 2 players away | any clue not touching the newest card
 
-[#FindTables](#find-tables)
+[Find Tables ↑](#find-tables)
 
 <br />
 
@@ -126,7 +126,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 4 (10)  | play 4    | 2 players away | color clue not touching the newest card
 | 5 (11)  | play 5    | 2 players away | any clue on newest card
 
-[#FindTables](#find-tables)
+[↑ Find Tables](#find-tables)
 
 <br />
 
@@ -141,7 +141,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 4 (10)  | play 4    | 2 players away | number clue not touching the newest card
 | 5 (11)  | play 5    | 2 players away | color clue
 
-[#FindTables](#find-tables)
+[↑ Find Tables](#find-tables)
 
 <br />
 
@@ -160,7 +160,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 8  (18)  | discard 4 | 2 players away  | number clue on newest card
 | 9  (19)  | discard 5 | 2 players away  | number clue not on newest card
 
-[#FindTables](#find-tables)
+[↑ Find Tables](#find-tables)
 
 <br />
 
@@ -180,7 +180,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 9  (20)  | discard 4 | 2 players away  | number clue on newest card
 | 10 (21)  | discard 5 | any player away | number clue not on newest card
 
-[#FindTables](#find-tables)
+[↑ Find Tables](#find-tables)
 
 <br />
 
@@ -200,7 +200,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 9  (20)  | discard 4 | 2 players away  | 5 clue
 | 10 (21)  | discard 5 | any player away | color clue
 
-[#FindTables](#find-tables)
+[↑ Find Tables](#find-tables)
 
 <br />
 
