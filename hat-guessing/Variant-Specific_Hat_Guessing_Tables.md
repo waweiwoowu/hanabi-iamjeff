@@ -4,6 +4,13 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
+## Table of Contents
+1. [Find Tables](#find-tables)
+2. [General Tables](#general-tables)
+3. [Variant-Specific Clue Interpretation Tables](#variant-specific-clue-interpretation-tables)
+
+<br />
+
 ## Find Tables
 
 ### Standard
