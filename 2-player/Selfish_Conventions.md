@@ -1,9 +1,13 @@
-# Selfish Color Clues
+# Selfish Conventions
 * This is an instruction how you should respond to a _Selfish Color Clue_ while playing a 2-player game.
 
 <br/>
 
-## Conventions
+## Table of Contents
+1. [Selfish Conventions](#selfish-conventions)
+2. [Interpretations](#interpretations)
+
+## Selfish Conventions
 * Here are some conventions related to _Selfish Color Clues_ you might use in the games:
 
 ### Selfish Chop Move
