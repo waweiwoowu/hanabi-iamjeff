@@ -66,7 +66,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | [Light Pink (4-Player)](#light-pink-4-player)                                         | [Light Pink (5-Player)](#light-pink-5-player)                                               | [Light Pink (6-Player)](#light-pink-6-player)                                         |
 | [Ambiguous (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)      | [Ambiguous (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)      | [Ambiguous (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)      |
 | [Very Ambiguous (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) | [Very Ambiguous (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) | [Very Ambiguous (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) |
-| [Extremely Ambiguous (4-Player)](#extremely-ambiguous-4-player)                       | [Extremely Ambiguous (5-Player)](#extremely-ambiguous-5-player)                             | Extremely Ambiguous (6-Player)                                                        |
+| [Extremely Ambiguous (4-Player)](#extremely-ambiguous-4-player)                       | [Extremely Ambiguous (5-Player)](#extremely-ambiguous-5-player)                             | [Extremely Ambiguous (6-Player)](#general-table-6-player)                             |
 | [Dual-Color (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)     | [Dual-Color (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)     | [Dual-Color (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)     |
 | Color Blind (4-Player)                                                                | Color Blind (5-Player)                                                                      | Color Blind (6-Player)                                                                |
 | Number Blind (4-Player)                                                               | Number Blind (5-Player)                                                                     | Number Blind (6-Player)                                                               |
@@ -88,7 +88,9 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 * Muddy Rainbow = Rainbow & Brown = Rainbow & Muddy Rainbow = Brown & Muddy Rainbow
 * Light Pink = Pink & White = Pink & Light Pink = White & Light Pink
 * Special Suit = Special-Ones = Special-Fives (e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.)
-* Special Suit = Dark Special Suit (Light Pink = Gray Pink)
+* Special Suit = Dark Special Suit (e.g. Light Pink = Gray Pink)
+
+<br />
 
 ## Clue Interpretation Tables (4-player)
 
@@ -482,20 +484,18 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 ### General Table (6-Player)
 
-| # mod 12 | action                           | person clued   | type of clue
+| # mod 10 | action                           | person clued   | type of clue
 | -------- | -------------------------------- | -------------- | -------------
-| 0 (12)   | give clue / discard              | 1 player away  | number on newest card
-| 1 (13)   | play a card from slot 1          | 1 player away  | color on newest card
-| 2 (14)   | play a card from slot 2          | 2 players away | number on newest card
-| 3 (15)   | play a card from slot 3          | 2 players away | color on newest card
-| 4 (16)   | play a card from slot 4          | 3 players away | number on newest card
-| 5 (17)   | play a one-away card from slot 1 | 3 players away | color on newest card
-| 6 (18)   | play a one-away card from slot 2 | 4 players away | number on newest card
-| 7 (19)   | play a one-away card from slot 3 | 4 players away | color on newest card
-| 8 (20)   | play a one-away card from slot 4 | 5 players away | number on newest card
-| 9 (21)   | triple chop move                 | 5 players away | color on newest card
-| 10 (22)  | double chop move                 | any player     | number clue not touching the newest card
-| 11 (23)  | chop move                        | any player     | color clue not touching the newest card
+| 0 (10)   | give clue / discard              | 1 player away  | number clue
+| 1 (11)   | play a card from slot 1          | 1 player away  | color clue
+| 2 (12)   | play a card from slot 2          | 2 players away | number clue
+| 3 (13)   | play a card from slot 3          | 2 players away | color clue
+| 4 (14)   | play a card from slot 4          | 3 players away | number clue
+| 5 (15)   | play a one-away card from slot 1 | 3 players away | color clue
+| 6 (16)   | play a one-away card from slot 2 | 4 players away | number clue
+| 7 (17)   | play a one-away card from slot 3 | 4 players away | color clue
+| 8 (18)   | play a one-away card from slot 4 | 5 players away | number clue
+| 9 (19)   | chop move                        | 5 players away | color clue
 
 [(Find Tables)](#find-tables)
 
