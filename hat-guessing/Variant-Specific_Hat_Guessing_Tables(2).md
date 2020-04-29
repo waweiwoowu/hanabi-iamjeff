@@ -13,14 +13,14 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Find Tables
 
-### Standard (5-player)
+### Standard
 | Touched by         | No color clues                        | Own color clue                    | All color clues                                 |
 | ------------------ | ------------------------------------- | --------------------------------- | ----------------------------------------------- |
 | No rank clues      | [Null](#null) (Dark Null)             | [Brown](#brown) (Dark Brown)      | [Muddy Rainbow](#muddy-rainbow) (Cocoa Rainbow) |
 | Own rank clue      | [White](#white) (Gray)                | [No Variant](#no-variant) (Black) | [Rainbow](#rainbow) (Dark Rainbow)              |
 | All rank clues     | [Light Pink](#light-pink) (Gray Pink) | [Pink](#pink) (Dark Pink)         | [Omni](#omni) (Dark Omni)                       |
 
-### Special (5-player)
+### Special
 * [Ambiguous](#ambiguous) / [Very Ambiguous](#very-ambiguous) / [Extremely Ambiguous](#extremely-ambiguous) / [Dual-Color](#dual-color)
 * [Color Blind](#color-blind) / [Number Blind](#number-blind) / [Totally Blind](#totally-blind) / [Color Mute](#color-mute) / [Number Mute](#number-mute)
 * [Alternating Clues](#alternating-clues)
@@ -28,6 +28,11 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 * [Up or Down](#up-or-down)
 * [Cow & Pig](#cow--pig) / [Duck](#duck)
 * [Throw It in a Hole](#throw-it-in-a-hole)
+
+### Other Variant
+* [4 Player](#general-table-4-player)
+* [5 Player](#general-table-5-player)
+
 
 <br />
 
