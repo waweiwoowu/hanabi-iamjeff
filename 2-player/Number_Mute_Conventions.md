@@ -4,6 +4,8 @@
 * If you want to try these conventions in a 3-player game, see the [modification](#modification-3-player) below.
 * For a 4 or more player game, it is proved that [hat-guessing](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Variant-Specific_Hat_Guessing_Tables.md#color-mute--number-mute--alternating-clues--duck-4-player) is better than these number mute conventions.
 
+<br/>
+
 ## Table of Contents
 1. [General Conventions (2-player)](#general-conventions-2-player)
 2. [Number Mute Positional Clue Rules](#number-mute-positional-clue-rules)
