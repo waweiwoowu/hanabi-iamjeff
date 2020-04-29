@@ -45,6 +45,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 4 (10)  | play 4    | 3 players away | number clue
 | 5 (11)  | chop move | 3 players away | color clue
 
+[(Find Tables)](#find-tables)
+
 <br />
 
 ### 5-Player
@@ -59,6 +61,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | 5 (13)  | discard 2 | 3 players away | color clue
 | 6 (14)  | discard 3 | 4 players away | number clue
 | 7 (15)  | discard 4 | 4 players away | color clue
+
+[(Find Tables)](#find-tables)
 
 <br />
 
