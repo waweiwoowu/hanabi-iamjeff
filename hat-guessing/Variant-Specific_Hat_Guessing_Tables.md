@@ -13,10 +13,10 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Find Tables
 * [General Tables](#general-tables)
-* [Variant-Specific Clue Interpretation Tables (3-player)](#variant-specific-clue-interpretation-tables-3-player)
-* [Variant-Specific Clue Interpretation Tables (4-player)](#variant-specific-clue-interpretation-tables-4-player)
-* [Variant-Specific Clue Interpretation Tables (5-player)](#variant-specific-clue-interpretation-tables-5-player)
-* [Variant-Specific Clue Interpretation Tables (6-player)](#variant-specific-clue-interpretation-tables-6-player)
+* [3-Player Tables](#variant-specific-clue-interpretation-tables-3-player)
+* [4-Player Tables](#variant-specific-clue-interpretation-tables-4-player)
+* [5-Player Tables](#variant-specific-clue-interpretation-tables-5-player)
+* [6-Player Tables](#variant-specific-clue-interpretation-tables-6-player)
 
 ### Use Same Tables
 * No Variant = Clue Starved = Cow & Pig
