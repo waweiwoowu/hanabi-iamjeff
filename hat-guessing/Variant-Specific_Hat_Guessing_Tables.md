@@ -47,8 +47,8 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ### Others
 * [Color Blind (3 Suits) (3-Player)](#color-blind-3-suits-3-player)
-* [4 Player](#general-table-4-player)
-* [5 Player](#general-table-5-player)
+* [General Table (4 Player)](#general-table-4-player)
+* [General Table (5 Player)](#general-table-5-player)
 
 <br />
 
