@@ -7,6 +7,8 @@
 1. [Selfish Conventions](#selfish-conventions)
 2. [Interpretations](#interpretations)
 
+<br/>
+
 ## Selfish Conventions
 
 ### Selfish Chop Move
