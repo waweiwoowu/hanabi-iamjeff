@@ -78,6 +78,11 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | [Up or Down (4-Player)](#brown--up-or-down-4-player)                                  | [Up or Down (5-Player)](#white--brown--up-or-down-5-player)                                 | [Up or Down (6-Player)](#brown--up-or-down-6-player)                                  |
 | [Cow & Pig (4-Player)](#no-variant--clue-starved--cow--pig-4-player)                  | [Cow & Pig (5-Player)](#no-variant--clue-starved--cow--pig-5-player)                        | [Cow & Pig (6-Player)](#no-variant--clue-starved--cow--pig-6-player)                  |
 | Duck (4-Player)                                                                       | [Duck (5-Player)](#duck-5-player)                                                           | Duck (6-Player)                                                                       |
+| Throw It in a Hole (4-Player)                                                         | Throw It in a Hole (5-Player)                                                               | Throw It in a Hole (6-Player)                                                         |
+
+#### Other Variants
+* [General Table (5 Player)](#general-table-5-player)
+* [General Table (6 Player)](#general-table-6-player)
 
 ### Use Same Tables
 * No Variant = Clue Starved = Cow & Pig
@@ -280,6 +285,23 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 ## Clue Interpretation Tables (5-player)
 
 * 3 Suits 5-player Conventions: [See here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-player_Conventions.md).
+
+### General Table (5-player)
+
+| # mod 8 | action                           | person clued   | type of clue
+| ------- | -------------------------------- | -------------- | -------------
+| 0 (8)   | give clue / discard              | 1 player away  | number clue
+| 1 (9)   | play a card from slot 1          | 1 player away  | color clue
+| 2 (10)  | play a card from slot 2          | 2 players away | number clue
+| 3 (11)  | play a card from slot 3          | 2 players away | color clue
+| 4 (12)  | play a card from slot 4          | 3 players away | number clue
+| 5 (13)  | play a one-away card from slot 1 | 3 players away | color clue
+| 6 (14)  | play a one-away card from chop   | 4 players away | number clue
+| 7 (15)  | chop move                        | 4 players away | color clue
+
+[(Find Tables)](#find-tables)
+
+<br />
 
 ### No Variant / Clue Starved / Cow & Pig (5-Player)
 
