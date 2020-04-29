@@ -8,7 +8,6 @@
 2. [Interpretations](#interpretations)
 
 ## Selfish Conventions
-* Here are some conventions related to _Selfish Color Clues_ you might use in the games:
 
 ### Selfish Chop Move
 * If the player gives a _Selfish Color Clue_ touching **only** one card and the card is not on chop.
