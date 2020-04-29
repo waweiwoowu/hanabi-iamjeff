@@ -1,7 +1,7 @@
 # Number Mute Conventions
 
 * These conventions are optimal for a 2-player game.
-* If you want to try these conventions in a 3-player game, see the modification below.
+* If you want to try these conventions in a 3-player game, see the [modification](#modification) below.
 * For a 4 or more player game, it is proved that hat-guessing is better than these number mute conventions.
 
 <br/>
@@ -90,6 +90,32 @@
 
 ## Modification
 
-* For 3 or more player games.
+* Number Mute Convention Modification for 3 or more player games.
+
+### General Principles
+* This is a _Hard Variant_, which means no _DDA_, no _5 Stall_ (of course, lol), and _Loaded Play Clue_ is turned on, etc.
+* _Good Touch Principle_ does not apply to this variant. You should always discard your rightmost card unless it's got cm'ed or saved.
+* No _Ejections_, _Discharges_, and any move required blind-playing two or more cards.
+
+### Turn 1 Stalls
+* Any clue given to the **next** player is either a Save Clue (touching the chop) or a Stall Clue (touching the other cards) in turn 1.
+* However, if the next player who receives a Stall Clue sees another _Play Clue_ available to give, then the "Stall Clue" should be interpreted as a _Play Clue_. (Same logic as a _5 Pull_.)
+* Any other clue on the other players is always a _Play Clue_.
+
+### The Chosen One Principle
+* While giving a positional clue, if there are two or more player have the same specific color in hand. You should always give that color clue to the player who needs to blind-play.
+* For example, in a 3 player game:
+  * Both Bob and Cathy have a green card(s) in hand. And both of them have a playable card on slot 3.
+  * Alice gives a green clue to Bob. (Telling someone to play slot 3)
+  * Bob sees Cathy has a playable card on slot 3. However, from _The Chosen One Principle_, Bob knows that the positional clue is on him.
+  * Bob blind-plays slot 3.
+
+### About Stall Clues
+* You must give a clue to the next player to perform a _Stall Clue_; or it is always treated as a _Play Clue_ (if you give a clue to other players).
+
+### About Save Clues
+* Any clue touching the _Chop_ on the **next** player is treated as a _Save Clue_.
+* You are only allowed to give a _Save Clue_ when you are on the _Save Seat_ (the person directly before the player who receives a _Save Clue_).
+* Notes: To save two critical cards in a row, use _Misplay Chop Move_.
 
 <br/>
