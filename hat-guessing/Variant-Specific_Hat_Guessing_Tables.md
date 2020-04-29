@@ -39,18 +39,16 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | Cow & Pig (3-Player)                                                                        | [Cow & Pig (4-Player)](#no-variant--clue-starved--cow--pig-4-player--5-player)                        | [Cow & Pig (5-Player)](#no-variant--clue-starved--cow--pig-4-player--5-player)                        | Cow & Pig (6-Player)                |
 | Duck (3-Player)                                                                             | [Duck (4-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                         | [Duck (5-Player)](#color-mute--number-mute--alternating-clues--duck-4-player)                         | Duck (6-Player)                     |
 
-### Throw It in a Hole
+#### Throw It in a Hole
 * 3-Player
 * 4-Player
 * [5-Player (4 Suits)](#throw-it-in-a-hole-4-suits-5-player) / [5-Player (5 Suits)](#throw-it-in-a-hole-5-suits-5-player) / [5-Player (6 Suits)](#throw-it-in-a-hole-6-suits-5-player)
 * 6-Player
 
-### Others
+#### Others
 * [Color Blind (3 Suits) (3-Player)](#color-blind-3-suits-3-player)
 * [General Table (4 Player)](#general-table-4-player)
 * [General Table (5 Player)](#general-table-5-player)
-
-<br />
 
 ### Use Same Tables
 * No Variant = Clue Starved = Cow & Pig
