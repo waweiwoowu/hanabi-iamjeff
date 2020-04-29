@@ -10,16 +10,16 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 | Touched by         | No color clues                                                                                   | Own color clue                                                                                  | All color clues                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | No rank clues      | [Null](#null--white--brown--white--null--brown--null-5-player) (Dark Null)                       | [Brown](#white--brown--up-or-down-4-player-and-5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down-4-player-and-5-player) (Gray)                                  | [No Variant](#no-variant--clue-starved--cow--pig-4-player-and-5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Rainbow)                  |
+| Own rank clue      | [White](#white--brown--up-or-down-4-player-and-5-player) (Gray)                                  | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Rainbow)                  |
 | All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-5-player) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player-and-5-player) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-5-player) (Dark Omni)                                           |
 
 ### Special
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
 * [Color Blind](#color-blind--number-blind--totally-blind) / [Number Blind](#color-blind--number-blind--totally-blind) / [Totally Blind](#color-blind--number-blind--totally-blind) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-4-player)
-* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player-and-5-player)
+* [Clue Starved](#no-variant--clue-starved--cow--pig-4-player--5-player)
 * [Up or Down](#white--brown--up-or-down-4-player-and-5-player)
-* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player-and-5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-4-player)
+* [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Throw It in a Hole](#clue-interpretation-tables-throw-it-in-a-hole)
 
 <br />
