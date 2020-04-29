@@ -26,7 +26,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 * Null = White & Brown = White & Null = Brown & Null
 * Muddy Rainbow = Rainbow & Brown = Rainbow & Muddy Rainbow = Brown & Muddy Rainbow
 * Light Pink = Pink & White = Pink & Light Pink = White & Light Pink
-* Special Suit = Special-Ones = Special-Fives, e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.
+* Special Suit = Special-Ones = Special-Fives (e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.)
 
 <br />
 
