@@ -58,17 +58,39 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Variant-Specific Clue Interpretation Tables
 
-### No Variant / Clue Starved / Cow & Pig (4-Player and 5-player)
+### No Variant / Clue Starved / Cow & Pig (4-Player & 5-Player)
+
 * Use any table below.
 
 <br />
 
 ### Color Blind / Number Blind / Totally Blind
-* Use [Empty Clue Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Empty_Clues.md).
+
+### 3 Player
+
+| # mod 11 | action    | person clued   | type of clue
+| -------- | --------- | -------------- | --------------
+| 0  (11)  | give clue | 1 player away  | clue blue
+| 1  (12)  | play 1    | 1 player away  | clue green
+| 2  (13)  | play 2    | 1 player away  | clue yellow
+| 3  (14)  | play 3    | 1 player away  | clue red
+| 4  (15)  | play 4    | 1 player away  | clue purple
+| 5  (16)  | play 5    | 1 player away  | clue orange
+| 6  (17)  | discard 1 | 2 players away | clue blue
+| 7  (18)  | discard 2 | 2 players away | clue green
+| 8  (19)  | discard 3 | 2 players away | clue yellow
+| 9  (20)  | discard 4 | 2 players away | clue red
+| 10 (21)  | discard 5 | 2 players away | clue purple
 
 <br />
 
-### Rainbow / Pink / Ambiguous / Very Ambiguous / Dual-Color (4-Player and 5-player)
+### 4 Player & 5 Player
+
+* TODO
+
+<br />
+
+### Rainbow / Pink / Ambiguous / Very Ambiguous / Dual-Color (4-Player & 5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -84,7 +106,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### White / Brown / Up or Down (4-Player and 5-player)
+### White / Brown / Up or Down (4-Player & 5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -164,7 +186,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### Extremely Ambiguous (4-Player or 5-player)
+### Extremely Ambiguous (4-Player & 5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -211,7 +233,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Clue Interpretation Tables (Throw It in a Hole)
 
-### 4 Suits (5-player)
+### 4 Suits (5-Player)
 
 | # mod 16 | action        | person clued   | type of clue
 | -------- | ------------- | -------------- | -------------
@@ -234,7 +256,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### 5 Suits (5-player)
+### 5 Suits (5-Player)
 
 | # mod 16 | action        | person clued   | type of clue
 | -------- | ------------- | -------------- | -------------
@@ -257,7 +279,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### 6 Suits (5-player)
+### 6 Suits (5-Player)
 
 | # mod 16 | action        | person clued   | type of clue
 | -------- | ------------- | -------------- | -------------
