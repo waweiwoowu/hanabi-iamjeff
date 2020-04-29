@@ -68,9 +68,6 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | [Very Ambiguous (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player) | [Very Ambiguous (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player) | [Very Ambiguous (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player) |
 | [Extremely Ambiguous (4-Player)](#extremely-ambiguous-4-player)                       | [Extremely Ambiguous (5-Player)](#extremely-ambiguous-5-player)                             | [Extremely Ambiguous (6-Player)](#general-table-6-player)                             |
 | [Dual-Color (4-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-4-player)     | [Dual-Color (5-Player)](#rainbow--pink--ambiguous--very-ambiguous--dual-color-5-player)     | [Dual-Color (6-Player)](#rainbow--ambiguous--very-ambiguous--dual-color-6-player)     |
-| Color Blind (4-Player)                                                                | Color Blind (5-Player)                                                                      | Color Blind (6-Player)                                                                |
-| Number Blind (4-Player)                                                               | Number Blind (5-Player)                                                                     | Number Blind (6-Player)                                                               |
-| Totally Blind (4-Player)                                                              | Totally Blind (5-Player)                                                                    | Totally Blind (6-Player)                                                              |
 | Color Mute (4-Player)                                                                 | [Color Mute (5-Player)](#color-mute--number-mute--alternating-clues-5-player)               | Color Mute (6-Player)                                                                 |
 | Number Mute (4-Player)                                                                | [Number Mute (5-Player)](#color-mute--number-mute--alternating-clues-5-player)              | Number Mute (6-Player)                                                                |
 | Alternating Clues (4-Player)                                                          | [Alternating Clues (5-Player)](#color-mute--number-mute--alternating-clues-5-player)        | Alternating Clues (6-Player)                                                          |
@@ -80,7 +77,12 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 | Duck (4-Player)                                                                       | [Duck (5-Player)](#duck-5-player)                                                           | Duck (6-Player)                                                                       |
 | Throw It in a Hole (4-Player)                                                         | Throw It in a Hole (5-Player)                                                               | Throw It in a Hole (6-Player)                                                         |
 
-#### Other Variants
+### Empty Clues
+* [Color Blind](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Empty_Clues.md#color-blind-tables)
+* [Number Blind](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Empty_Clues.md#number-blind-tables)
+* [Totally Blind](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Empty_Clues.md#totally-blind-tables)
+
+### Other Variants
 * [General Table (5 Player)](#general-table-5-player)
 * [General Table (6 Player)](#general-table-6-player)
 
