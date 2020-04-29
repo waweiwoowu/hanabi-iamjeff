@@ -5,11 +5,28 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 <br />
 
 ## Table of Contents
-1. [General Tables](#general-tables)
-2. [Variant-Specific Clue Interpretation Tables (3-player)](#variant-specific-clue-interpretation-tables-3-player)
-3. [Variant-Specific Clue Interpretation Tables (4-player)](#variant-specific-clue-interpretation-tables-4-player)
-4. [Variant-Specific Clue Interpretation Tables (5-player)](#variant-specific-clue-interpretation-tables-5-player)
-5. [Variant-Specific Clue Interpretation Tables (6-player)](#variant-specific-clue-interpretation-tables-6-player)
+1. [Find Tables](#find-tables)
+2. [General Tables](#general-tables)
+3. Variant-Specific Clue Interpretation Tables
+
+<br />
+
+## Find Tables
+* [General Tables](#general-tables)
+* [Variant-Specific Clue Interpretation Tables (3-player)](#variant-specific-clue-interpretation-tables-3-player)
+* [Variant-Specific Clue Interpretation Tables (4-player)](#variant-specific-clue-interpretation-tables-4-player)
+* [Variant-Specific Clue Interpretation Tables (5-player)](#variant-specific-clue-interpretation-tables-5-player)
+* [Variant-Specific Clue Interpretation Tables (6-player)](#variant-specific-clue-interpretation-tables-6-player)
+
+### Use Same Tables
+* No Variant = Clue Starved = Cow & Pig
+* Rainbow = Ambiguous = Very Ambiguous = Dual-Color
+* Brown = Up or Down
+* Omni = Rainbow & Pink = Rainbow & Omni = Pink & Omni
+* Null = White & Brown = White & Null = Brown & Null
+* Muddy Rainbow = Rainbow & Brown = Rainbow & Muddy Rainbow = Brown & Muddy Rainbow
+* Light Pink = Pink & White = Pink & Light Pink = White & Light Pink
+* Special Suit = Special-Ones = Special-Fives, e.g. Rainbow = Rainbow-Ones = Rainbow-Fives, and so on.
 
 <br />
 
@@ -47,14 +64,14 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Variant-Specific Clue Interpretation Tables (3-player)
 
-### Standard
+### Standard (3-player)
 | Touched by         | No color clues         | Own color clue     | All color clues               |
 | ------------------ | ---------------------- | ------------------ | ----------------------------- |
 | No rank clues      | Null (Dark Null)       | Brown (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
 | Own rank clue      | White (Gray)           | No Variant (Black) | Rainbow (Dark Rainbow)        |
 | All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)   | Omni (Dark Omni)              |
 
-### Special
+### Special (3-player)
 * Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
 * [Color Blind](#color-blind--number-blind--totally-blind-3-player) / [Number Blind](#color-blind--number-blind--totally-blind-3-player) / [Totally Blind](#color-blind--number-blind--totally-blind-3-player) / Color Mute / Number Mute
 * Alternating Clues
@@ -85,14 +102,14 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Variant-Specific Clue Interpretation Tables (4-player)
 
-### Standard
+### Standard (4-player)
 | Touched by         | No color clues                                               | Own color clue                                                                               | All color clues                                                                                    |
 | ------------------ | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | No rank clues      | Null (Dark Null)                                             | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                           | Muddy Rainbow (Cocoa Rainbow)                                                                      |
 | Own rank clue      | [White](#white--brown--up-or-down-4-player--5-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Rainbow) |
 | All rank clues     | Light Pink (Gray Pink)                                       | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Pink) | Omni (Dark Omni)                                                                                   |
 
-### Special
+### Special (4-player)
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
 * Color Blind / Number Blind / Totally Blind / [Color Mute](#color-mute--number-mute--alternating-clues--duck-4-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-4-player)
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-4-player)
@@ -178,14 +195,14 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Variant-Specific Clue Interpretation Tables (5-player)
 
-### Standard
-| Touched by         | No color clues                                                                                   | Own color clue                                                                               | All color clues                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null-5-player) (Dark Null)                       | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow-5-player) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down-4-player--5-player) (Gray)                                     | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Rainbow)                     |
-| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink-5-player) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni-5-player) (Dark Omni)                                           |
+### Standard (5-player)
+| Touched by         | No color clues                                               | Own color clue                                                                               | All color clues                                                                                    |
+| ------------------ | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| No rank clues      | [Null](#null-5-player) (Dark Null)                           | [Brown](#white--brown--up-or-down-4-player--5-player) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow-5-player) (Cocoa Rainbow)                                           |
+| Own rank clue      | [White](#white--brown--up-or-down-4-player--5-player) (Gray) | [No Variant](#no-variant--clue-starved--cow--pig-4-player--5-player) (Black)                 | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Rainbow) |
+| All rank clues     | [Light Pink](#light-pink-5-player) (Gray Pink)               | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) (Dark Pink) | [Omni](#omni-5-player) (Dark Omni)                                                                 |
 
-### Special
+### Special (5-player)
 * [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player) / [Extremely Ambiguous](#extremely-ambiguous-4-player--5-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-4-player--5-player)
 * [Color Blind](#color-blind--number-blind--totally-blind) / [Number Blind](#color-blind--number-blind--totally-blind) / [Totally Blind](#color-blind--number-blind--totally-blind) / [Color Mute](#color-mute--number-mute--alternating-clues--duck-5-player) / [Number Mute](#color-mute--number-mute--alternating-clues--duck-5-player)
 * [Alternating Clues](#color-mute--number-mute--alternating-clues--duck-5-player)
@@ -194,7 +211,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 * [Cow & Pig](#no-variant--clue-starved--cow--pig-4-player--5-player) / [Duck](#color-mute--number-mute--alternating-clues--duck-5-player)
 * [Throw It in a Hole (4 Suits)](#throw-it-in-a-hole-4-suits-5-player) / [Throw It in a Hole (5 Suits)](#throw-it-in-a-hole-5-suits-5-player) / [Throw It in a Hole (6 Suits)](#throw-it-in-a-hole-6-suits-5-player)
 
-### Omni / Rainbow & Pink / Rainbow & Omni / Pink & Omni (5-Player)
+### Omni (5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -210,7 +227,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### Null / White & Brown / White & Null / Brown & Null (5-Player)
+### Null (5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -226,7 +243,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### Muddy Rainbow / Rainbow & Brown / Rainbow & Muddy Rainbow / Brown & Muddy Rainbow (5-Player)
+### Muddy Rainbow (5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -242,7 +259,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 <br />
 
-### Light Pink / Pink & White / Pink & Light Pink / White & Light Pink (5-Player)
+### Light Pink (5-Player)
 
 | # mod 9 | action    | person clued   | type of clue
 | ------- | --------- | -------------- | -------------
@@ -345,14 +362,14 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 
 ## Variant-Specific Clue Interpretation Tables (6-player)
 
-### Standard
+### Standard (6-player)
 | Touched by         | No color clues         | Own color clue     | All color clues               |
 | ------------------ | ---------------------- | ------------------ | ----------------------------- |
 | No rank clues      | Null (Dark Null)       | Brown (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
 | Own rank clue      | White (Gray)           | No Variant (Black) | Rainbow (Dark Rainbow)        |
 | All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)   | Omni (Dark Omni)              |
 
-### Special
+### Special (6-player)
 * Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
 * Color Blind / Number Blind / Totally Blind / Color Mute / Number Mute
 * Alternating Clues
