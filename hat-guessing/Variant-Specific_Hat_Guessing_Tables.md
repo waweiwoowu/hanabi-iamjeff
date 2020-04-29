@@ -65,20 +65,75 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 ## Variant-Specific Clue Interpretation Tables (3-player)
 
 ### Standard (3-player)
-| Touched by         | No color clues         | Own color clue     | All color clues               |
-| ------------------ | ---------------------- | ------------------ | ----------------------------- |
-| No rank clues      | Null (Dark Null)       | Brown (Dark Brown) | Muddy Rainbow (Cocoa Rainbow) |
-| Own rank clue      | White (Gray)           | No Variant (Black) | Rainbow (Dark Rainbow)        |
-| All rank clues     | Light Pink (Gray Pink) | Pink (Dark Pink)   | Omni (Dark Omni)              |
+| Touched by         | No color clues                                     | Own color clue                                                                     | All color clues                                                                          |
+| ------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| No rank clues      | Null (Dark Null)                                   | [Brown](#white--brown--up-or-down-3-player) (Dark Brown)                           | Muddy Rainbow (Cocoa Rainbow)                                                            |
+| Own rank clue      | [White](#white--brown--up-or-down-3-player) (Gray) | [No Variant](#no-variant--clue-starved-3-player) (Black)                           | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) (Dark Rainbow) |
+| All rank clues     | Light Pink (Gray Pink)                             | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) (Dark Pink) | Omni (Dark Omni)                                                                         |
 
 ### Special (3-player)
-* Ambiguous / Very Ambiguous / Extremely Ambiguous / Dual-Color
+* [Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) / [Very Ambiguous](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player) / [Extremely Ambiguous](#extremely-ambiguous-3-player) / [Dual-Color](#rainbow--pink--ambiguous--very-ambiguous--dual-color-3-player)
 * [Color Blind](#color-blind-3-player) (*[Color Blind (3 Suits)](#color-blind-3-suits-3-player)) / [Number Blind](#number-blind--totally-blind-3-player) / [Totally Blind](#number-blind--totally-blind-3-player) / Color Mute / Number Mute
 * Alternating Clues
-* Clue Starved
-* Up or Down
+* [Clue Starved](#no-variant--clue-starved-3-player)
+* [Up or Down](#white--brown--up-or-down-3-player)
 * Cow & Pig / Duck
 * Throw It in a Hole
+
+<br />
+
+### No Variant / Clue Starved
+
+| # mod 9 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (9)   | give clue | 1 player away  | number on newest card
+| 1 (10)  | play 1    | 1 player away  | color on newest card
+| 2 (11)  | discard 5 | 1 player away  | number clue which is not 1 and doesn't hit newest card
+| 3 (12)  | play 3    | 1 player away  | color clue not on newest card
+| 4 (13)  | play 4    | 2 players away | number on newest card
+| 5 (14)  | play 5    | 2 players away | color on newest card
+| 6 (15)  | discard 2 | 2 players away | number clue which is not 1 and doesn't hit newest card
+| 7 (16)  | discard 3 | 2 players away | color clue not on newest card 
+| 8 (17)  | discard 4 | any player     | 1 clue not on newest card
+
+<br />
+
+### Rainbow / Pink / Ambiguous / Very Ambiguous / Dual-Color (3-Player)
+
+| # mod 6 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (6)   | give clue | 1 player away  | number on newest card
+| 1 (7)   | play 1    | 1 player away  | color on newest card
+| 2 (8)   | chop move | 1 player away  | any clue not touching the newest card
+| 3 (9)   | play 3    | 2 players away | number on newest card
+| 4 (10)  | play 4    | 2 players away | color on newest card
+| 5 (11)  | play 5    | 2 players away | any clue not touching the newest card
+
+<br />
+
+### White / Brown / Up or Down (3-Player)
+
+| # mod 6 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (6)   | give clue | 1 player away  | number clue not touching the newest card
+| 1 (7)   | play 1    | 1 player away  | color clue not touching the newest card
+| 2 (8)   | chop move | 1 player away  | any clue on newest card
+| 3 (9)   | play 3    | 2 players away | number clue not touching the newest card
+| 4 (10)  | play 4    | 2 players away | color clue not touching the newest card
+| 5 (11)  | play 5    | 2 players away | any clue on newest card
+
+<br />
+
+### Extremely Ambiguous (3-Player)
+
+| # mod 6 | action    | person clued   | type of clue
+| ------- | --------- | -------------- | -------------
+| 0 (6)   | give clue | 1 player away  | number clue on newest card
+| 1 (7)   | play 1    | 1 player away  | number clue not touching the newest card
+| 2 (8)   | chop move | 1 player away  | color clue
+| 3 (9)   | play 3    | 2 players away | number clue on newest card
+| 4 (10)  | play 4    | 2 players away | number clue not touching the newest card
+| 5 (11)  | play 5    | 2 players away | color clue
 
 <br />
 
