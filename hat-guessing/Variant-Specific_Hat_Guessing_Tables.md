@@ -541,3 +541,7 @@ This is a list of variant-specific tables for [hat-guessing conventions](https:/
 * Throw It in a Hole
 
 <br />
+
+[(Find Tables)](#find-tables)
+
+<br />
