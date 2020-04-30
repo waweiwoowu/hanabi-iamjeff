@@ -2,31 +2,32 @@
 
 This is an advanced version of [hat-guessing conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md) invented by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
 
+If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-Player_Conventions.md).
+
 <br />
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [General Conventions](#general-conventions)
-3. [Find Tables](#find-tables)
-4. [Clue Interpretation Tables (4-player)](#clue-interpretation-tables-4-player)
-5. [Clue Interpretation Tables (5-player)](#clue-interpretation-tables-5-player)
-6. [Clue Interpretation Tables (6-player)](#clue-interpretation-tables-6-player)
+3. [Other Conventions](#other-conventions)
+4. [Variant-Specific Conventions](#variant-specific-conventions)
+5. [Find Tables](#find-tables)
+6. [Clue Interpretation Tables (4-player)](#clue-interpretation-tables-4-player)
+7. [Clue Interpretation Tables (5-player)](#clue-interpretation-tables-5-player)
+8. [Clue Interpretation Tables (6-player)](#clue-interpretation-tables-6-player)
 
 <br />
 
 ## Introduction
-
 * In regular hat-guessing conventions, players are not able to do a finesse by encoding an action on a one-way card while giving a clue. However, players are now able to do it with these advanced conventions.
 * The convention is optimal for any variant with **high required efficiency** and **low starting pace**, e.g., a 3 suits 5-player game.
 
 <br />
 
 ## General Conventions
-
 * Most of the rules follow [the conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md#other-conventions) in regular hat-guessing conventions.
 
 ### Priority Rules
-
 * If a player has two or more playable cards (or one-away cards), the priority is as follows:
   1) Unique (e.g. black 1)
   2) Lowest rank
@@ -35,21 +36,42 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 * Players are allowed to break the priority if the action has only one interpretation to each player and no one would misplay.
 
 ### Finesse Rules
-
 * If a one-away card is finessed, then the finessed component doesn't need to follow the _Priority Rules_.
 * If two or more players have same copies of the finessed component, the finesse is on the last player who has it.
 * If the player sees their next player has both playable cards and one-away cards, and if the action is ambiguous and they don't know whether the finesse is on them or on their next player, they should assume it is on next player.
 
 ### Chop Move Rules
-
 * The players are not allowed to chop move a card while that player has a playable card.
 * The players are only allowed to chop move critical cards.
 
 ### Discard Rules
-
-* Since _Good Touch Principle_ doesn’t apply to these conventions, players should always discard their right-most card, unless it is chop moved.
+* **Do not** discard the useful card which has both positive number information and positive color information. (e.g. a green 4 touched by both green clue and a 4 clue)
+* **Do not** discard the globilly known critical card. (e.g. a 5 touched by a 5 clue)
+* Players should always discard their right-most card, unless it was chop moved. (Since _Good Touch Principle_ doesn’t apply)
+* Players should always discard their right-most card, even they have enough (locally) information on their card, unless they are 100% sure it is critical.
 
 <br />
+
+## Other Conventions
+
+### Useful Choice Principle
+* Always touch the cards which is useful while giving a clue. For example, high rank (e.g. 4 or 5) or unique (e.g. black 3).
+* This is because the team might have another chance to give enough information on those cards, and the team doesn't need to chop move them later.
+
+<br />
+
+## Variant-Specific Conventions
+
+### Up or Down
+
+#### (Unnamed)
+
+* In Up or Down, if a suit hasn't determined to be "going up" or "going down", the players are not allowed to assign action with "playing a 1-away card" for that suit.
+* For example, in an Up or Down (5 Suits) game:
+  * If `yellow 1`, `green 5`, and `blue Start` have been played on the stacks, the only one-away cards that can be assigned with actions are: `yellow 3` and `green 3`.
+
+<br />
+
 
 ## Find Tables
 
@@ -286,7 +308,7 @@ This is an advanced version of [hat-guessing conventions](https://github.com/Zam
 
 ## Clue Interpretation Tables (5-player)
 
-* 3 Suits 5-player Conventions: [See here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-player_Conventions.md).
+* 3 Suits 5-Player Conventions: [See here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-Player_Conventions.md).
 
 ### General Table (5-player)
 
