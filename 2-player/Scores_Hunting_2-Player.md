@@ -79,7 +79,7 @@
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
 * Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
 
-### Implied Truth
+### Implied Saves
 * If the player receives a *Play Clue* and they don't exactly know the identity of their card, and they see their teammate has a possible "matching" card on their chop (might not be true). Even though there are multiple possibilities for the card, in this situation if they know their teammate won't misplay or play into a *Finesse* or a *Bluff* from context, they can "protect" that card on chop by giving a clue directly.
 * For example, in a 4 suits game:
   * Red 1 and blue 1 are played on the stacks.
@@ -91,6 +91,13 @@
 
 ### Sacrifice Discard Chop Move
 * If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
+
+### Locked Hand Anxiety Play
+* This applies to situations where a player becomes locked but has a playable card or has a playable card through a partner's clued cards.
+* Generally in an Anxiety situation, the player must play the card that is most likely playable.
+* However, what if that card isn't playable?  A partner must continue to discard to generate clues to prevent an anxiety play.  Thus, each discard can shift the anxiety play/focus over by 1 slot.
+* For example:
+  * 
 
 <br/>
 
@@ -105,5 +112,9 @@
 * This convention only applies to variants with a pink suit.
 * In some emergancy situation, the players are allowed to break the *Pink Promise* to do a *5's Chop Move* by touching a one-away-from-chop pink card with a 5 clue.
 * You can only do this with a `pink 2` or a `critical pink card`.
+
+### Null Wraparound Changed
+* This convention only applies to variants with a null suit.
+* 
 
 <br/>
