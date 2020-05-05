@@ -33,6 +33,10 @@
 * Double Skipped Discard Chop Move
   * It is treated as a *Positional Clue*.
 
+### 4 Single Bluff
+* The players are allowed to perform a *4 Single Bluff* by touching a two-away 4 with a rank clue, if the 4 looks like a one-away card, and this move only gets one blind-card.
+* The 4 that was used as a *4 Single Bluff* is not promised to be one-away. And the player who receives the clue should mark nothing on their card.
+
 ### Crazy 3/4 Fake Saves
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
 * Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
