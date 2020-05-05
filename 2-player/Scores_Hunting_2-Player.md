@@ -34,7 +34,8 @@
   * It is treated as a *Positional Clue*.
 
 ### Crazy 3/4 Fake Saves
-* If there is a 3 or a 4 in the trash pile, and if the players don't know they have other copy of the card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
+* If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
+* Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
 
 <br/>
 
