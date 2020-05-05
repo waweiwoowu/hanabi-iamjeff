@@ -41,6 +41,16 @@
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
 * Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
 
+### Bold Saves
+* If the player receives a *Play Clue* and they don't exactly know the identity of their card, and they see their teammate has a possible "matching" card on their chop (might not be true). Even though there are multiple possibilities for the card, in this situation if they know their teammate won't misplay or play into a *Finesse* or a *Bluff* from context, they can "protect" that card on chop by giving a clue directly.
+* For example, in a 4 suits game:
+  * Red 1 and blue 1 are played on the stacks.
+  * Alice discarded last turn while Bob has a blue 3 on chop.
+  * Bob gives a 2 clue touching a red 2 on Alice's slot 1.
+  * Alice knows that the 2 could be either a red 2 or blue 2. If it is a blue 2 and Bob might discard the blue 3 if he has nothing to do. Alice gives a blue clue touching the blue 3 on Bob's chop.
+  * Bob sees the only playable blue card is blue 2. However, if it is a blue 2, Alice will not disard last turn. He knows that Alice doesn't know the identity of her 2, if she has a blue 2, it is fair enough to protect the blue 3 on chop.
+  * Bob marks his blue card as a 3 and discards
+
 <br/>
 
 ## Variant-Specific Conventions
