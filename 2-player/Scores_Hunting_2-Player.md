@@ -56,8 +56,9 @@
 * If you don't want to waste a clue to save a card on chop, especially when your teammate's chop is on slot 1, use the following recommended *Chop Moves* in different situation.
   * If you have a playable card: ***Scream Discard Chop Move***
   * If you don't have a playable card: ***Skipped Discard Chop Move***
-  * If your teammate has two cards need to be saved: ***Double Scream Blind-Play (Blind-Playing Chop)***
-  * If your teammate has three or more cards need to be saved: ***Misplay Chop Move***
+* For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
+  * Two cards: ***Double Scream Blind-Play (Blind-Playing Chop)***
+  * Three or more cards: ***Misplay Chop Move***
 
 <br/>
 
