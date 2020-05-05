@@ -1,9 +1,9 @@
-# 2-Player Score Hunting Conventions
+# Score Hunting Guide (2-Player)
 
 <br/>
 
 ## Introduction
-* This is the document for score hunting in 2-player games.
+* This is the guide for score hunting in 2-player games.
 * The goal of these conventions is to get the perfect scores in non-classic variants with minimum attempts. Thus, they are designed to be quite aggressive.
 
 <br/>
@@ -22,19 +22,19 @@
 * Most of the conventions follow the [2-Player Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md) with some changed.
 
 ### Conventions which are turned on
-* 5's Chop Move
-* 5 Pull
-  * Note that the players are allowed to do a 5 Pull at the start of the *Mid-Game*.
+* ***5's Chop Move***
+* ***5 Pull***
+  * Note that the players are allowed to do a *5 Pull* at the start of the *Mid-Game*.
 
 ### Conventions which are turned off
-* One-Away Saves
-* Second Turn Stalls
-* 5's Double Chop Move
-* Double Discard Save Stalls
-* Scream Blind-Play (Blind-Playing Chop)
+* ***One-Away Saves***
+* ***Second Turn Stalls***
+* ***5's Double Chop Move***
+* ***Double Discard Save Stalls***
+* ***Scream Blind-Play (Blind-Playing Chop)***
   * Blind-playing the *Chop* is always *Double Chop Move* (as a *Double Scream Blind-Play*).
-  * If you want to *Chop Move* only one card while in no clues, use ***Skipped Discard Chop Move***.
-* Double Skipped Discard Chop Move
+  * If you want to *Chop Move* only one card while in no clues, use *Skipped Discard Chop Move*.
+* ***Double Skipped Discard Chop Move***
   * It is treated as a *Positional Clue*.
 
 <br/>
@@ -42,7 +42,7 @@
 ## General Guide
 
 ### About First Turn Stalls
-* Convention: On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a Self-Finesse). Note that players are allowed to use this ability even if there are other playable cards in the hand.
+* Convention: On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a *Self-Finesse*). Note that players are allowed to use this ability even if there are other playable cards in the hand.
 * First, look at your teammate's hand, is it able to give a *Save Clue* to "setup" a *Finesse*, a *Bluff* or even a *5 Pull*?
 * Then you should note that if there are any critical cards on chop (or 2s) needed to be saved, and your teammate might discard on their turn? (e.g. you don't have playable cards)
 * In this situation, you might have to think that whether you should to take a risk to setup the *Finesse*, or just simply give a *Save Clue* on their *Chop*.
