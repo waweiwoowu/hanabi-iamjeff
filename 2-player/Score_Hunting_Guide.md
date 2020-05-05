@@ -113,11 +113,11 @@
 ### Pink Crazy Bluff/Pull
 * This convention only applies to variants with a pink suit.
 * The players are allowed to use any pink card to do a *3 Bluff*, *4 Doulbe Bluff*, or *5 Pull*.
-* *Pink Promise* doesn't apply to this move.
+* *Pink Promise* doesn't apply to the card that is used for *Pink Crazy Bluff/Pull*.
 
 ### Pink Crazy 5's Chop Move
 * This convention only applies to variants with a pink suit.
-* In some emergancy situation, the players are allowed to break the *Pink Promise* to do a *5's Chop Move* by touching a one-away-from-chop pink card with a 5 clue.
+* For an emergancy, the players are allowed to break the *Pink Promise* to do a *5's Chop Move* by touching a non-5 pink card with a 5 clue.
 * You can only do this with a `pink 2` or a `critical pink card`.
 
 ### Null Wraparound Changed
