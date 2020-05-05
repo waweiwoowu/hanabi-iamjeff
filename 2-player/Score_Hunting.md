@@ -49,23 +49,23 @@
 * There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
 
 ### About Chop Move
-* If you have two or more unknown 1s, you can use ***[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)***.
+* If you have two or more unknown 1s, you can use *[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)*.
   * Skip 1 card: *Single Chop Move*
   * Skip 2 cards: *Double Chop Move*
   * and so on...
 * If you are not in emergancy, these are some kinds of *Chop Moves* you might need in the game.
-  * If your teammate has a 5 one-away from chop: ***[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)***
-  * If your teammate has a trash: ***[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)***
+  * If your teammate has a 5 one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
+  * If your teammate has a trash: *[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)*
     * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
-  * If your teammate has a card leading from your own hand: ***[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)***
+  * If your teammate has a card leading from your own hand: *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
 * If you don't want to waste a clue to save a card on chop, especially when your teammate's chop is on slot 1, use the following recommended *Chop Moves* in different situation.
-  * If you have a playable card: ***[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)***
-  * If you don't have a playable card: ***[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)***
-  * If you have a trash: ***[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)***
-  * If you have two or more trash: ***[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)***
+  * If you have a playable card: *[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)*
+  * If you don't have a playable card: *[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)*
+  * If you have a trash: *[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)*
+  * If you have two or more trash: *[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)*
 * For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
-  * Two cards: ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
-  * Three or more cards: ***[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)***
+  * Two cards: *[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)*
+  * Three or more cards: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
 
 <br/>
 
