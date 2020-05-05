@@ -89,16 +89,19 @@
   * Bob sees the only playable blue card is blue 2. However, if it is a blue 2, Alice will not disard last turn. He knows that Alice doesn't know the identity of her 2, if she has a blue 2, it is fair enough to protect the blue 3 on chop.
   * Bob marks his blue card as a 3 and discards
 
+### Sacrifice Discard Chop Move
+* If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
+
 <br/>
 
 ## Variant-Specific Conventions
 
-### Crazy Pink Bluff/Pull (in Pink)
+### Crazy Pink Bluff/Pull
 * This convention only applies to variants with a pink suit.
 * The players are allowed to use any pink card to do a *3 Bluff*, *4 Doulbe Bluff*, or *5 Pull*.
 * *Pink Promise* doesn't apply to this move.
 
-### Crazy Pink 5's Chop Move (in Pink)
+### Crazy Pink 5's Chop Move
 * This convention only applies to variants with a pink suit.
 * In some emergancy situation, the players are allowed to break the *Pink Promise* to do a *5's Chop Move* by touching a one-away-from-chop pink card with a 5 clue.
 * You can only do this with a `pink 2` or a `critical pink card`.
