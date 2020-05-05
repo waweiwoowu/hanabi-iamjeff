@@ -42,14 +42,14 @@
 ## General Guide
 
 ### About First Turn Stalls
-* On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a Self-Finesse). Note that players are allowed to use this ability even if there are other playable cards in the hand.
+* Convention: On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a Self-Finesse). Note that players are allowed to use this ability even if there are other playable cards in the hand.
 * So first look at your teammate's hand, is it able to give a *Save Clue* to "setup" a *Finesse*, a *Bluff* or even a *5 Pull*?
 * Then you should note that if there are any critical card on chop (or a 2) needed to be saved and your teammate might discard on their turn if you don't have playable cards?
-* If it is true, then you need to think about that wheather you should to take a risk to setup the finesse, or give a *Save Clue* on their *Chop*?
+* If it is true, then you need to think about that wheather you should to take a risk to setup the *Finesse*, or give a *Save Clue* on their *Chop*.
 * There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
 
 ### About Chop Move
-* If you are not in emergancy
+* If you are not in emergancy, these are the useful *Chop Moves* you might need in the game.
   * If your teammate has a 5 one-away from chop: ***5's Chop Move***
   * If your teammate has a trash: ***Trash Chop Move***
     * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
