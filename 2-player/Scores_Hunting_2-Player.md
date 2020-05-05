@@ -37,7 +37,16 @@
 * Double Skipped Discard Chop Move
   * It is treated as a *Positional Clue*.
 
+<br/>
+
 ## General Guide
+
+### About First Turn Stalls
+* On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a Self-Finesse). Note that players are allowed to use this ability even if there are other playable cards in the hand.
+* So first look at your teammate's hand, is it able to give a *Save Clue* to "setup" a *Finesse*, a *Bluff* or even a *5 Pull*?
+* Then you should note that if there are any critical card on chop (or a 2) needed to be saved and your teammate might discard on their turn if you don't have playable cards?
+* If it is true, then you need to think about that wheather you should to take a risk to setup the finesse, or give a *Save Clue* on their *Chop*?
+* There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
 
 ### About Chop Move
 * If you are not in emergancy
@@ -50,10 +59,14 @@
   * If your teammate has two cards need to be saved: ***Double Scream Blind-Play (Blind-Playing Chop)***
   * If your teammate has three or more cards need to be saved: ***Misplay Chop Move***
 
+<br/>
+
 ## Variant-Specific Guide
 
 ### Brown
 * If you receive a brown *Play Clue*, and if you see your teammate has a brown card leading from your own hand, you should always give a *Play Clue* focusing that brown card before playing your brown card.
+
+<br/>
 
 ## Other Conventions
 
