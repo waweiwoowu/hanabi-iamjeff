@@ -21,12 +21,12 @@
 
 * Most of the conventions follow the [2-Player Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md) with some changed.
 
-### Conventions which are turned on
+### Conventions which are *turned on*
 * ***5's Chop Move***
 * ***5 Pull***
   * Note that the players are allowed to do a *5 Pull* at the start of the *Mid-Game*.
 
-### Conventions which are turned off
+### Conventions which are *turned off*
 * ***One-Away Saves***
 * ***Second Turn Stalls***
 * ***5's Double Chop Move***
@@ -72,7 +72,7 @@
 ## Variant-Specific Guide
 
 ### Brown
-* If you receive a brown *Play Clue*, and if you see your teammate has a brown card leading from your own hand, you should always give a *Play Clue* focusing that brown card before playing your brown card.
+* If you receive *Play Clue* with a brown clue, and if you see your teammate has a brown card through your own hand. It is always better to give a *Play Clue* (or a *Tempo Clue*) focusing that brown card before playing your own card.
 
 <br/>
 
@@ -99,10 +99,10 @@
 ### Sacrifice Discard Chop Move
 * If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
 
-### Locked Hand Anxiety Play
+### Anxiety Play Shift
 * This applies to situations where a player becomes locked but has a playable card or has a playable card through a partner's clued cards.
-* Generally in an Anxiety situation, the player must play the card that is most likely playable.
-* However, what if that card isn't playable?  A partner must continue to discard to generate clues to prevent an anxiety play.  Thus, each discard can shift the anxiety play/focus over by 1 slot.
+* Generally in an *Anxiety* situation, the player must play the card that is most likely playable.
+* However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
 * For example:
   * 
 
@@ -110,12 +110,12 @@
 
 ## Variant-Specific Conventions
 
-### Crazy Pink Bluff/Pull
+### Pink Crazy Bluff/Pull
 * This convention only applies to variants with a pink suit.
 * The players are allowed to use any pink card to do a *3 Bluff*, *4 Doulbe Bluff*, or *5 Pull*.
 * *Pink Promise* doesn't apply to this move.
 
-### Crazy Pink 5's Chop Move
+### Pink Crazy 5's Chop Move
 * This convention only applies to variants with a pink suit.
 * In some emergancy situation, the players are allowed to break the *Pink Promise* to do a *5's Chop Move* by touching a one-away-from-chop pink card with a 5 clue.
 * You can only do this with a `pink 2` or a `critical pink card`.
