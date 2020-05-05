@@ -1,9 +1,9 @@
-# Scores Hunting 2-Player Conventions
+# 2-Player Score Hunting Conventions
 
 <br/>
 
 ## Introduction
-* This is the document for scores hunting in 2-player games.
+* This is the document for score hunting in 2-player games.
 * The goal of these conventions is to get the perfect scores in non-classic variants with minimum attempts. Thus, they are designed to be quite aggressive.
 
 <br/>
@@ -19,7 +19,7 @@
 
 ## Conventions Changed
 
-* Most of the conventions follow the [2-Player Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md) but have a little bit changed.
+* Most of the conventions follow the [2-Player Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md) with some changed.
 
 ### Conventions which are turned on
 * 5's Chop Move
@@ -32,7 +32,7 @@
 * 5's Double Chop Move
 * Double Discard Save Stalls
 * Scream Blind-Play (Blind-Playing Chop)
-  * Scream Blind-Play is always double *Chop Move*.
+  * Blind-playing the *Chop* is always *Double Chop Move* (as a *Double Scream Blind-Play*).
   * If you want to *Chop Move* only one card while in no clues, use ***Skipped Discard Chop Move***.
 * Double Skipped Discard Chop Move
   * It is treated as a *Positional Clue*.
@@ -43,22 +43,29 @@
 
 ### About First Turn Stalls
 * Convention: On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a Self-Finesse). Note that players are allowed to use this ability even if there are other playable cards in the hand.
-* So first look at your teammate's hand, is it able to give a *Save Clue* to "setup" a *Finesse*, a *Bluff* or even a *5 Pull*?
-* Then you should note that if there are any critical card on chop (or a 2) needed to be saved and your teammate might discard on their turn if you don't have playable cards?
-* If it is true, then you need to think about that wheather you should to take a risk to setup the *Finesse*, or give a *Save Clue* on their *Chop*.
+* First, look at your teammate's hand, is it able to give a *Save Clue* to "setup" a *Finesse*, a *Bluff* or even a *5 Pull*?
+* Then you should note that if there are any critical cards on chop (or 2s) needed to be saved, and your teammate might discard on their turn? (e.g. you don't have playable cards)
+* In this situation, you might have to think that whether you should to take a risk to setup the *Finesse*, or just simply give a *Save Clue* on their *Chop*.
 * There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
 
 ### About Chop Move
-* If you are not in emergancy, these are the useful *Chop Moves* you might need in the game.
-  * If your teammate has a 5 one-away from chop: ***5's Chop Move***
-  * If your teammate has a trash: ***Trash Chop Move***
+* If you have two or more unknown 1s, you can use ***[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)***.
+  * Skip 1 card: *Single Chop Move*
+  * Skip 2 cards: *Double Chop Move*
+  * and so on...
+* If you are not in emergancy, these are some kinds of *Chop Moves* you might need in the game.
+  * If your teammate has a 5 one-away from chop: ***[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)***
+  * If your teammate has a trash: ***[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)***
     * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
+  * If your teammate has a card leading from your own hand: ***[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)***
 * If you don't want to waste a clue to save a card on chop, especially when your teammate's chop is on slot 1, use the following recommended *Chop Moves* in different situation.
-  * If you have a playable card: ***Scream Discard Chop Move***
-  * If you don't have a playable card: ***Skipped Discard Chop Move***
+  * If you have a playable card: ***[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)***
+  * If you don't have a playable card: ***[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)***
+  * If you have a trash: ***[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)***
+  * If you have two or more trash: ***[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)***
 * For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
-  * Two cards: ***Double Scream Blind-Play (Blind-Playing Chop)***
-  * Three or more cards: ***Misplay Chop Move***
+  * Two cards: ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
+  * Three or more cards: ***[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)***
 
 <br/>
 
