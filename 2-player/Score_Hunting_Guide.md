@@ -61,6 +61,7 @@
 * If you don't want to waste a clue to save a card on chop, especially when your teammate's chop is on slot 1, use the following recommended *Chop Moves* in different situation.
   * If you have a playable card: *[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)*
   * If you don't have a playable card: *[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)*
+    * ***Important Notes***: If your teammate has a critical card on *Chop*, and the card is also on their *Fienssed Position*. In this situation, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless there are more than 5 clues in the bank. Simply *Chop Move* your teammate with the *Skipped Discard Chop Move* to generate more clues for your teammate to survive while they are locked.
   * If you have a trash: *[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)*
   * If you have two or more trash: *[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)*
 * For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
@@ -70,7 +71,7 @@
 ### About Self-Bluffs with Color Clues
 * This is one of the most powerful move in 2-player, which not only provides more information on your teammate's clued card, but also get a free blind-card.
 * If you want to play hanabi extremely aggressively, you can perform a *Self-Bluff* by touching any card which is not on slot 1, including a *Chop Moved* card or any other brand-new card (if it has fully context that it is not playable).
-* For example, in a *Brown & Light Pink (6 Suits)* game (GAME ID:154213):
+* Game Example (ID: 154213), a *Brown & Light Pink (6 Suits)* game:
   * [Turn 21](https://hanabi.live/replay/154213/21): Bluffing a pink 1 by touching a brand-new green 3 with a green clue.
   * [Turn 33](https://hanabi.live/replay/154213/33): Bluffing a yellow 2 by touching a brand-new brown 4 with a brown clue.
 
@@ -127,8 +128,9 @@
 * For an emergancy, the players are allowed to break the *Pink Promise* to do a *5's Chop Move* by touching a non-5 pink card with a 5 clue.
 * You can only do this with a `pink 2` or a `critical pink card`.
 
-### Null Wraparound Changed
+### Null Color Positional Clues Changed
 * This convention only applies to variants with a null suit.
-* 
+* A *Color Positional Clue* corresponds to a slot number that is based on the order of the stacks. Stacks correspond to the slot numbers **from left to right**. *("from right to left" in a 3 or more player game)*
+* *Color Positional Clues* always "wrap around" to the **newest** card. *("oldest" in a 3 or more player game)*
 
 <br/>
