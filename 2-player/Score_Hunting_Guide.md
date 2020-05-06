@@ -42,7 +42,9 @@
 ## General Guide
 
 ### About First Turn Stalls
-* Convention: On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a *Self-Finesse*). Note that players are allowed to use this ability even if there are other playable cards in the hand.
+> #### First Turn Stalls
+> * On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a *Self-Finesse*).
+> * Note that players are allowed to use this ability even if there are other playable cards in the hand.
 * First, look at your teammate's hand, is it able to give a *Save Clue* to "setup" a *Finesse*, a *Bluff* or even a *5 Pull*?
 * Then you should note that if there are any critical cards on chop (or 2s) needed to be saved, and your teammate might discard on their turn? (e.g. you don't have playable cards)
 * In this situation, you might have to think that whether you should to take a risk to setup the *Finesse*, or just simply give a *Save Clue* on their *Chop*.
@@ -69,6 +71,12 @@
   * Three or more cards: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
 
 ### About Self-Bluffs with Color Clues
+> #### Self-Bluffs with Color Clues
+> * In non-2-player games, Self-Bluffs with color clues are [explicitly illegal](../Reference.md#self-bluffs-with-color-clues-illegal). However, in 2-player games, they are allowed.
+> * In other words, if a color clue does not touch a brand-new card and the player who receives the clue knows that the cards touched are not playable, then they know it is a signal to blind-play their Finesse Position.
+> * Thus, Tempo Clues take priority over Self-Color Bluff by means of Occam's Razor.
+> * Note that you are also allowed to perform a Self-Bluff by touching a Chop Moved card.
+
 * This is one of the most powerful move in 2-player, which not only provides more information on your teammate's clued card, but also get a free blind-card.
 * If you want to play hanabi extremely aggressively, you can perform a *Self-Bluff* by touching any card which is not on slot 1, including a *Chop Moved* card or any other brand-new card (if it has fully context that it is not playable).
 * Game Example (ID: 154213), a *Brown & Light Pink (6 Suits)* game:
