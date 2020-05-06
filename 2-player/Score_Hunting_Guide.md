@@ -57,7 +57,7 @@
   * If your teammate has a 5 one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
   * If your teammate has a trash: *[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)*
     * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
-  * If your teammate has a card leading from your own hand: *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
+  * If your teammate has a playable card through your own hand: *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
 * If you don't want to waste a clue to save a card on chop, especially when your teammate's chop is on slot 1, use the following recommended *Chop Moves* in different situation.
   * If you have a playable card: *[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)*
   * If you don't have a playable card: *[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)*
@@ -66,6 +66,13 @@
 * For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
   * Two cards: *[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)*
   * Three or more cards: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
+
+### About Self-Bluffs with Color Clues
+* This is one of the most powerful move in 2-player, which not only provides more information on your teammate's clued card, but also get a free blind-card.
+* If you want to play hanabi extremely aggressively, you can perform a *Self-Bluff* by touching any card which is not on slot 1, including a *Chop Moved* card or any other brand-new card (if it has fully context that it is not playable).
+* For example, in a *Brown & Light Pink (6 Suits)* game (GAME ID:154213):
+  * [Turn 21](https://hanabi.live/replay/154213/21): Bluffing a pink 1 by touching a brand-new green 3 with a green clue.
+  * [Turn 33](https://hanabi.live/replay/154213/33): Bluffing a yellow 2 by touching a brand-new brown 4 with a brown clue.
 
 <br/>
 
