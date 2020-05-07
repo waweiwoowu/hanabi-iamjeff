@@ -23,11 +23,30 @@
 
 * Most of the conventions follow the [2-Player Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md) with some changed.
 
+### Conventions which are *used*
+
+* ***Tempo Change***
+* ***Priority Change***
+* ***First Turn Stalls***
+  * See the *[First Turn Stall Guide](#first-turn-stalls-guide)* below for more details.
+* ***Flush Clue***
+* ***Self-Bluffs with Color Clues***
+  * See the *[Color Bluff Guide](#color-bluff-guide)* below for advanced usage.
+* ***Delayed Bluff***
+* ***Scream Discard Modification***
+  * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
+* ***Double Scream Blind-Play (Blind-Playing Chop)***
+* ***Skipped Discard Chop Move***
+* ***Scream Push (Anxiety with a Chop Move)***
+  * See *[Anxiety Play Shift](#anxiety-play-shift)* for the usage of the *Scream Push* in specific situation.
+* ***[Selfish Conventions](Selfish_Conventions.md)***
+
 ### Conventions which are *turned on*
 
 * ***5's Chop Move***
 * ***5 Pull***
   * Note that the players are allowed to do a *5 Pull* at the start of the *Mid-Game*.
+* ***4 Double Bluff***
 
 ### Conventions which are *turned off*
 
@@ -41,11 +60,16 @@
 * ***Double Skipped Discard Chop Move***
   * It is treated as a *Positional Clue*.
 
+### Variant-Specific Conventions which are *used*
+* ***Flush Save***
+* ***Dark Chop Move***
+* ***Implied Color Truth***
+
 <br/>
 
 ## General Guide
 
-### About First Turn Stalls
+### First Turn Stall Guide
 
 > #### First Turn Stalls
 > * On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a *Self-Finesse*).
@@ -56,7 +80,7 @@
 * In this situation, you might have to think that whether you should to take a risk to setup the *Finesse*, or just simply give a *Save Clue* on their *Chop*.
 * There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
 
-### About Chop Move
+### Chop Move Guide
 
 * If you have two or more unknown 1s, you can use *[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)*.
   * Skip 1 card: *Single Chop Move*
@@ -77,7 +101,7 @@
   * Two cards: *[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)*
   * Three or more cards: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
 
-### About Self-Bluffs with Color Clues
+### Color Bluff Guide
 
 > #### Self-Bluffs with Color Clues
 > * In non-2-player games, *Self-Bluffs* with color clues are explicitly illegal. However, in 2-player games, they are allowed.
