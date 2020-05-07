@@ -158,4 +158,7 @@
 * A *Color Positional Clue* corresponds to a slot number that is based on the order of the stacks. Stacks correspond to the slot numbers **from left to right**. *("from right to left" in a 3 or more player game)*
 * *Color Positional Clues* always "wrap around" to the **newest** card. *("oldest" in a 3 or more player game)*
 
+### Null Positional Double Bluff
+* If the player who received a *Positional Clue* cannot find a null card after blind-playing 2 playable cards, they should stop digging for null card as a known *Positional Double Bluff*.
+
 <br/>
