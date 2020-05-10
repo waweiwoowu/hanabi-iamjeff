@@ -31,7 +31,7 @@
   * See the *[First Turn Stall Guide](#first-turn-stalls-guide)* below for more details.
 * ***Flush Clue***
 * ***Self-Bluffs with Color Clues***
-  * See the *[Color Bluff Guide](#color-bluff-guide)* below for advanced usage.
+  * See the *[Self Color Bluff Guide](#self-color-bluff-guide)* below for advanced usage.
 * ***Delayed Bluff***
 * ***Scream Discard Modification***
   * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
@@ -58,12 +58,13 @@
   * Blind-playing the *Chop* is always *Double Chop Move* (as a *Double Scream Blind-Play*).
   * If you want to *Chop Move* only one card while in no clues, use *Skipped Discard Chop Move*.
 * ***Double Skipped Discard Chop Move***
-  * It is treated as a *Positional Clue*.
+  * It is treated as a *Positional Discard*.
 
 ### Variant-Specific Conventions which are *used*
 * ***Flush Save***
 * ***Dark Chop Move***
 * ***Implied Color Truth***
+  * Turn off if you want to apply *[Implied Saves](#implied-saves)* to rainbow cards.
 
 <br/>
 
@@ -88,20 +89,22 @@
   * and so on...
 * If you are not in emergancy, these are some kinds of *Chop Moves* you might need in the game.
   * If your teammate has a 5 one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
+    * Remember it is just a *5 Stall* if you are in *8 Clues Situation*.
   * If your teammate has a trash: *[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)*
     * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
   * If your teammate has a playable card through your own hand: *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
-* If you don't want to waste a clue to save a card on chop, especially when your teammate's chop is on slot 1, use the following recommended *Chop Moves* in different situation.
+  * If your teammate has a one-of-each suit and it is one-away from chop: *[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)*
+* If you don't want to waste a clue to save a card on chop, use the following recommended *Chop Moves* in different situation.
+  * ***Important Notes***: If your teammate has a critical card on *Chop*, and the card is also on their *Fienssed Position*. In this situation, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless there are more than 5 clues in the bank. Simply "save" it with one of the following *Chop Moves* to generate more clues for your teammate to survive while they are locked.
   * If you have a playable card: *[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)*
   * If you don't have a playable card: *[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)*
-    * ***Important Notes***: If your teammate has a critical card on *Chop*, and the card is also on their *Fienssed Position*. In this situation, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless there are more than 5 clues in the bank. Simply *Chop Move* your teammate with the *Skipped Discard Chop Move* to generate more clues for your teammate to survive while they are locked.
   * If you have a trash: *[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)*
   * If you have two or more trash: *[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)*
 * For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
   * Two cards: *[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)*
   * Three or more cards: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
 
-### Color Bluff Guide
+### Self Color Bluff Guide
 
 > #### Self-Bluffs with Color Clues
 > * In non-2-player games, *Self-Bluffs* with color clues are explicitly illegal. However, in 2-player games, they are allowed.
@@ -122,6 +125,10 @@
 ### Brown
 
 * If you receive *Play Clue* with a brown clue, and if you see your teammate has a brown card through your own hand. It is always better to give a *Play Clue* (or a *Tempo Clue*) focusing that brown card before playing your own card.
+
+### Null
+
+* If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough context read that it is not a *Trash Chop Move*.
 
 <br/>
 
@@ -158,7 +165,12 @@
 * Generally in an *Anxiety* situation, the player must play the card that is most likely playable.
 * However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
 * For example:
-  * 
+  * TODO
+
+### Self Color Ejection
+
+* Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
+* However, what if the player delays **two turns** to give a direct *Play Clue*? In this situation, if the clue giver does not make a mistake, and if the clue receiver didn't draw new cards in two turns, then it is a signal as an *Ejection*. The clue receiver should blind-play their *Second Finessed Position* as a *Self Color Ejection*.
 
 <br/>
 
