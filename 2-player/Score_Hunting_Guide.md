@@ -154,16 +154,20 @@
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
 * Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
 
+### Sacrifice Discard Chop Move
+
+* If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
+
 ### Double Loaded Play Clue
 
-* This convention only apply to variants with a hard suit.
+* This convention only apply to the variants with a hard suit.
 * *Loaded* is a situation where the player has `a playable card` or `a known trash`.
 * *Double Loaded* is a situation where the player is double *Loaded*.
 * Note that *Loaded Play Clue* is turned off in 2-player.
 
 ### Overloaded Play Clue
 
-* This convention only apply to variants with a hard suit.
+* This convention only apply to the variants with a hard suit.
 * *Overloaded* is a situation where the clue giver is *Occupied* and the clue receiver is *Loaded*.
 * Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
 
@@ -177,10 +181,6 @@
   * Alice knows that the 2 could be either a red 2 or blue 2. If it is a blue 2 and Bob might discard the blue 3 if he has nothing to do. Alice gives a blue clue touching the blue 3 on Bob's chop.
   * Bob sees the only playable blue card is blue 2. However, if it is a blue 2, Alice will not disard last turn. He knows that Alice doesn't know the identity of her 2, if she has a blue 2, it is fair enough to protect the blue 3 on chop.
   * Bob marks his blue card as a 3 and discards
-
-### Sacrifice Discard Chop Move
-
-* If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
 
 ### Anxiety Play Shift
 
