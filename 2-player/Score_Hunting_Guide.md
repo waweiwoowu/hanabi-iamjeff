@@ -128,19 +128,17 @@
 
 ## Variant-Specific Guide
 
+### Hard Suits
+* *Brown*, *Muddy Rainbow*, and *Null* are hard suits.
+* *[Double Loaded Play Clue](#double-loaded-play-clue)* and *[Overloaded Play Clue](#overloaded-play-clue)* are turned on.
+
 ### Brown
 
 * If you receive *Play Clue* with a brown clue, and if you see your teammate has a brown card through your own hand. It is always better to give a *Play Clue* (or a *Tempo Clue*) focusing that brown card before playing your own card.
-* *Double Loaded Play Clue* and *Overloaded Play Clue* are turned on.
-
-### Muddy Rainbow
-
-* *Double Loaded Play Clue* and *Overloaded Play Clue* are turned on.
 
 ### Null
 
 * If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough context read that it is not a *Trash Chop Move*.
-* * *Double Loaded Play Clue* and *Overloaded Play Clue* are turned on.
 
 <br/>
 
@@ -158,12 +156,14 @@
 
 ### Double Loaded Play Clue
 
+* This convention only apply to variants with a hard suit.
 * *Loaded* is a situation where the player has `a playable card` or `a known trash`.
 * *Double Loaded* is a situation where the player is double *Loaded*.
 * Note that *Loaded Play Clue* is turned off in 2-player.
 
 ### Overloaded Play Clue
 
+* This convention only apply to variants with a hard suit.
 * *Overloaded* is a situation where the clue giver is *Occupied* and the clue receiver is *Loaded*.
 * Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
 
