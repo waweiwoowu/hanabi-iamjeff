@@ -59,6 +59,8 @@
   * If you want to *Chop Move* only one card while in no clues, use *Skipped Discard Chop Move*.
 * ***Double Skipped Discard Chop Move***
   * It is treated as a *Positional Discard*.
+* ***Occupied Play Clue***
+* ***Loaded Play Clue***
 
 ### Variant-Specific Conventions which are *used*
 * ***Flush Save***
@@ -129,10 +131,16 @@
 ### Brown
 
 * If you receive *Play Clue* with a brown clue, and if you see your teammate has a brown card through your own hand. It is always better to give a *Play Clue* (or a *Tempo Clue*) focusing that brown card before playing your own card.
+* *Double Loaded Play Clue* and *Overloaded Play Clue* are turned on.
+
+### Muddy Rainbow
+
+* *Double Loaded Play Clue* and *Overloaded Play Clue* are turned on.
 
 ### Null
 
 * If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough context read that it is not a *Trash Chop Move*.
+* * *Double Loaded Play Clue* and *Overloaded Play Clue* are turned on.
 
 <br/>
 
@@ -147,6 +155,17 @@
 
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
 * Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
+
+### Double Loaded Play Clue
+
+* *Loaded* is a situation where the player has `a playable card` or `a known trash`.
+* *Double Loaded* is a situation where the player is double *Loaded*.
+* Note that *Loaded Play Clue* is turned off in 2-player.
+
+### Overloaded Play Clue
+
+* *Overloaded* is a situation where the clue giver is *Occupied* and the clue receiver is *Loaded*.
+* Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
 
 ### Implied Saves
 
