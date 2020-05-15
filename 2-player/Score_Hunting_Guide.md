@@ -12,7 +12,7 @@
 2. [Conventions Changed](#conventions-changed)
 3. [General Guide](#general-guide)
 4. [Variant-Specific Guide](#variant-specific-guide)
-5. [Other Conventions](#other-conventions)
+5. [Advanced Conventions](#advanced-conventions)
 6. [Variant-Specific Conventions](#variant-specific-conventions)
 
 <br/>
@@ -88,7 +88,7 @@
 * In this situation, you might have to think that whether you should to take a risk to setup the *Finesse*, or just simply give a *Save Clue* on their *Chop*.
 * There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
 
-### Chop Move Guide
+### Chop Move Guide (Section 1)
 
 * If you have two or more unknown 1s, you can use *[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)*.
   * Skip 1 card: *Single Chop Move*
@@ -110,6 +110,10 @@
 * For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
   * Two cards: *[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)*
   * Three or more cards: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
+
+### Chop Move Guide (Section 2)
+
+* TODO
 
 ### Self Color Bluff Guide
 
@@ -147,21 +151,14 @@
 
 <br/>
 
-## Other Conventions
+## Advanced Conventions
+
+## Advanced Conventions - Play Clues
 
 ### 4 Single Bluff
 
 * The players are allowed to perform a *4 Single Bluff* by touching a two-away 4 with a rank clue, if the 4 looks like a one-away card, and this move only gets one blind-card.
 * The 4 that was used as a *4 Single Bluff* is not promised to be one-away. And the player who receives the clue should mark nothing on their card.
-
-### Crazy 3/4 Fake Saves
-
-* If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
-* Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
-
-### Sacrifice Discard Chop Move
-
-* If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
 
 ### Double Loaded Play Clue
 
@@ -176,6 +173,24 @@
 * *Overloaded* is a situation where the clue giver is *Occupied* and the clue receiver is *Loaded*.
 * Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
 
+### Self Color Ejection
+
+* Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
+* However, what if the player delays **two turns** to give a direct *Play Clue*? In this situation, if the clue giver does not make a mistake, and if the clue receiver didn't draw new cards in two turns, then it is a signal as an *Ejection*. The clue receiver should blind-play their *Second Finessed Position* as a *Self Color Ejection*.
+
+<br/>
+
+## Advanced Conventions - Save Clues
+
+### Crazy 3/4 Fake Saves
+
+* If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
+* Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
+
+### Sacrifice Discard Chop Move
+
+* If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
+
 ### Implied Saves
 
 * If the player receives a *Play Clue* and they don't exactly know the identity of their card, and they see their teammate has a possible "matching" card on their chop (might not be true). Even though there are multiple possibilities for the card, in this situation if they know their teammate won't misplay or play into a *Finesse* or a *Bluff* from context, they can "protect" that card on chop by giving a clue directly.
@@ -187,6 +202,8 @@
   * Bob sees the only playable blue card is blue 2. However, if it is a blue 2, Alice will not disard last turn. He knows that Alice doesn't know the identity of her 2, if she has a blue 2, it is fair enough to protect the blue 3 on chop.
   * Bob marks his blue card as a 3 and discards
 
+## Advanced Conventions - Miscellaneous
+
 ### Anxiety Play Shift
 
 * This applies to situations where a player becomes locked but has a playable card or has a playable card through a partner's clued cards.
@@ -194,13 +211,6 @@
 * However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
 * For example:
   * TODO
-
-### Self Color Ejection
-
-* Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
-* However, what if the player delays **two turns** to give a direct *Play Clue*? In this situation, if the clue giver does not make a mistake, and if the clue receiver didn't draw new cards in two turns, then it is a signal as an *Ejection*. The clue receiver should blind-play their *Second Finessed Position* as a *Self Color Ejection*.
-
-<br/>
 
 ## Variant-Specific Conventions
 
