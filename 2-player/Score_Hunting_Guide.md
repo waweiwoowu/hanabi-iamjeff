@@ -119,7 +119,7 @@
 
 ### Hard Suits
 * *Brown*, *Muddy Rainbow*, and *Null* are hard suits.
-* *[Double Loaded Play Clue](#double-loaded-play-clue)* and *[Overloaded Play Clue](#overloaded-play-clue)* are turned on.
+* *[Double Loaded Play Clue](#double-loaded-play-clue)* and *[Overloaded Play Clue](#overloaded-play-clue)* are turned on in the variants with a hard suit.
 
 ### Brown
 
@@ -127,7 +127,7 @@
 
 ### Null
 
-* If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough context read that it is not a *Trash Chop Move*.
+* If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough contextual read that it is not a *Trash Chop Move*.
 
 <br/>
 
