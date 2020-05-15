@@ -13,6 +13,9 @@
 3. [General Guide](#general-guide)
 4. [Variant-Specific Guide](#variant-specific-guide)
 5. [Advanced Conventions](#advanced-conventions)
+   * [Play Clues](#advanced-conventions---play-clues)
+   * [Save Clues](#advanced-conventions---save-clues)
+   * [Miscellaneous](#advanced-conventions---miscellaneous)
 6. [Variant-Specific Conventions](#variant-specific-conventions)
 
 <br/>
@@ -153,6 +156,12 @@
 
 ## Advanced Conventions
 
+* [Play Clues](#advanced-conventions---play-clues)
+* [Save Clues](#advanced-conventions---save-clues)
+* [Miscellaneous](#advanced-conventions---miscellaneous)
+
+<br/>
+
 ## Advanced Conventions - Play Clues
 
 ### 4 Single Bluff
@@ -172,6 +181,10 @@
 * This convention only apply to the variants with a hard suit.
 * *Overloaded* is a situation where the clue giver is *Occupied* and the clue receiver is *Loaded*.
 * Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
+
+### Over-Chop-Moved Positional Clue
+
+* TODO
 
 ### Self Color Ejection
 
@@ -202,6 +215,8 @@
   * Bob sees the only playable blue card is blue 2. However, if it is a blue 2, Alice will not disard last turn. He knows that Alice doesn't know the identity of her 2, if she has a blue 2, it is fair enough to protect the blue 3 on chop.
   * Bob marks his blue card as a 3 and discards
 
+<br/>
+
 ## Advanced Conventions - Miscellaneous
 
 ### Anxiety Play Shift
@@ -211,6 +226,8 @@
 * However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
 * For example:
   * TODO
+
+<br/>
 
 ## Variant-Specific Conventions
 
