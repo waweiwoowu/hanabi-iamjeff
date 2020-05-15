@@ -1,22 +1,27 @@
 # Score Hunting Guide (2-Player)
 
-<br/>
-
-## Introduction
-
-* This is the guide for score hunting in 2-player games.
-* The goal of these conventions is to get the perfect scores in non-classic variants with minimum attempts. Thus, they are designed to be quite aggressive.
+* This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020..
+* The goal of this document is to get the perfect scores in every variant with minimum attempts. Thus, they are designed to be quite aggressive.
+* If you're looking for conservative way to play a 2-player game, please read [2-Player Conventions for the Hyphen-ated Framework](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md).
 
 <br/>
 
 ## Table of Contents
 
-1. [Conventions Changed](#conventions-changed)
-2. [General Guide](#general-guide)
-3. [Variant-Specific Guide](#variant-specific-guide)
-4. [Other Conventions](#other-conventions)
-5. [Variant-Specific Conventions](#variant-specific-conventions)
+1. [Introduction](#introduction)
+2. [Conventions Changed](#conventions-changed)
+3. [General Guide](#general-guide)
+4. [Variant-Specific Guide](#variant-specific-guide)
+5. [Other Conventions](#other-conventions)
+6. [Variant-Specific Conventions](#variant-specific-conventions)
 
+<br/>
+
+## Introduction
+
+* Hello!  This document is for those players who want to explore what 2-player Hanabi has to offer.  From my experience, 2-player games are interesting and fun, where you are allowed to quickly gain experience and are still able to do special moves compared to 3-player+ games.  Self Color Bluffs, for example, they are illegal in 3 or more player games; however, they are one of the most common moves in 2-player games.
+* Believe it or not, 2-player games are key to become a top Hanabi player. First, the gameplay is quite fast.  This allows you to accumulate a lot of experience to deal with troubles in various situations. Secondly, 2-player games are heavily contextual.  These games will help you cultivate your play style to train you to understand clues contextually in order to respond accordingly.
+* As a player who has over 4000+ games in 2-player, I’ve found a lot of players tend to struggle. Thus, this is the main reason I wrote this document, in the hopes that everyone can enjoy 2-player games and be able to get the maximum scores for the variants that they wish to have. Happy hunting!
 <br/>
 
 ## Conventions Changed
