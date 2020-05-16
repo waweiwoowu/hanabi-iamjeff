@@ -156,19 +156,26 @@
 ### Double Loaded Play Clue
 
 * This convention only apply to the variants with a hard suit.
-* *Loaded* is a situation where the player has `a playable card` or `a known trash`.
-* *Double Loaded* is a situation where the player is double *Loaded*.
+* *Loaded action* is a situation where the player has `a playable card` or `a known trash`.
+* If a clue is given to a chop card and the player has two or more *loaded actions*, then it is treated as a *Play Clue* on that card.
 * Note that *Loaded Play Clue* is turned off in 2-player.
 
 ### Overloaded Play Clue
 
 * This convention only apply to the variants with a hard suit.
-* *Overloaded* is a situation where the clue giver is *Occupied* and the clue receiver is *Loaded*.
+* If a player is *Occupied* and they gives a clue touching a chop card while the clue receiver has a *loaded action*, then it is treated as a *Play Clue* on that card.
 * Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
 
-### Over-Chop-Moved Positional Clue
+### Chop Overflowed Positional Clue
 
-* TODO
+* If the player performs a *Double Chop Move* by discarding or misplaying while their teammate only has one card to *Chop Move*; or a *Triple Chop Move*, and their teammate only has one or two cards.
+* In this situation, they are trying to perform a *Chop Move* (to all their cards) and a *Positional Clue* (corresponds to the slot they are discarding or misplaying) at the same time.
+* For example:
+  * Alice has a playable card. Her *Chop* is on slot 2.
+  * Bob has an important card on his *Finessed Chop* (a term used to describe the situation where a player's *Chop* is also on their *Fienssed Position*).
+  * If Alice discards slot 2, then it is just a *Scream Discard Chop Move*.
+  * If Alice discards slot 1, then it is a *Double Chop Move* (*Scream Discard Chop Move* + *Skipped Discard Chop Move*). However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 1.
+  * Similarly, if Alice misplays slot 2, then it is a *Double Scream Blind-Play*. However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 2.
 
 <br/>
 
