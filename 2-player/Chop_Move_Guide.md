@@ -14,15 +14,15 @@
 
 ## Categories
 
-* **Finessed Chop**: A term used to describe the situation where a player's *Chop* is also on their *Fienssed Position*.
+* ***Finessed Chop***: A term used to describe the situation where a player's *Chop* is also on their *Fienssed Position*.
 
 ### Non-Emergency Chop Moves
 
 * If you have two or more unknown 1s, you can use *[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)*.
   * Skip 1 card: *Single Chop Move*
   * Skip 2 cards: *Double Chop Move*
-  * and so on...
-* If your teammate has a 5 one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
+  * And so on...
+* If your teammate has a 5 which is one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
   * Remember it is just a *5 Stall* if you are in *8 Clues Situation*.
 * If your teammate has a trash: *[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)*
   * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
@@ -53,14 +53,14 @@
 ### Basic Example
 
 * If a player has a known playable card and a known trash, and they want to perform a *Chop Move* without wasting a clue.
-* **Singel Chop Move**
-  * Discard their known trash: *Scream Discard Chop Move*
-* **Double Chop Move**
-  * Discard their *Chop* card: *Scream Discard Chop Move* + *Whisper Discard Chop Move*
-  * Misplay theri known trash: *Double Scream Blind-Play*
-* **Triple Chop Move
-  * Discard their card which is one-away from *Chop*: *Scream Discard Chop Move* + *Whisper Discard Chop Move* + *Skipped Discard Chop Move*
-  * Misplay their *Chop*: *Double Scream Blind-Play* + *Skipped Discard Chop Move*
+* ***Singel Chop Move***
+  * Discard the known trash: *"Scream Discard Chop Move"*
+* ***Double Chop Move***
+  * Discard the *Chop* card: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"*
+  * Misplay the known trash: *"Double Scream Blind-Play"*
+* ***Triple Chop Move***
+  * Discard the card which is one-away from *Chop*: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"* + *"Skipped Discard Chop Move"*
+  * Misplay the *Chop*: *"Double Scream Blind-Play"* + *"Skipped Discard Chop Move"*
 
 <br/>
 
