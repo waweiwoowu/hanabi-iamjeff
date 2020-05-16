@@ -7,8 +7,8 @@
 ## Table of Contents
 
 1. [Categories](#categories)
-2. [Chop Move Addition](#chop-move-addition)
-3. [Chop Move with Contextual Read](#chop-move-with-contextual-read)
+2. [Addition](#addition)
+3. [Context](#context)
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 <br/>
   
-## Chop Move Addition
+## Addition
 
 * *Chop Moves* can be added.
 * Therefore, you can easily perform a *Double Chop Move* without getting a strike by using a *Double Scream Blind-Play*.
@@ -90,11 +90,11 @@
 
 <br/>
 
-## Chop Move with Contextual Read
+## Context
 
 ### Trash Chop Move (with a stale 1)
 
-* If a player recieves a 1 clue (one or more away from *Chop*) and they have enough contextual read that it cannot be a *Play Clue*. In this situation, the clue should be interpreted as a *Trash Chop Move*.
+* If a player recieves a 1 clue (one or more away from *Chop*) and they have enough context knowing that it is not a playable 1. In this situation, the clue should be interpreted as a *Trash Chop Move*.
 * For example:
   * Red 1 has been played on the red stack.
   * Alice discards. Bob discards.
