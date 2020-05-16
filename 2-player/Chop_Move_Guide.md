@@ -104,7 +104,7 @@
 
 ### Delayed Chop Move (on a critical card)
 
-* If a player recieves a *Chop Move* clue after their teammate discards a non-trash card, and they have enough contextual read that their *Chop* was not important. In this situation, the *Chop Moved* card must be a critical card that their teammate just disacrded.
+* If a player recieves a *Chop Move* after their teammate discards a non-trash card, and they have enough contextual read that their *Chop* was not important. In this situation, the *Chop Moved* card must be the other copy of the card that their teammate just discarded.
 * For example:
   * Alice discards. Bob discards a green 4.
   * Alice gives 5 clue on Bob's *Chop* as a *5 Save*.
@@ -116,7 +116,7 @@
 
 ### Delayed Chop Move (on a playable card)
 
-* If a player recieves a *Chop Move* clue after giving a direct *Play Clue* on their teammate, and they have enough contextual read that their *Chop* is not important. In this situation, the *Chop Moved* card must be a playable card through their teammate's hand.
+* If a player recieves a *Chop Move* after giving a direct *Play Clue* on their teammate, and they have enough contextual read that their *Chop* is not important. In this situation, the *Chop Moved* card must be a playable card through their teammate's hand.
 * For example:
   * All 1's are played on the stacks.
   * Alice discards. Bob discards **a trash**.
