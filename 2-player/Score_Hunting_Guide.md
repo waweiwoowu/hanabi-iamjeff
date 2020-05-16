@@ -69,13 +69,15 @@
 
 ### Other Conventions which are *turned on*
 
+* ***[3 Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-3-bluff)***
+* ***[4 Double Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-4-double-bluff)***
 * ***[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)***
 * ***[5 Pull](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5-pull)***
   * Note that the players are allowed to do a *5 Pull* at the start of the *Mid-Game*.
-* ***[4 Double Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-4-double-bluff)***
 
 ### Other Conventions which are *turned off*
 
+* ***[Double Discard Avoidance](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#double-discard-situations)***
 * ***[Occupied Play Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-occupied-play-clue--the-occupied-finesse-opc--opc)***
 * ***[Loaded Play Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#loaded-play-clues-in-hard-variants-part-1)***
 
