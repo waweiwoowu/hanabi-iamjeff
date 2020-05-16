@@ -92,6 +92,8 @@
 
 ## Context
 
+* *Chop Moves* can be performed and read through *Context*.
+
 ### Trash Chop Move (with a stale 1)
 
 * If a player recieves a 1 clue (one or more away from *Chop*) and they have enough context knowing that it is not a playable 1. In this situation, the clue should be interpreted as a *Trash Chop Move*.
