@@ -13,9 +13,9 @@
 3. [General Guide](#general-guide)
 4. [Variant-Specific Guide](#variant-specific-guide)
 5. [Advanced Conventions](#advanced-conventions)
-   * [Play Clues](#advanced-conventions---play-clues)
-   * [Save Clues](#advanced-conventions---save-clues)
-   * [Miscellaneous](#advanced-conventions---miscellaneous)
+   * [Advanced Play Clues](#advanced-play-clues)
+   * [Advanced Save Clues](#advanced--save-clues)
+   * [Miscellaneous](#miscellaneous)
 6. [Variant-Specific Conventions](#variant-specific-conventions)
 
 <br/>
@@ -132,15 +132,16 @@
 
 <br/>
 
-## Advanced Conventions
+# Advanced Conventions
 
-* [Play Clues](#advanced-conventions---play-clues)
-* [Save Clues](#advanced-conventions---save-clues)
-* [Miscellaneous](#advanced-conventions---miscellaneous)
+* [Advanced Play Clues](#advanced-play-clues)
+* [Advanced Save Clues](#advanced--save-clues)
+* [Miscellaneous](#miscellaneous)
+* [Variant-Specific Conventions](#variant-specific-conventions)
 
 <br/>
 
-## Advanced Conventions - Play Clues
+## Advanced Play Clues
 
 ### 4 Single Bluff
 
@@ -171,7 +172,7 @@
 
 <br/>
 
-## Advanced Conventions - Save Clues
+## Advanced Save Clues
 
 ### Crazy 3/4 Fake Saves
 
@@ -195,7 +196,7 @@
 
 <br/>
 
-## Advanced Conventions - Miscellaneous
+## Miscellaneous
 
 ### Anxiety Play Shift
 
