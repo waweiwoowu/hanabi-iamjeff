@@ -11,12 +11,12 @@
 1. [Introduction](#introduction)
 2. [Conventions Changed](#conventions-changed)
 3. [General Guide](#general-guide)
-4. [Variant-Specific Guide](#variant-specific-guide)
-5. [Advanced Conventions](#advanced-conventions)
-   * [Advanced Play Clues](#advanced-play-clues)
-   * [Advanced Save Clues](#advanced--save-clues)
+   * [Variant-Specific Guide](#variant-specific-guide)
+4. [Other Conventions](#other-conventions)
+   * [About Play Clues](#about-play-clues)
+   * [About Save Clues](#about-save-clues)
    * [Miscellaneous](#miscellaneous)
-6. [Variant-Specific Conventions](#variant-specific-conventions)
+   * [Variant-Specific Conventions](#variant-specific-conventions)
 
 <br/>
 
@@ -132,16 +132,16 @@
 
 <br/>
 
-# Advanced Conventions
+# Other Conventions
 
-* [Advanced Play Clues](#advanced-play-clues)
-* [Advanced Save Clues](#advanced--save-clues)
+* [About Play Clues](#about-play-clues)
+* [About Save Clues](#about-save-clues)
 * [Miscellaneous](#miscellaneous)
 * [Variant-Specific Conventions](#variant-specific-conventions)
 
 <br/>
 
-## Advanced Play Clues
+## About Play Clues
 
 ### 4 Single Bluff
 
@@ -165,14 +165,9 @@
 
 * TODO
 
-### Self Color Ejection
-
-* Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
-* However, what if the player delays **two turns** to give a direct *Play Clue*? In this situation, if the clue giver does not make a mistake, and if the clue receiver didn't draw new cards in two turns, then it is a signal as an *Ejection*. The clue receiver should blind-play their *Second Finessed Position* as a *Self Color Ejection*.
-
 <br/>
 
-## Advanced Save Clues
+## About Save Clues
 
 ### Crazy 3/4 Fake Saves
 
@@ -205,6 +200,11 @@
 * However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
 * For example:
   * TODO
+
+### Self Color Ejection
+
+* Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
+* However, what if the player delays **two turns** to give a direct *Play Clue*? In this situation, if the clue giver does not make a mistake, and if the clue receiver didn't draw new cards in two turns, then it is a signal as an *Ejection*. The clue receiver should blind-play their *Second Finessed Position* as a *Self Color Ejection*.
 
 <br/>
 
