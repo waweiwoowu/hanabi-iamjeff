@@ -93,7 +93,8 @@
 
 ### Chop Move Guide
 
-* See [here](Chop_Move_Guide.md).
+* *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
+* See [here](Chop_Move_Guide.md) for more details.
 
 ### Self Color Bluff Guide
 
