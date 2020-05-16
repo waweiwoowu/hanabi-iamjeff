@@ -104,27 +104,27 @@
 
 ### Delayed Chop Move (on a critical card)
 
-* If a player recieves a *Chop Move* after their teammate discards a non-trash card, and they have enough contextual read that their *Chop* was not important. In this situation, the *Chop Moved* card must be the other copy of the card that their teammate just discarded.
+* If a player recieves a *Chop Move* after their teammate discards a non-trash card, and they have enough context knowing that their *Chop* was not important. In this situation, the *Chop Moved* card must be the other copy of the card that their teammate just discarded.
 * For example:
   * Alice discards. Bob discards a green 4.
   * Alice gives 5 clue on Bob's *Chop* as a *5 Save*.
   * Bob gives a 5 clue touching a 5 on Alice's slot 4 (one away from *Chop*). It is a *5's Chop Move*.
-  * Normally, the players are supposed to *Chop Move* an important card(s) as soon as possible. If Alice has an important card on her *Chop*, Bob would perform a *5's Chop Move* last turn.
+  * Normally, the players are supposed to *Chop Move* an important card(s) as soon as possible. If Alice had an important card on *Chop*, Bob would perform a *5's Chop Move* last turn.
   * Since Bob discarded last turn, it tells Alice that her *Chop* was not important. What's the reason Bob does a *Chop Move* this turn? Her *Chop* card must be important right now.
   * Since Bob discarded a green 4 last turn; thus, the *Chop Moved* card must be the other copy of green 4.
   * Alice marks her slot 5 as a green 4 and discards her slot 3.
 
 ### Delayed Chop Move (on a playable card)
 
-* If a player recieves a *Chop Move* after giving a direct *Play Clue* on their teammate, and they have enough contextual read that their *Chop* is not important. In this situation, the *Chop Moved* card must be a playable card through their teammate's hand.
+* If a player recieves a *Chop Move* after giving a direct *Play Clue* on their teammate, and they have enough context knowing that their *Chop* was not important. In this situation, the *Chop Moved* card must be a playable card through their teammate's hand.
 * For example:
   * All 1's are played on the stacks.
   * Alice discards. Bob discards **a trash**.
   * Alice gives a red clue touching a red 2 on Bob's slot 1.
   * Bob gives a 5 clue touching a 5 on Alice's slot 4 (one away from *Chop*). It is a *5's Chop Move*.
-  * Normally, the players are supposed to *Chop Move* an important card(s) as soon as possible. If Alice has an important card on her *Chop*, Bob would perform a *5's Chop Move* last turn.
+  * Normally, the players are supposed to *Chop Move* an important card(s) as soon as possible. If Alice had an important card on *Chop*, Bob would perform a *5's Chop Move* last turn.
   * Since Bob discarded last turn, it tells Alice that her *Chop* was not important. What's the reason Bob does a *Chop Move* this turn? Her *Chop* card must be important right now.
-  * Since Bob discarded a trash last turn, her *Chop Moved* card cannot be a critical card. Thus, it must be a red 3 that Bob wants to protect after receiving the red *Play Clue*.
+  * Since Bob discarded a trash last turn, her *Chop Moved* card cannot be a critical card. Thus, it must be a red 3 that Bob wants to protect after receiving the red clue.
   * Alice marks her slot 5 as a red 3 and discards her slot 3.
   * Bob plays red 2. Alice blind-plays her slot 5, and a red 3 is successfully played.
 
