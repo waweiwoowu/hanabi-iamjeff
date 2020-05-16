@@ -1,7 +1,7 @@
 # Score Hunting Guide (2-Player)
 
 * This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020..
-* The goal of this document is to get the perfect scores in every variant with minimum attempts. Thus, they are designed to be quite aggressive.
+* The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive.
 * If you're looking for conservative way to play a 2-player game, please read [2-Player Conventions for the Hyphen-ated Framework](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md).
 
 <br/>
