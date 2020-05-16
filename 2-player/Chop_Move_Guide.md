@@ -54,7 +54,7 @@
 
 > If a player has a known playable card and a known trash, and they want to perform a *Chop Move* without wasting a clue.
 
-* ***Singel Chop Move***
+* ***Single Chop Move***
   * Discarding the known trash: *"Scream Discard Chop Move"*
 * ***Double Chop Move***
   * Discarding the *Chop* card: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"*
@@ -67,7 +67,7 @@
 
 > If a player has two unknown playable 1s, and they want to perform a *Chop Move* without wasting a clue.
 
-* ***Singel Chop Move***
+* ***Single Chop Move***
   * Playing the 1 out-of-order (left-most): *"Order Chop Move"*
 * ***Double Chop Move***
   * Discarding the *Chop* card: *"Order Chop Move"* + *"Scream Discard Chop Move"*
@@ -79,7 +79,7 @@
 
 > If a player has two known trash, and they want to perform a *Chop Move* without wasting a clue.
 
-* ***Singel Chop Move***
+* ***Single Chop Move***
   * Discarding the trash out-of-order (right-most): *"Trash Order Chop Move"*
 * ***Double Chop Move***
   * Discarding the *Chop* card: *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"*
