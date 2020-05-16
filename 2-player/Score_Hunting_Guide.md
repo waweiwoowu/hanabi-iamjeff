@@ -171,11 +171,11 @@
 * If the player performs a *Double Chop Move* by discarding or misplaying while their teammate only has one card to *Chop Move*; or a *Triple Chop Move*, and their teammate only has one or two cards.
 * In this situation, they are trying to perform a *Chop Move* (to all their cards) and a *Positional Clue* (corresponds to the slot they are discarding or misplaying) at the same time.
 * For example:
-  * Alice has a playable card. Her *Chop* is on slot 2.
+  * Alice has a playable card. Her *Chop* is on slot 3.
   * Bob has an important card on his *Finessed Chop* (a term used to describe the situation where a player's *Chop* is also on their *Fienssed Position*).
-  * If Alice discards slot 2, then it is just a *Scream Discard Chop Move*.
-  * If Alice discards slot 1, then it is a *Double Chop Move* (*Scream Discard Chop Move* + *Skipped Discard Chop Move*). However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 1.
-  * Similarly, if Alice misplays slot 2, then it is a *Double Scream Blind-Play*. However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 2.
+  * If Alice discards slot 3, then it is just a *Scream Discard Chop Move*.
+  * If Alice discards slot 2, then it is a *Double Chop Move* (*Scream Discard Chop Move* + *Skipped Discard Chop Move*). However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 2.
+  * Similarly, if Alice misplays slot 3, then it is a *Double Scream Blind-Play*. However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 3.
 
 <br/>
 
