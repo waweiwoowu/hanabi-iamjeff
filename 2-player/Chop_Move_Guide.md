@@ -50,17 +50,43 @@
 * *Chop Moves* can be added.
 * Therefore, you can easily perform a *Double Chop Move* without getting a strike by using a *Double Scream Blind-Play*.
 
-### Basic Example
+### Example 1: with Scream Discard Chop Move
 
-* If a player has a known playable card and a known trash, and they want to perform a *Chop Move* without wasting a clue.
+> If a player has a known playable card and a known trash, and they want to perform a *Chop Move* without wasting a clue.
+
 * ***Singel Chop Move***
-  * Discard the known trash: *"Scream Discard Chop Move"*
+  * Discarding the known trash: *"Scream Discard Chop Move"*
 * ***Double Chop Move***
-  * Discard the *Chop* card: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"*
-  * Misplay the known trash: *"Double Scream Blind-Play"*
+  * Discarding the *Chop* card: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"*
+  * Misplaying the known trash: *"Double Scream Blind-Play"*
 * ***Triple Chop Move***
-  * Discard the card which is one-away from *Chop*: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"* + *"Skipped Discard Chop Move"*
-  * Misplay the *Chop*: *"Double Scream Blind-Play"* + *"Skipped Discard Chop Move"*
+  * Discarding the card which is one-away from *Chop*: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"* + *"Skipped Discard Chop Move"*
+  * Misplaying the *Chop* card: *"Double Scream Blind-Play"* + *"Skipped Discard Chop Move"*
+
+### Example 2: with Order Chop Move
+
+> If a player has two unknown playable 1s, and they want to perform a *Chop Move* without wasting a clue.
+
+* ***Singel Chop Move***
+  * Playing the 1 out-of-order (left-most): *"Order Chop Move"*
+* ***Double Chop Move***
+  * Discarding the *Chop* card: *"Order Chop Move"* + *"Scream Discard Chop Move"*
+* ***Triple Chop Move***
+  * Discarding the card which is one-away from *Chop*: *"Order Chop Move"* + *"Scream Discard Chop Move"* + *"Skipped Discard Chop Move"*
+  * Misplaying the *Chop* card: *"Order Chop Move"* + *"Double Scream Blind-Play"*
+
+### Example 3: with Trash Order Chop Move
+
+> If a player has two known trash, and they want to perform a *Chop Move* without wasting a clue.
+
+* ***Singel Chop Move***
+  * Discarding the trash out-of-order (right-most): *"Trash Order Chop Move"*
+* ***Double Chop Move***
+  * Discarding the *Chop* card: *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"*
+  * Misplaying the trash in order (left-most): *"Double Scream Blind-Play"*
+* ***Triple Chop Move***
+  * Discarding the card which is one-away from *Chop*: *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"* + *"Skipped Discard Chop Move"*
+  * Misplaying the trash out-of-order (right-most): *"Trash Order Chop Move"* + *"Double Scream Blind-Play"*
 
 <br/>
 
