@@ -1,54 +1,105 @@
 # Chop Move Guide (2-Player)
 
+* This is the *Chop Move Guide* for [score hunting](Score_Hunting_Guide.md) in a 2-player game created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
+
 <br/>
 
 ## Table of Contents
 
-1. Categories
-2. Chop Moves with Contextual Read
-3. Chop Moves with Additions
+1. [Categories](#categories)
+2. [Chop Move Addition](#chop-move-addition)
+3. [Chop Move with Contextual Read](#chop-move-with-contextual-read)
 
 <br/>
 
 ## Categories
 
+* **Finessed Chop**: A term used to describe the situation where a player's *Chop* is also on their *Fienssed Position*.
+
+### Non-Emergency Chop Moves
+
 * If you have two or more unknown 1s, you can use *[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)*.
   * Skip 1 card: *Single Chop Move*
   * Skip 2 cards: *Double Chop Move*
   * and so on...
-* If you are not in emergancy, these are some kinds of *Chop Moves* you might need in the game.
-  * If your teammate has a 5 one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
-    * Remember it is just a *5 Stall* if you are in *8 Clues Situation*.
-  * If your teammate has a trash: *[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)*
-    * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
-  * If your teammate has a playable card through your own hand: *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
-  * If your teammate has a card of one-of-each suit and it is one-away from chop: *[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)*
-* If you don't want to waste a clue to save a card on chop, use the following recommended *Chop Moves* in different situation.
-  * ***Important Notes***: If your teammate has a critical card on *Chop*, and the card is also on their *Fienssed Position*. In this situation, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless there are more than 5 clues in the bank. Simply "save" it with one of the following *Chop Moves* to generate more clues for your teammate to survive while they are locked.
-  * If you have a playable card: *[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)*
-  * If you don't have a playable card: *[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)*
-  * If you have a trash: *[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)*
-  * If you have two or more trash: *[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)*
-* For an emergancy, if your teammate has two or more cards needed to be saved, use these conventions.
-  * Two cards: *[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)*
-  * Three or more cards: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
+* If your teammate has a 5 one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
+  * Remember it is just a *5 Stall* if you are in *8 Clues Situation*.
+* If your teammate has a trash: *[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)*
+  * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
+* If your teammate has a playable card through your own hand: *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
+* If your teammate has a card of one-of-each suit and it is one-away from chop: *[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)*
 
-<br/>
+### Semi-Emergency Chop Moves (without wasting a clue)
 
-## Chop Moves with Contextual Read
+> ***Important Notes***: If your teammate has a critical card on their *Finessed Chop*. In this situation, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless there are more than 5 clues in the bank. Simply "save" it with one of the following *Chop Moves* to generate more clues for your teammate to survive while they are locked.
+* If you have a playable card: *[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)*
+* If you don't have a playable card: *[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)*
+* If you have a trash: *[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)*
+* If you have two or more trash: *[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)*
 
-### Trash Chop Move (with a stale 1)
+### Emergency Chop Moves
 
-* TODO
-
-### Delayed 5's Chop Move
-
-* TODO
+* If your teammate has two cards to save: *[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)*
+* If your teammate has three or more cards to save: *[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*
+* If your teammate has a critical card on their *Finessed Chop* while you're locked: *[Sacrifice Discard Chop Move](Score_Hunting_Guide.md#sacrifice-discard-chop-move)*
 
 <br/>
   
-## Chop Moves with Additions
+## Chop Move Addition
 
-* TODO
+* *Chop Moves* can be added.
+* Therefore, you can easily perform a *Double Chop Move* without getting a strike by using a *Double Scream Blind-Play*.
+
+### Basic Example
+
+* If a player has a known playable card and a known trash, and they want to perform a *Chop Move* without wasting a clue.
+* **Singel Chop Move**
+  * Discard their known trash: *Scream Discard Chop Move*
+* **Double Chop Move**
+  * Discard their *Chop* card: *Scream Discard Chop Move* + *Whisper Discard Chop Move*
+  * Misplay theri known trash: *Double Scream Blind-Play*
+* **Triple Chop Move
+  * Discard their card which is one-away from *Chop*: *Scream Discard Chop Move* + *Whisper Discard Chop Move* + *Skipped Discard Chop Move*
+  * Misplay their *Chop*: *Double Scream Blind-Play* + *Skipped Discard Chop Move*
+
+<br/>
+
+## Chop Move with Contextual Read
+
+### Trash Chop Move (with a stale 1)
+
+* If a player recieves a 1 clue (one or more away from *Chop*) and they have enough contextual read that it cannot be a *Play Clue*. In this situation, the clue should be interpreted as a *Trash Chop Move*.
+* For example:
+  * Red 1 has been played on the red stack.
+  * Alice discards. Bob discards.
+  * Alice gives a 1 clue touching a 1 on Bob's slot 3.
+  * Generally, it is a *Play Clue* on the 1. However, if it is playable, Alice won't discard last turn. Therefore, it must be a red 1 which is trash.
+  * Bob discards the red 1 from slot 3 and *Chop Move* his slot 4 and 5.
+
+### Delayed Chop Move (on a critical card)
+
+* If a player recieves a *Chop Move* clue after their teammate discards a non-trash card, and they have enough contextual read that their *Chop* was not important. In this situation, the *Chop Moved* card must be a critical card that their teammate just disacrded.
+* For example:
+  * Alice discards. Bob discards a green 4.
+  * Alice gives 5 clue on Bob's *Chop* as a *5 Save*.
+  * Bob gives a 5 clue touching a 5 on Alice's slot 4 (one away from *Chop*). It is a *5's Chop Move*.
+  * Normally, the players are supposed to *Chop Move* an important card(s) as soon as possible. If Alice has an important card on her *Chop*, Bob would perform a *5's Chop Move* last turn.
+  * Since Bob discarded last turn, it tells Alice that her *Chop* was not important. What's the reason Bob does a *Chop Move* this turn? Her *Chop* card must be important right now.
+  * Since Bob discarded a green 4 last turn; thus, the *Chop Moved* card must be the other copy of green 4.
+  * Alice marks her slot 5 as a green 4 and discards her slot 3.
+
+### Delayed Chop Move (on a playable card)
+
+* If a player recieves a *Chop Move* clue after giving a direct *Play Clue* on their teammate, and they have enough contextual read that their *Chop* is not important. In this situation, the *Chop Moved* card must be a playable card through their teammate's hand.
+* For example:
+  * All 1's are played on the stacks.
+  * Alice discards. Bob discards **a trash**.
+  * Alice gives a red clue touching a red 2 on Bob's slot 1.
+  * Bob gives a 5 clue touching a 5 on Alice's slot 4 (one away from *Chop*). It is a *5's Chop Move*.
+  * Normally, the players are supposed to *Chop Move* an important card(s) as soon as possible. If Alice has an important card on her *Chop*, Bob would perform a *5's Chop Move* last turn.
+  * Since Bob discarded last turn, it tells Alice that her *Chop* was not important. What's the reason Bob does a *Chop Move* this turn? Her *Chop* card must be important right now.
+  * Since Bob discarded a trash last turn, her *Chop Moved* card cannot be a critical card. Thus, it must be a red 3 that Bob wants to protect after receiving the red *Play Clue*.
+  * Alice marks her slot 5 as a red 3 and discards her slot 3.
+  * Bob plays red 2. Alice blind-plays her slot 5, and a red 3 is successfully played.
 
 <br/>
