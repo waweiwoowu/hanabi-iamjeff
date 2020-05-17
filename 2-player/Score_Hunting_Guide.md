@@ -11,12 +11,15 @@
 1. [Introduction](#introduction)
 2. [Conventions Changed](#conventions-changed)
 3. [General Guide](#general-guide)
-   * [Variant-Specific Guide](#variant-specific-guide)
-4. [Other Conventions](#other-conventions)
+   * [First Turn Stall Guide](#first-turn-stall-guide)
+   * [Chop Move Guide](#chop-move-guide)
+   * [Self Color Bluff Guide](#self-color-bluff-guide)
+4. [Variant-Specific Guide](#variant-specific-guide)
+5. [Other Conventions](#other-conventions)
    * [About Play Clues](#about-play-clues)
    * [About Save Clues](#about-save-clues)
    * [Miscellaneous](#miscellaneous)
-   * [Variant-Specific Conventions](#variant-specific-conventions)
+6. [Variant-Specific Conventions](#variant-specific-conventions)
 
 <br/>
 
