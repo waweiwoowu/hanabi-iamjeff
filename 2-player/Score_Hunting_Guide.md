@@ -219,6 +219,10 @@
 * Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
 * However, what if the player delays **two turns** to give a direct *Play Clue*? In this situation, if the clue giver does not make a mistake, and if the clue receiver didn't draw new cards in two turns, then it is a signal as an *Ejection*. The clue receiver should blind-play their *Second Finessed Position* as a *Self Color Ejection*.
 
+### The BCannon Special
+
+* If your username is **"bcannon"**, and if you are in *Locked Hand Situation*, you should always save a 4 as a *Locked Hand Save*.
+
 <br/>
 
 ## Variant-Specific Conventions
