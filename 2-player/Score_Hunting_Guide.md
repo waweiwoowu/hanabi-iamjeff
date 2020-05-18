@@ -182,6 +182,12 @@
 
 ## About Save Clues
 
+### Locked Hand Save (Changed)
+
+* In 2-player games, *Locked Hand Save* is always treated as *8 Clue Saves*, which means the player are allowed to save any off-chop card with either rank or color clue.
+* However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing slot 1 is always a *Play Clue*.
+* Remember, if a rank clue is given touching a card on slot 1, and it requires the clue receiver to blind-play one or more card to fulfill the *Finesse/Bluff*, it is treated as a *Locked Hand Save* instead.
+
 ### Crazy 3/4 Fake Saves
 
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
