@@ -113,12 +113,15 @@
 * This is one of the most powerful move in 2-player, which not only provides more information on your teammate's clued card, but also get a free blind-card.
 * Tip: Always give the clue by touching a one-away card, because it is more likely to be playable compared to two or more away card.
 * If you want to play hanabi extremely aggressively, you can perform a *Self Color Bluff* by touching any card which is not on slot 1, including a *Chop Moved* card or any other brand-new card (if it has full context that it is not playable).
-* For example, a *Brown & Light Pink (6 Suits)* game:
+* Example 1, a *Brown & Light Pink (6 Suits)* game:
   * [154213, Turn 21](https://hanabi.live/replay/154213/21): Bluffing a pink 1 by touching a brand-new green 3 with a green clue.
   * [154213, Turn 33](https://hanabi.live/replay/154213/33): Bluffing a yellow 2 by touching a brand-new brown 4 with a brown clue. (*Telling my teammate they have a brown 4 so that we don't need to worry about brown blocking cards for the rest of the game.*)
-* Another example, a *Light Pink (6 Suits)* game:
+* Example 2, a *Light Pink (6 Suits)* game:
   * [160146, Turn 21](https://hanabi.live/replay/160146/21): Bluffing a purple 1 by touching a brand-new red 5 on chop with a red clue. (***Typically, it is a 5CE!***)
   * [160146, Turn 43](https://hanabi.live/replay/160146/43): Bluffing a green 1 by touching a brand-new (critical) blue 4 with a blue clue. (*Pre-saving a critical card.*)
+* Example 3, a *Pink-Ones & Brown* game:
+  * [171723, Turn 43](https://hanabi.live/replay/171723/43): Bluffing by touching an unknown playable card
+  * [171735, Turn 42](https://hanabi.live/replay/171735/42): Bluffing by touching a known playable card -> *Selfish Self Color Bluff*
 
 <br/>
 
