@@ -1,6 +1,6 @@
 # Selfish Conventions
 
-* This is an instruction how you should respond to a *Selfish Color Clue* while playing a 2-player game.
+* This is an instruction how you should respond to a *Selfish Color Clue* in a 2-player game.
 
 <br/>
 
@@ -25,9 +25,9 @@
   * Now, it's Alice's turn, she is surprised that Bob didn't play his blue 1 and gave a blue clue to her. It is not a Selfish Focus Inversion, since it only touches one blue card.
   * Then she realizes her blue card is exactly a blue 2 and also Chop Moves her slot 5 as a *Selfish Chop Move*.
 
-### Selfish Color Bluff
+### Selfish Bluff
 
-* If the player gives a *Selfish Color Clue* touching **only** one card and the card is three or more away from chop. Since *Chop Moving* three or more cards is unlikely, in this situation, the clue receiver should blind-play their *Finessed Position* as a *Selfish Color Bluff*.
+* If the player gives a *Selfish Color Clue* touching **only** one card and the card is three or more away from chop. Since *Chop Moving* three or more cards is unlikely, in this situation, the clue receiver should blind-play their *Finessed Position* as a *Selfish Bluff*.
 * The card which is touched by the *Selfish Color Clue* is promised to be a playable card through the player who gives the clue.
 
 ### Selfish Focus Inversion
@@ -57,7 +57,7 @@
 * Explanation: Your teammate has two critical cards on chop.
 
 ### Case A4: The clued card is three or more away from chop
-* Interpretation: ***Selfish Color Bluff***
+* Interpretation: ***Selfish Bluff***
 * Explanation: *Chop Moving* 3 cards in a row seems unlikely, even in hard variants.
 
 ### Case B1: One of the cards is on chop
