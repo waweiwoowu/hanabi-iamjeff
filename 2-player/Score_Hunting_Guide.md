@@ -46,8 +46,6 @@
   * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
 * ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
 * ***[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)***
-* ***[Scream Push (Anxiety with a Chop Move)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-scream-push-anxiety-with-a-chop-move)***
-  * See *[Anxiety Play Shift](#anxiety-play-shift)* for the usage of the *Scream Push* in specific situation.
 * ***[Selfish Conventions](Selfish_Conventions.md)***
   * *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
   * *[Selfish Bluff](Selfish_Conventions.md#selfish-bluff)*
@@ -59,6 +57,7 @@
 * ***[Second Turn Stalls](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#second-turn-stalls)***
 * ***[5's Double Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-5s-double-chop-move)***
 * ***[Double Discard Save Stalls](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#double-discard-save-stalls)***
+* ***[Scream Push (Anxiety with a Chop Move)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-scream-push-anxiety-with-a-chop-move)***
 * ***[Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-scream-blind-play-blind-playing-chop)***
   * Blind-playing the *Chop* is always *Double Chop Move* (as a *Double Scream Blind-Play*).
   * If you want to *Chop Move* only one card while in no clues, use *Skipped Discard Chop Move*.
@@ -78,6 +77,7 @@
 * ***[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)***
 * ***[5 Pull](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5-pull)***
   * Note that the players are allowed to do a *5 Pull* at the start of the *Mid-Game*.
+* ***[Anxiety Play](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-anxiety-play-forcing-a-locked-player-to-play)***
 
 ### 3p+ Conventions which are *turned off*
 
@@ -133,6 +133,7 @@
 ### Hard Suits
 * *Brown*, *Muddy Rainbow*, and *Null* are hard suits.
 * *[Double Loaded Play Clue](#double-loaded-play-clue)* and *[Overloaded Play Clue](#overloaded-play-clue)* are turned on in the variants with a hard suit.
+* Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
 
 ### Brown
 
@@ -140,7 +141,8 @@
 
 ### Null
 
-* If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough contextual read that it is not a *Trash Chop Move*.
+* *Self Color Bluffs* are turned off in favor of *Color Positional clues*.
+* If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough context that it is not a *Trash Chop Move*.
 
 <br/>
 
@@ -221,10 +223,19 @@
 ### Anxiety Play Shift
 
 * This applies to situations where a player becomes locked but has a playable card or has a playable card through a partner's clued cards.
-* Generally in an *Anxiety* situation, the player must play the card that is most likely playable.
+* Generally in an *Anxiety* situation, the player must play the card that is most likely playable. If there is more than one option, then they should know that the left-most is playable.
 * However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
 * For example:
-  * TODO
+  * All of the 1's are played on the stacks.
+  * Alice is locked, she has three 5s with 5 clue on them and the other cards are *Chop Moved*. Her hand: g3, g5, r3, y5, b5 (from left to right).
+  * There are only 1 clue in the bank, and it's Alice's turn.
+  * Alice gives a red clue touching Bob's red 2 on slot 1. Now, it's 0 clues.
+  * Bob knows he has a red 2 on slot 1. However, he cannot play it. If he does, Alice is going to bomb g3 as an *Anxiety Play*. Then he discards.
+  * Alice gives a 5 clue as a *5 Stall*.
+  * Bob plays the red 2.
+  * Now, it's Alice's turn. She is in an *Anxiety* situation. By *Anxiety Play*, she is supposed to play her slot 1. However, if it is playable, then Bob won't discard last turn. Therefore, she knows that her slot 1 must not be playable.
+  * Alice also knows *Anxiety Play Shift*, which means her playable card must be on slot 2. However, it is a 5, which is known not to be playable. Thus, her playable card must be on slot 3.
+  * Alice blind-plays her red 3 from slot 3.
 
 ### Self Color Ejection
 
