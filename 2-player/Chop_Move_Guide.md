@@ -18,16 +18,21 @@
 
 ### Non-Emergency Chop Moves
 
-* If you have two or more unknown 1s, you can use *[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)*.
+* If you have two or more unknown 1s: *[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)*
   * Skip 1 card: *Single Chop Move*
   * Skip 2 cards: *Double Chop Move*
   * And so on...
+* If you have two or more unknown 1s, instead of performing an *Order Chop Move*, you give a direct *Save Clue* touching **only one** card on your teammate's *Chop*: *[Redundant Save Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Deleted_Conventions.md#the-redundant-save-chop-move)*.
 * If your teammate has a 5 which is one-away from chop: *[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)*
   * Remember it is just a *5 Stall* if you are in *8 Clues Situation*.
 * If your teammate has a trash: *[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)*
   * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
+* If your teammate has an unknown trash (clued), and if they are not locked, you can give a *Fix Clue* on their trash: *[Transfer Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-chop-transfer)*
+  * Note that you can also do this with a *Chop Moved* card.
 * If your teammate has a playable card through your own hand: *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
 * If your teammate has a card of one-of-each suit and it is one-away from chop: *[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)*
+
+
 
 ### Semi-Emergency Chop Moves (without wasting a clue)
 
