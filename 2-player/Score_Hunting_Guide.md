@@ -32,7 +32,7 @@
 
 ## Conventions Changed
 
-### Conventions which are *used*
+### 2p Conventions which are *turned on*
 
 * ***[Tempo Change](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#tempo-change)***
 * ***[Priority Change](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#priority-change)***
@@ -49,8 +49,11 @@
 * ***[Scream Push (Anxiety with a Chop Move)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-scream-push-anxiety-with-a-chop-move)***
   * See *[Anxiety Play Shift](#anxiety-play-shift)* for the usage of the *Scream Push* in specific situation.
 * ***[Selfish Conventions](Selfish_Conventions.md)***
+  * *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
+  * *[Selfish Bluff](Selfish_Conventions.md#selfish-bluff)*
+  * *[Selfish Focus Inversion](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#selfish-focus-inversion-sfi--sfi)*
 
-### Conventions which are *not used*
+### 2p Conventions which are *turned off*
 
 * ***[One-Away Saves](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#one-away-saves)***
 * ***[Second Turn Stalls](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#second-turn-stalls)***
@@ -62,13 +65,13 @@
 * ***[Double Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-skipped-discard-chop-move)***
   * It is treated as a *Positional Discard*.
 
-### Variant-Specific Conventions which are *used*
+### 2p Variant-Specific Conventions which are *turned on*
 * ***[Flush Save](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-flush-save)***
 * ***[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)***
 * ***[Implied Color Truth](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#implied-color-truth)***
   * Turn off if you want to apply *[Implied Saves](#implied-saves)* to rainbow cards.
 
-### Other Conventions which are *turned on*
+### 3p+ Conventions which are *turned on*
 
 * ***[3 Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-3-bluff)***
 * ***[4 Double Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-4-double-bluff)***
@@ -76,7 +79,7 @@
 * ***[5 Pull](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5-pull)***
   * Note that the players are allowed to do a *5 Pull* at the start of the *Mid-Game*.
 
-### Other Conventions which are *turned off*
+### 3p+ Conventions which are *turned off*
 
 * ***[Double Discard Avoidance](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#double-discard-situations)***
 * ***[Occupied Play Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-occupied-play-clue--the-occupied-finesse-opc--opc)***
@@ -100,7 +103,7 @@
 ### Chop Move Guide
 
 * *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
-* See [here](Chop_Move_Guide.md) for more details.
+* Please read the guide [here](Chop_Move_Guide.md).
 
 ### Self Color Bluff Guide
 
