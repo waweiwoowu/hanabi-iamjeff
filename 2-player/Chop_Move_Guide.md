@@ -30,6 +30,7 @@
 * If your teammate has an unknown trash (clued), and if they are not locked, you can give a *Fix Clue* on their trash: ***[Transfer Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-chop-transfer)***
   * Note that you can also do this with a *Chop Moved* card.
 * If your teammate has a playable card through your own hand: ***[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)***
+* If your teammate has a clued card and you give a *Tempo Clue* in special circumstances: ***[Tempo Clue Chop Move](Score_Hunting_Guide.md#tempo-clue-chop-move-exception)***
 * If your teammate has a card of one-of-each suit and it is one-away from chop: ***[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)***
 
 
