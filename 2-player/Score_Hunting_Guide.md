@@ -20,6 +20,7 @@
    * [About Save Clues](#about-save-clues)
    * [Miscellaneous](#miscellaneous)
 6. [Variant-Specific Conventions](#variant-specific-conventions)
+7. [Convention Attribution (2-Player)](#convention-attribution-2-player)
 
 <br/>
 
@@ -196,7 +197,7 @@
 
 ## About Save Clues
 
-### Locked Hand Save (Changed)
+### Locked Hand Save Change
 
 * In 2-player games, *Locked Hand Save* is always treated as an *8 Clue Save*, which means the player are allowed to save any off-chop card with either rank or color clue.
 * However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing a card on slot 1 is always a *Play Clue*.
@@ -206,6 +207,13 @@
 
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
 * Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
+
+### Tempo Clue Chop Move Exception
+
+* Basically, *Tempo Clue Chop Moves* are turned off in 2-player.
+* However, if the player gives a *Tempo Clue* touching only one card, and the card of their connecting cards are all critical (e.g. a 4 or a 5). In this situation, the clue receiver should *Chop Move* their card as a *Tempo Clue Chop Move*.
+* It is because the player will never let their teammate discard the connecting cards since they are all critical. It is quite strange for the player to give a *Tempo Clue*.
+* Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
 
 ### Sacrifice Discard Chop Move
 
@@ -255,8 +263,6 @@
   * [Turn 28](https://hanabi.live/replay/174021/28): piper blind-plays slot 2 as a *Self Color Ejection*, and a white 5 is successfully played.
 * Actually, this is just a *Self Color Bluff* (with *Focus Slide*). But why not call it an *Ejection*? LOL.
 
-
-
 ### The BCannon Special
 
 * If your username is **"bcannon"**, and if you are in *Locked Hand Situation*, you should always save a 4 as a *Locked Hand Save*.
@@ -277,7 +283,7 @@
 * For an emergancy, the players are allowed to break the *Pink Promise* to do a *5's Chop Move* by touching a non-5 pink card with a 5 clue.
 * You can only do this with a `pink 2` or a `critical pink card`.
 
-### Null Color Positional Clues Changed
+### Null Color Positional Clue Change
 
 * This convention only applies to variants with a null suit.
 * A *Color Positional Clue* corresponds to a slot number that is based on the order of the stacks. Stacks correspond to the slot numbers **from left to right**. *("from right to left" in a 3 or more player game)*
@@ -285,5 +291,42 @@
 
 ### Null Positional Double Bluff
 * If the player who received a *Positional Clue* cannot find a null card after blind-playing 2 playable cards, they should stop digging for null card as a known *Positional Double Bluff*.
+
+<br/>
+
+## Convention Attribution (2-Player)
+
+### Conventions for All Variants
+
+| Convention Name                 | Inventor
+| ------------------------------- | --------
+| Self Color Bluff                | IAMJEFF
+| Delayed Bluff                   | IAMJEFF & Fireheart
+| Dark Chop Move                  | IAMJEFF
+| Sacrifice Discard Chop Move     | IAMJEFF & Fireheart
+| 4 Single Bluff                  | IAMJEFF
+| Selfish Chop Move               | IAMJEFF
+| Selfish Bluff                   | IAMJEFF
+| Crazy 3/4 Fake Saves            | IAMJEFF
+| Implied Saves                   | IAMJEFF
+| Double Loaded Play Clue         | IAMJEFF
+| Overloaded Play Clue            | IAMJEFF
+| Anxiety Play Shift              | IAMJEFF
+| Self Color Ejection             | IAMJEFF
+| Chop Overflowed Positional Clue | IAMJEFF
+| Locked Hand Save Change         | IAMJEFF
+| The BCannon Special             | bcannon
+| Tempo Clue Chop Move Exception  | IAMJEFF & piper
+
+<br/>
+
+### Variant-Specific Conventions
+
+| Convention Name                   | Inventor
+| --------------------------------- | --------
+| Pink Crazy Bluff/Pull             | IAMJEFF
+| Pink Crazy 5's Chop Move          | IAMJEFF
+| Null Color Positional Clue Change | IAMJEFF
+| Null Positional Double Bluff      | IAMJEFF & Fireheart
 
 <br/>
