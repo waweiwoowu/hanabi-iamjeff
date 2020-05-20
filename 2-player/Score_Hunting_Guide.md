@@ -247,6 +247,14 @@
 
 * Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
 * However, what if the player delays **two turns** to give a direct *Play Clue*? In this situation, if the clue giver does not make a mistake, and if the clue receiver didn't draw new cards in two turns, then it is a signal as an *Ejection*. The clue receiver should blind-play their *Second Finessed Position* as a *Self Color Ejection*.
+* For example, in a [*Black & White (5 Suits)*](https://hanabi.live/replay/174021) game:
+  * [Turn 25](https://hanabi.live/replay/174021/25): charmander discards since he has nothing to do.
+  * [Turn 26](https://hanabi.live/replay/174021/26): piper gives a 3 clue as a *Play Clue*.
+  * [Turn 27](https://hanabi.live/replay/174021/27): charmander gives a red clue (re)touching the red 5 on slot 4.
+  * Piper knows that the red 5 is not playable; therefore, it is a signal as a *Self Color Bluff*. However, if his slot 1 was playable, charmander would do it last turn. Thus, piper knows that his playable card must be on slot 2.
+  * [Turn 28](https://hanabi.live/replay/174021/28): piper blind-plays slot 2 as a *Self Color Ejection*, and a white 5 is successfully played.
+
+
 
 ### The BCannon Special
 
