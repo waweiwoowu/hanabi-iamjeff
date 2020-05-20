@@ -20,7 +20,7 @@
    * [About Save Clues](#about-save-clues)
    * [Miscellaneous](#miscellaneous)
 6. [Variant-Specific Conventions](#variant-specific-conventions)
-7. [Convention Attribution (2-Player)](#convention-attribution-2-player)
+7. [Convention Attribution](#convention-attribution-2-player)
 
 <br/>
 
@@ -169,18 +169,22 @@
 * The players are allowed to perform a *4 Single Bluff* by touching a two-away 4 with a rank clue, if the 4 looks like a one-away card, and this move only gets one blind-card.
 * The 4 that was used as a *4 Single Bluff* is not promised to be one-away. And the player who receives the clue should mark nothing on their card.
 
-### Double Loaded Play Clue
+### Anxiety Play Shift
 
-* This convention only apply to the variants with a hard suit.
-* *Loaded action* is a situation where the player has `a playable card` or `a known trash`.
-* If a clue is given to a chop card and the player has two or more *loaded actions*, then it is treated as a *Play Clue* on that card.
-* Note that *Loaded Play Clue* is turned off in 2-player.
-
-### Overloaded Play Clue
-
-* This convention only apply to the variants with a hard suit.
-* If a player is *Occupied* and they gives a clue touching a chop card while the clue receiver has a *loaded action*, then it is treated as a *Play Clue* on that card.
-* Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
+* This applies to situations where a player becomes locked but has a playable card or has a playable card through a partner's clued cards.
+* Generally in an *Anxiety* situation, the player must play the card that is most likely playable. If there is more than one option, then they should know that the left-most is playable.
+* However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
+* For example:
+  * All of the 1's are played on the stacks.
+  * Alice is locked, she has three 5s with 5 clue on them and the other cards are *Chop Moved*. Her hand: g3, g5, r3, y5, b5 (from left to right).
+  * There are only 1 clue in the bank, and it's Alice's turn.
+  * Alice gives a red clue touching Bob's red 2 on slot 1. Now, it's 0 clues.
+  * Bob knows he has a red 2 on slot 1. However, he cannot play it. If he does, Alice is going to bomb g3 as an *Anxiety Play*. Then he discards.
+  * Alice gives a 5 clue as a *5 Stall*.
+  * Bob plays the red 2.
+  * Now, it's Alice's turn. She is in an *Anxiety* situation. By *Anxiety Play*, she is supposed to play her slot 1. However, if it is playable, then Bob won't discard last turn. Therefore, she knows that her slot 1 must not be playable.
+  * Alice also knows *Anxiety Play Shift*, which means her playable card must be on slot 2. However, it is a 5, which is known not to be playable. Thus, her playable card must be on slot 3.
+  * Alice blind-plays her red 3 from slot 3.
 
 ### Chop Overflowed Positional Clue
 
@@ -234,23 +238,6 @@
 
 ## Miscellaneous
 
-### Anxiety Play Shift
-
-* This applies to situations where a player becomes locked but has a playable card or has a playable card through a partner's clued cards.
-* Generally in an *Anxiety* situation, the player must play the card that is most likely playable. If there is more than one option, then they should know that the left-most is playable.
-* However, what if that card isn't playable? A partner must continue to discard to generate clues to prevent an *Anxiety Play*. Thus, each discard can "shift" the *Anxiety Focus* over by 1 slot.
-* For example:
-  * All of the 1's are played on the stacks.
-  * Alice is locked, she has three 5s with 5 clue on them and the other cards are *Chop Moved*. Her hand: g3, g5, r3, y5, b5 (from left to right).
-  * There are only 1 clue in the bank, and it's Alice's turn.
-  * Alice gives a red clue touching Bob's red 2 on slot 1. Now, it's 0 clues.
-  * Bob knows he has a red 2 on slot 1. However, he cannot play it. If he does, Alice is going to bomb g3 as an *Anxiety Play*. Then he discards.
-  * Alice gives a 5 clue as a *5 Stall*.
-  * Bob plays the red 2.
-  * Now, it's Alice's turn. She is in an *Anxiety* situation. By *Anxiety Play*, she is supposed to play her slot 1. However, if it is playable, then Bob won't discard last turn. Therefore, she knows that her slot 1 must not be playable.
-  * Alice also knows *Anxiety Play Shift*, which means her playable card must be on slot 2. However, it is a 5, which is known not to be playable. Thus, her playable card must be on slot 3.
-  * Alice blind-plays her red 3 from slot 3.
-
 ### Self Color Ejection
 
 * Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
@@ -270,6 +257,19 @@
 <br/>
 
 ## Variant-Specific Conventions
+
+### Double Loaded Play Clue
+
+* This convention only apply to the variants with a hard suit.
+* *Loaded action* is a situation where the player has `a playable card` or `a known trash`.
+* If a clue is given to a chop card and the player has two or more *loaded actions*, then it is treated as a *Play Clue* on that card.
+* Note that *Loaded Play Clue* is turned off in 2-player.
+
+### Overloaded Play Clue
+
+* This convention only apply to the variants with a hard suit.
+* If a player is *Occupied* and they gives a clue touching a chop card while the clue receiver has a *loaded action*, then it is treated as a *Play Clue* on that card.
+* Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
 
 ### Pink Crazy Bluff/Pull
 
@@ -302,15 +302,12 @@
 | ------------------------------- | --------
 | Self Color Bluff                | IAMJEFF
 | Delayed Bluff                   | IAMJEFF & Fireheart
-| Dark Chop Move                  | IAMJEFF
 | Sacrifice Discard Chop Move     | IAMJEFF & Fireheart
 | 4 Single Bluff                  | IAMJEFF
 | Selfish Chop Move               | IAMJEFF
 | Selfish Bluff                   | IAMJEFF
 | Crazy 3/4 Fake Saves            | IAMJEFF
 | Implied Saves                   | IAMJEFF
-| Double Loaded Play Clue         | IAMJEFF
-| Overloaded Play Clue            | IAMJEFF
 | Anxiety Play Shift              | IAMJEFF
 | Self Color Ejection             | IAMJEFF
 | Chop Overflowed Positional Clue | IAMJEFF
@@ -324,9 +321,12 @@
 
 | Convention Name                   | Inventor
 | --------------------------------- | --------
-| Pink Crazy Bluff/Pull             | IAMJEFF
-| Pink Crazy 5's Chop Move          | IAMJEFF
 | Null Color Positional Clue Change | IAMJEFF
 | Null Positional Double Bluff      | IAMJEFF & Fireheart
+| Dark Chop Move                    | IAMJEFF
+| Pink Crazy Bluff/Pull             | IAMJEFF
+| Pink Crazy 5's Chop Move          | IAMJEFF
+| Double Loaded Play Clue           | IAMJEFF
+| Overloaded Play Clue              | IAMJEFF
 
 <br/>
