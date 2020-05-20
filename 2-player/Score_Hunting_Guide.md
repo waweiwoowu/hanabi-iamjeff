@@ -100,6 +100,11 @@
 * In this situation, you might have to think that whether you should to take a risk to setup the *Finesse*, or just simply give a *Save Clue* on their *Chop*.
 * There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
 
+test1
+![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
+test2
+<img src="images/2-player/first_turn_stall_guide.png" height="300" />
+
 ### Chop Move Guide
 
 * *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
