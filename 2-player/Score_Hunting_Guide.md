@@ -99,11 +99,12 @@
 * Then you should note that if there are any critical cards on chop (or 2s) needed to be saved, and your teammate might discard on their turn? (e.g. you don't have playable cards)
 * In this situation, you might have to think that whether you should to take a risk to setup the *Finesse*, or just simply give a *Save Clue* on their *Chop*.
 * There is no correct answer, you have to balance the pros and cons depending on the situation yourself.
-
-test1
+* For example, in a [*Light Pink (6 Suits)* game](https://hanabi.live/replay/160166):
+  * Instead of giving a 1 clue, eevee opens with a 3 clue touching a light pink 4 on slot 1 and a purple 3 on slot 5.
+  * Piper gives a 4 clue as a *4 Double Bluff*.
+  * Eevee gives a 4 clue as another *4 Double Bluff*.
+  
 ![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
-test2
-<img src="images/2-player/first_turn_stall_guide.png" height="300" />
 
 ### Chop Move Guide
 
