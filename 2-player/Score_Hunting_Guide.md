@@ -253,6 +253,7 @@
   * [Turn 27](https://hanabi.live/replay/174021/27): charmander gives a red clue (re)touching the red 5 on slot 4.
   * Piper knows that the red 5 is not playable; therefore, it is a signal as a *Self Color Bluff*. However, if his slot 1 was playable, charmander would do it last turn. Thus, piper knows that his playable card must be on slot 2.
   * [Turn 28](https://hanabi.live/replay/174021/28): piper blind-plays slot 2 as a *Self Color Ejection*, and a white 5 is successfully played.
+* Actually, this is just a *Self Color Bluff* (with *Focus Slide*). But why not call it an *Ejection*? LOL.
 
 
 
