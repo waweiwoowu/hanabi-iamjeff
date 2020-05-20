@@ -214,7 +214,7 @@
 
 ### Tempo Clue Chop Move Exception
 
-* Basically, *Tempo Clue Chop Moves* are turned off in 2-player.
+* Basically, *[Tempo Clue Chop Moves](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-tempo-clue-chop-move)* are turned off in 2-player.
 * However, if the player gives a *Tempo Clue* touching only one card, and the card of their connecting cards are all critical (e.g. a 4 or a 5). In this situation, the clue receiver should *Chop Move* their card as a *Tempo Clue Chop Move*.
 * It is because the player will never let their teammate discard the connecting cards since they are all critical. It is quite strange for the player to give a *Tempo Clue*.
 * Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
