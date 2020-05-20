@@ -300,6 +300,13 @@
 
 | Convention Name                 | Inventor
 | ------------------------------- | --------
+| Tempo Change                    | *(Unknown)*
+| Priority Change                 | *(Unknown)*
+| First Turn Stalls               | *(Unknown)*
+| Flush Clue                      | *(Unknown)*
+| Scream Discard Modification     | *(Unknown)*
+| Double Scream Blind-Play        | *(Unknown)*
+| Skipped Discard Chop Move       | *(Unknown)*
 | Self Color Bluff                | IAMJEFF
 | Delayed Bluff                   | IAMJEFF & Fireheart
 | Sacrifice Discard Chop Move     | IAMJEFF & Fireheart
@@ -321,6 +328,8 @@
 
 | Convention Name                   | Inventor
 | --------------------------------- | --------
+| Flush Save                        | *(Unknown)*
+| Implied Color Truth               | *(Unknown)*
 | Null Color Positional Clue Change | IAMJEFF
 | Null Positional Double Bluff      | IAMJEFF & Fireheart
 | Dark Chop Move                    | IAMJEFF
