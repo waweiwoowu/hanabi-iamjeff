@@ -206,11 +206,6 @@
 * However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing a card on slot 1 is always a *Play Clue*.
 * On the other hand, when a rank clue (except a 5 clue) is given focusing a card on slot 1 and if it requires the clue receiver to blind-play **one** or more card to fulfill the *Finesse/Bluff*, it is treated as a *Locked Hand Save*; otherwise, it is a *Play Clue*.
 
-### Crazy 3/4 Fake Saves
-
-* If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
-* Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
-
 ### Tempo Clue Chop Move Change
 
 * Consider the following game-state:
@@ -232,6 +227,11 @@
 ### Sacrifice Discard Chop Move
 
 * If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
+
+### Crazy 3/4 Fake Saves
+
+* If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
+* Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
 
 ### Implied Saves
 
