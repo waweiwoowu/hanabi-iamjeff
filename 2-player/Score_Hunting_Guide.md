@@ -104,8 +104,7 @@
   * Instead of giving a 1 clue, eevee opens with a 3 clue touching a light pink 4 on slot 1 and a purple 3 on slot 5.
   * Piper gives a 4 clue as a *4 Double Bluff*.
   * Eevee gives a 4 clue as another *4 Double Bluff*.
-  
-![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
+  ![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
 
 ### Chop Move Guide
 
@@ -212,11 +211,22 @@
 * If there are a 3 or 4 in the trash pile, and if the players don't know they have the other copy of that card (even it is in their hand), they are allowed to "fake save" a random 3 or 4 on chop. And the player who receives the clue shouldn't play into the finesse or bluff.
 * Do not perform this move on a two-away 3 or 4. (Unless you think it is valuable.)
 
-### Tempo Clue Chop Move Exception
+### Tempo Clue Chop Move Change
 
-* Basically, *[Tempo Clue Chop Moves](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-tempo-clue-chop-move)* are turned off in 2-player.
-* However, if the player gives a *Tempo Clue* touching only one card, and the rest of the cards of that suit are all critical (e.g. a 4 or a 5). In this situation, the clue receiver should *Chop Move* their card as a *Tempo Clue Chop Move*.
-* It is because the player will never let their teammate discard the connecting cards since they are all critical. It is quite strange for the player to give a *Tempo Clue*.
+* Consider the following game-state:
+  * Red and green 1 are played on the stacks.
+  * Alice has a red 2. She knows rank, but not color.
+  * Bob has a non-critical, unclued red 3 on chop.
+  * There are no 3s in the discard.
+* In this situation, Alice is unable to save Bob’s red 3. For this reason, we turn off *[Tempo Clue Chop Moves](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-tempo-clue-chop-move)* in 2-player. If Bob gives a *Tempo Clue* to Alice, she’ll be able to safely give a *Play Clue* to Bob’s red 3 and save it from being discarded.
+* *Tempo clues* are therefore encouraged in 2-player, as they allow the team to save non-critical connecting cards.
+* However, it would be wasteful to give a *Tempo Clue* which does not allow the team to save a non-critical connecting card. In this scenario, this would be a *Tempo Clue Chop Move*.
+* For example, in a *[6 Suit](https://hanabi.live/replay/177641/42)* game:
+  * The game-state are shown as the following screenshot. 
+  * Kimbifille has a g3 (touched by a 3 clue) on slot 2, a g2 (touched by a green clue) on slot 4, and a b5 on slot 5.
+  * Charmander gives a 2 clue touching the g2 as a *Tempo Clue*.
+  * Kimbifille knows that *Tempo Clues* are encouraged in 2-player, but she would have saved g3, g4 and g5 anyway, since they're all critical. So this *Tempo Clue* offers no value to the team. It must be a *Tempo Clue Chop Move*.
+![Tempo Clue Chop Move](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/tempo_clue_chop_move.png)
 * Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
 
 ### Sacrifice Discard Chop Move
@@ -320,7 +330,7 @@
 | Chop Overflowed Positional Clue | IAMJEFF
 | Locked Hand Save Change         | IAMJEFF
 | The BCannon Special             | bcannon
-| Tempo Clue Chop Move Exception  | IAMJEFF & piper
+| Tempo Clue Chop Move Change     | IAMJEFF & piper
 
 <br/>
 
