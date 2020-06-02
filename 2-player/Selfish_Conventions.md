@@ -7,6 +7,10 @@
 ## Table of Contents
 
 1. [Selfish Conventions](#selfish-conventions)
+   * [Selfish Clue](#selfish-clue)
+   * [Selfish Chop Move](#selfish-chop-move)
+   * [Selfish Bluff](#selfish-bluff)
+   * [Selfish Focus Inversion](#selfish-focus-inversion)
 2. [Interpretations](#interpretations)
 
 <br/>
@@ -37,11 +41,15 @@
 * If the player gives a *Selfish Clue* touching **only** one card and the card is three or more away from chop. Since *Chop Moving* three or more cards is unlikely; In this situation, the clue receiver should blind-play their *Finessed Position* as a *Selfish Bluff*.
 * The card which is touched by the *Selfish Clue* is promised to be a playable card through the player who gives the clue.
 
+### Selfish Focus Inversion
+
+* Note that you can only perform a *[Selfish Focus Inversion](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#selfish-focus-inversion-sfi--sfi)* by touching two or more cards in specific circumstances (see [below](#case-b3-none-of-the-cards-is-on-chop-and-none-of-the-cards-is-one-away-from-chop)).
+
 <br/>
 
 ## Interpretations
 
-* Case A: The clue only touches one card. (*Selfish Chop Move* or *Selfish Bluff*)
+* Case A: The clue touches only one card. (*Selfish Chop Move* or *Selfish Bluff*)
 * Case B: The clue touches multiple cards. (*Normal Play Clue* or *Selfish Focus Inversion*)
 
 ### Case A1: The clued card is on chop 
@@ -56,7 +64,7 @@
 * Notes: Why do your teammate have a critical card on chop? The most common situation is you just discarded another copy of the card and made your teammate's chop become critical.
 
 ### Case A3: The clued card is two-away from chop
-* Interpretation: ***Selfish (Double) Chop Move***
+* Interpretation: ***Selfish Chop Move** (Double Chop Move)*
 * Explanation: Your teammate has two critical cards on chop.
 
 ### Case A4: The clued card is three or more away from chop
@@ -77,6 +85,6 @@
 
 ### Case B3: None of the cards is on chop and none of the cards is one-away-from-chop 
 * Interpretation: ***Selfish Focus Inversion***
-* Explanation: It follows the current convention *Selfish Focus Inversion*.
+* Explanation: It's way too early to give this clue, then it should be treated as a *Selfish Focus Inversion*.
 
 <br/>
