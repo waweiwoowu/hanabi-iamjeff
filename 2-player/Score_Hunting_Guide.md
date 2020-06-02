@@ -85,6 +85,7 @@
 * ***[Double Discard Avoidance](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#double-discard-situations)***
 * ***[Occupied Play Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-occupied-play-clue--the-occupied-finesse-opc--opc)***
 * ***[Loaded Play Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#loaded-play-clues-in-hard-variants-part-1)***
+  * The players can choose to turn *Loaded Play Clue* on. But from my experience, it is better to turn it off and enable [*Double Loaded Play Clue*](#double-loaded-play-clue) and [*Overloaded Play Clue*](#overloaded-play-clue).
 
 <br/>
 
@@ -273,13 +274,13 @@
 * This convention only apply to the variants with a hard suit.
 * *Loaded action* is a situation where the player has `a playable card` or `a known trash`.
 * If a clue is given to a chop card and the player has two or more *loaded actions*, then it is treated as a *Play Clue* on that card.
-* Note that *Loaded Play Clue* is turned off in 2-player.
+* Note that *Loaded Play Clues* are turned off in 2-player.
 
 ### Overloaded Play Clue
 
 * This convention only apply to the variants with a hard suit.
 * If a player is *Occupied* and they gives a clue touching a chop card while the clue receiver has a *loaded action*, then it is treated as a *Play Clue* on that card.
-* Note that *Occupied Play Clue* and *Loaded Play Clue* are turned off in 2-player.
+* Note that *Occupied Play Clues* and *Loaded Play Clues* are turned off in 2-player.
 
 ### Pink Crazy Bluff/Pull
 
