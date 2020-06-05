@@ -105,7 +105,7 @@
 * ***Triple Chop Move***
   * Discarding the *Chop* card: *"Scream Discard Chop Move"* + *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"*
 
-![Chop Move Addition Example 4](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/chop_move_addition_example_4.png.png)
+![Chop Move Addition Example 4](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/chop_move_addition_example_4.png)
 
 <br/>
 
