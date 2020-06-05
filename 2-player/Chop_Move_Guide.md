@@ -94,6 +94,19 @@
   * Discarding the card which is one-away from *Chop*: *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"* + *"Skipped Discard Chop Move"*
   * Misplaying the trash out-of-order (right-most): *"Trash Order Chop Move"* + *"Double Scream Blind-Play"*
 
+### Example 4 (with two known playable duped cards)
+
+> If a player has two known playable duped cards (as the picture showing below), and they want to perform a *Chop Move* without wasting a clue.
+
+* ***Single Chop Move***
+  * Discarding the left-most duped card: *"Scream Discard Chop Move"*
+* ***Double Chop Move***
+  * Discarding the right-most duped card: *"Scream Discard Chop Move"* + *"Trash Order Chop Move"*
+* ***Triple Chop Move***
+  * Discarding the *Chop* card: *"Scream Discard Chop Move"* + *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"*
+
+![Chop Move Addition Example 4](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/chop_move_addition_example_4.png.png)
+
 <br/>
 
 ## Context
