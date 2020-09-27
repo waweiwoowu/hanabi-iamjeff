@@ -207,7 +207,7 @@
 * However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing a card on slot 1 is always a *Play Clue*.
 * On the other hand, when a rank clue (except a 5 clue) is given focusing a card on slot 1 and if it requires the clue receiver to blind-play **one** or more card to fulfill the *Finesse/Bluff*, it is treated as a *Locked Hand Save*; otherwise, it is a *Play Clue*.
 
-### Tempo Clue Chop Move Change
+### Tempo Clue Chop Move Change (Jeff)
 
 * Consider the following game-state:
   * Red and green 1 are played on the stacks.
@@ -224,6 +224,9 @@
   * Kimbifille knows that *Tempo Clues* are encouraged in 2-player, but she would have saved g3, g4 and g5 anyway, since they're all critical. So this *Tempo Clue* offers no value to the team. It must be a *Tempo Clue Chop Move*.
 ![Tempo Clue Chop Move](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/tempo_clue_chop_move.png)
 * Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
+
+### Advanced form of Tempo Clue Chop Move Change (Dr_Kakashi)
+
 
 ### Sacrifice Discard Chop Move
 
