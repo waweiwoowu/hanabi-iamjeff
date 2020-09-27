@@ -230,9 +230,9 @@
 ![2020-09-27_07-25-03](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
 * Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
 * In this situation, should Kakashi tempo the G4?  
-* If Kakashi does nothing, he can gain a lot of information by Kimbi's actions.
-* If Kimbi plays G4, then Kakashi will know that one of his 5's is G5.
-* If Kimbi discards, then it tells Kakashi that none of his 5's is G5.
+  * If Kakashi does nothing, he can gain a lot of information by Kimbi's actions.
+  * If Kimbi plays G4, then Kakashi will know that one of his 5's is G5.
+  * If Kimbi discards, then it tells Kakashi that none of his 5's is G5.
 * Furthermore, in the future, when Kakashi draws G5, Kimbi will immediately play G4.  This means that Kakashi will blind play G5 from slot 1.
 * It would be quite strange for Kakashi to directly clue the G4 for tempo.  Thus, it must have an extra meaning.
 * Kakashi wants Kimbi to play now, which means her chop is important.  Thus, Kimbi should Chop Move.  
