@@ -242,6 +242,9 @@ Situations for when this is turned off.
 1. Pace is 1 or less.
 2. Player is Locked or is in a stall situation.
 
+Kakashi should not blind play, if Kimbi is in a situation where she was forced to play.
+For example, if she is in anxiety.  
+
 ### Sacrifice Discard Chop Move
 
 * If the player is locked, and their teammate's *Chop* is on their *Finessed Position*, and the teammate draws a critical card. In this situation, the player who is locked can sacrifice one of their card to *Chop Move* their teammate as a *Sacrifice Discard Chop Move*.
