@@ -226,7 +226,7 @@
 * Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
 
 ### Advanced form of Tempo Clue Chop Move Change (Dr_Kakashi)
-
+![2020-09-27_07-13-33](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
 
 ### Sacrifice Discard Chop Move
 
