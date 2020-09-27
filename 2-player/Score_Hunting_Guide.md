@@ -238,7 +238,7 @@
 * Kakashi wants Kimbi to play now, which means her chop is important.  Thus, Kimbi should Chop Move.  
 * [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff) should be turned off to use this convention.
 
-Situations for when this is turned off.
+Situations for when this is turned off. I.e. Kakashi tempoing would not cm. 
 1. Pace is 1 or less.
 2. Player is Locked or is in a stall situation.
 
