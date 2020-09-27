@@ -352,6 +352,7 @@ For example, if she is in anxiety.
 | Locked Hand Save Change         | IAMJEFF
 | The BCannon Special             | bcannon
 | Tempo Clue Chop Move Change     | IAMJEFF & piper
+| Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
 
 <br/>
 
