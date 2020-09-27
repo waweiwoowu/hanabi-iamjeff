@@ -225,7 +225,7 @@
 ![Tempo Clue Chop Move](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/tempo_clue_chop_move.png)
 * Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
 
-### Advanced form of Tempo Clue Chop Move Change (Dr_Kakashi)
+### Advanced form of Tempo Clue Chop Move Change (Dr_Kakashi & Kimbifille)
 ![2020-09-27_07-13-33](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
 ![2020-09-27_07-25-03](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
 * Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
