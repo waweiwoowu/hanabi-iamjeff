@@ -234,9 +234,15 @@
   * If Kimbi plays G4, then Kakashi will know that one of his 5's is G5.
   * If Kimbi discards, then it tells Kakashi that none of his 5's is G5.
 * Furthermore, in the future, when Kakashi draws G5, Kimbi will immediately play G4.  This means that Kakashi will blind play G5 from slot 1.
+* Thus, we can call this card "loaded." As when it does play, it induces a blind play.  
 * It would be quite strange for Kakashi to directly clue the G4 for tempo.  Thus, it must have an extra meaning.
 * Kakashi wants Kimbi to play now, which means her chop is important.  Thus, Kimbi should Chop Move.  
 * [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff) should be turned off to use this convention.
+
+A card is said to be loaded if:
+1. The rest of the suit is "critical."
+2. The card will blind play by itself, if teammate draws the critical connecting card(s).
+3. If the player who has the clued card, draws the connecting critical card, negative information will get them to play the whole suit.  
 
 Situations for when this is turned off. I.e. Kakashi tempoing would not cm. 
 1. Pace is 1 or less.
