@@ -244,7 +244,7 @@ A card is said to be loaded if:
 2. The card will blind play by itself, if teammate draws the critical connecting card(s).
 3. If the player who has the clued card, draws the connecting critical card, negative information will get them to play the whole suit.  
 4. No cards in the deck would block a direct tempo clue.  
-   * This will prioritze tempoing cards that are easily blocked, such as muddy rainbow cards.  
+   * This will prioritze tempoing cards that are easily blocked (Muddy rainbow cards, brown, pink, etc.)
 
 If a card is indeed loaded and your teammate tempo's it, then the player who received the clue, should chop move.  
 
