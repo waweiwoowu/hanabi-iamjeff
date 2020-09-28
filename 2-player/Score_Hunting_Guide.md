@@ -246,6 +246,8 @@ A card is said to be loaded if:
 4. No cards in the deck would block a direct tempo clue.  
    * This will prioritze tempoing cards that are easily blocked, such as muddy rainbow cards.  
 
+If a card is indeed loaded and your teammate tempo's it, then the player who received the clue, should chop move.  
+
 Situations for when this is turned off. I.e. Kakashi tempoing would not cm. 
 1. Pace is 1 or less.
 2. Player is Locked or is in a stall situation.
