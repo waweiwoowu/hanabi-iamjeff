@@ -107,6 +107,16 @@
   * Eevee gives a 4 clue as another *4 Double Bluff*.
   ![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
 
+### Game Flow Guide
+
+* Never directly lock a player with a clue.  Use one of the chop moves in the [Chop Move Guide](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Chop_Move_Guide.md#semi-emergency-chop-moves-without-wasting-a-clue)
+  * The main reason for this is because it essentially burns a clue.  The locked player must give a clue, thus they have less clues to unlock themselves.  This is the main reason why one of the skip discard chop moves is preferred as it gains an extra clue for the player to unlock themselves.
+  
+* If in a 1 clue situation, where you spend the clue to save a card and your partner is 1 card away from being locked, it's best to skip discard chop move.
+  * You want to try to draw cards away from them as they are about to be locked.
+  * It gains a clue for the team.  The team will be in a 2 clue situation, instead of a 0 clue situation.
+  * If you spend the clue to save them, they are forced to discard.  This means, if they draw a critical card, you're forced to skip discard anyways.   
+
 ### Chop Move Guide
 
 * *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
