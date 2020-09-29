@@ -207,6 +207,10 @@
   * If Alice discards slot 3, then it is just a *Scream Discard Chop Move*.
   * If Alice discards slot 2, then it is a *Double Chop Move* (*Scream Discard Chop Move* + *Skipped Discard Chop Move*). However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 2.
   * Similarly, if Alice misplays slot 3, then it is a *Double Scream Blind-Play*. However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 3.
+  
+### Chop Overflow Finesse
+
+* If a player performs a Chop Overflow Positional clue, where the indicated slot is not playable, they are trying to perform a *Chop Move* (to all their cards) and a *Positional Clue* to their slot 1.  
 
 <br/>
 
