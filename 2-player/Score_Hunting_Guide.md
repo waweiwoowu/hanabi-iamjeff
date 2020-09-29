@@ -12,6 +12,7 @@
 2. [Conventions Changed](#conventions-changed)
 3. [General Guide](#general-guide)
    * [First Turn Stall Guide](#first-turn-stall-guide)
+   * [Game Flow Guide](#game-flow-guide)
    * [Chop Move Guide](#chop-move-guide)
    * [Self Color Bluff Guide](#self-color-bluff-guide)
 4. [Variant-Specific Guide](#variant-specific-guide)
