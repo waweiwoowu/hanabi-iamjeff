@@ -364,6 +364,7 @@ For example, if she is in anxiety.
 | Tempo Clue Chop Move Change     | IAMJEFF & piper
 | Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
 | Reverse Misplay Chop Move | Dr_Kakashi
+| Risk of Duplication Chop Move | Dr_Kakashi & Kimbifille
 
 <br/>
 
