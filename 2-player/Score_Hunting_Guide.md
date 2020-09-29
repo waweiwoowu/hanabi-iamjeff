@@ -116,6 +116,7 @@
   * You want to try to draw cards away from them as they are about to be locked.
   * It gains a clue for the team.  The team will be in a 2 clue situation, instead of a 0 clue situation.
   * If you spend the clue to save them, they are forced to discard.  This means, if they draw a critical card, you're forced to skip discard anyways.   
+  * Your teammate should do their best to not lock you.  
 
 ### Chop Move Guide
 
