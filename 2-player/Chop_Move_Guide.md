@@ -54,6 +54,7 @@
 * Just like the misplay chop move all the cards to the right of the misplay are chop moved (generally 3 or more cards to save situation)
 * It would be quite strange for your teammate to clue your chop, which causes you to bomb.
 * If your teammate does this, you should chop move all the cards in your hand prior to the clue.  
+* If your team decides to do this, contextual trash push's should be turned off.  
 
 <br/>
   
