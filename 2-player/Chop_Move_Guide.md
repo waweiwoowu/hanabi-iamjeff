@@ -156,4 +156,20 @@
   * Alice marks her slot 5 as a red 3 and discards her slot 3.
   * Bob plays red 2. Alice blind-plays her slot 5, and a red 3 is successfully played.
 
+### Risk of Duplication Chop Move 
+
+* Generally, players should strive to not risk duplicating cards during the game.
+* This basically means they should play their clued cards to know their exact identity.  
+* If a player chooses to accidentally duplicate, it must mean something more.  
+* We agree that this should cause a chop move, as it gives them a play, preventing a discard.
+* This convention is turned off when a 2 for 1 or more clue is given.  
+
+Example:
+* Alice picks up 2 1's in Bob's hand with rank 1.
+* Alice's hand: X - X - X - G1 - R5
+* Bob can see that he can do a 1's order chop move on the R5.  However, if he doesn't have g1 then a playable card will be discarded.  He also doesn't have time to play his 1's to see if he has a G1.
+* Bob risks duping by cluing the single 1 in Alice's hand.
+* Alice is surprised to see this as Bob could've been duping.  
+* Alice therefore plays the 1 and cm's the card on her chop
+
 <br/>
