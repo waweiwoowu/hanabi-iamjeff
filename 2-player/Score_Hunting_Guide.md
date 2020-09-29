@@ -363,6 +363,7 @@ For example, if she is in anxiety.
 | The BCannon Special             | bcannon
 | Tempo Clue Chop Move Change     | IAMJEFF & piper
 | Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
+| Reverse Misplay Chop Move | Dr_Kakashi
 
 <br/>
 
