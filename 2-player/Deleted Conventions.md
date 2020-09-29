@@ -15,3 +15,4 @@
   * Kimbifille knows that *Tempo Clues* are encouraged in 2-player, but she would have saved g3, g4 and g5 anyway, since they're all critical. So this *Tempo Clue* offers no value to the team. It must be a *Tempo Clue Chop Move*.
 ![Tempo Clue Chop Move](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/tempo_clue_chop_move.png)
 * Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
+* This convention was deleted because even if Jeff draws g4.  Kimbi can't play as she doesn't know where g2 is.  Jeff MUST tempo.  
