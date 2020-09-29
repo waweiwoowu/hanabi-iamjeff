@@ -42,7 +42,8 @@
 * ***[Flush Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-flush-clue-a-slot-1-color-clue)***
 * ***[Self-Bluffs with Color Clues (Self Color Bluff)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#self-bluffs-with-color-clues)***
   * See the *[Self Color Bluff Guide](#self-color-bluff-guide)* below for advanced usage.
-* ***[Delayed Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-delayed-bluff)***
+* ***[Delayed Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-delayed-bluf
+f)***
 * ***[Scream Discard Modification](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#scream-discard-modification)***
   * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
 * ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
@@ -197,7 +198,7 @@
   * Alice also knows *Anxiety Play Shift*, which means her playable card must be on slot 2. However, it is a 5, which is known not to be playable. Thus, her playable card must be on slot 3.
   * Alice blind-plays her red 3 from slot 3.
 
-### Chop Overflowed Positional Clue
+### Chop Overflow Positional Clue
 
 * If the player performs a *Double Chop Move* by discarding or misplaying while their teammate only has one card to *Chop Move*; or a *Triple Chop Move*, and their teammate only has one or two cards.
 * In this situation, they are trying to perform a *Chop Move* (to all their cards) and a *Positional Clue* (corresponds to the slot they are discarding or misplaying) at the same time.
