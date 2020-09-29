@@ -381,6 +381,7 @@ For example, if she is in anxiety.
 | Reverse Misplay Chop Move       | Dr_Kakashi
 | Risk of Duplication Chop Move   | Dr_Kakashi & Kimbifille
 | Chop Overflow Finesse           | Dr_Kakashi & Kimbifille
+| Game Flow Guide                 | Dr_Kakashi & Kimbifille
 
 <br/>
 
