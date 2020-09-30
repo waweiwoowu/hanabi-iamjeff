@@ -51,6 +51,7 @@ Now we can just add these two numbers together
     * Team will be at 2 clues on Kimbi's turn
     * 5 in Kimbi's hand will be saved
     * Kakashi will be drawing cards instead of Kimbi, effectively drawing cards away from Kimbi (Better card distribution)
+    * Kakashi has a 17/25 = 68% chance of drawing a playable or critical card
   * Cons
     * 14.3% chance of losing the game 
   
