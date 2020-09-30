@@ -4,7 +4,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Prevent Locking Partner Analysis ](#introduction)
+2. [Prevent Locking Partner Analysis ](#prevent-locking-partner-analysis)
 
 <br/>
 
