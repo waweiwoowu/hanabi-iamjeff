@@ -124,7 +124,6 @@ f)***
   * [Analysis](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Analysis.md#prevent-locking-partner-analysis)
 
 * Prioritize getting cards played that leads into a critical card.
-![2020-09-30_08-14-15](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-30_08-14-15.png)
 
 ### Chop Move Guide
 
