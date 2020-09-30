@@ -49,13 +49,6 @@
 * If your teammate has three or more cards to save: ***[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*** or ***[Reverse Misplay Chop Move](#reverse-misplay-chop-move)***
 * If your teammate has a critical card on their *Finessed Chop* while you're locked: ***[Sacrifice Discard Chop Move](Score_Hunting_Guide.md#sacrifice-discard-chop-move)***
 
-### Reverse Misplay Chop Move
-
-* Just like the misplay chop move all the cards to the right of the misplay are chop moved (generally 3 or more cards to save situation)
-* It would be quite strange for your teammate to clue your chop, which causes you to bomb.
-* If your teammate does this, you should chop move all the cards in your hand prior to the clue.  
-* If your team decides to do this, contextual trash push's should be turned off.  
-
 <br/>
   
 ## Addition
