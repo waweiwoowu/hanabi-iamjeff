@@ -67,7 +67,6 @@ Now we can just add these two numbers together
 ### Summary 
 * Basically, it's better for Kakashi to take the 14.3% chance to effectively have a more smooth sailing game.  
 * Where, if he did directly clue, the game would be a much tighter game. 
-* Another thing to think about: Kimbi is about to be potentially locked.  Thus, if you directly clue her, she will potentially only have 1 clue to unlock herself.
 * With this Analysis we agree that you should perform a skip discard in this situation.
 * Unfortunately, with this game the 14.3% chance happened where B4 was discarded, but we can agree that Kakashi did the correct move. 
 
