@@ -69,6 +69,7 @@ Now we can just add these two numbers together
 * Where, if he did directly clue, the game would be a much tighter game. 
 * With this Analysis we agree that you should perform a skip discard in this situation.
 * Unfortunately, with this game the 14.3% chance happened where B4 was discarded, but we can agree that Kakashi did the correct move. 
+* If you go into the replay and play out directly cluing the 5, you can see that Kakashi was forced to skip discard anyways.  
 
 Take home points:
 1. Do your best to avoid locking your partner in 2p.  Even to the point of taking the risk and skip discarding early.
