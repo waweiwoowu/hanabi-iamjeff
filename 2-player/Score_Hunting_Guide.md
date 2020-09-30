@@ -238,7 +238,6 @@ f)***
 * Thus, we can call this card "loaded." As when it does play, it induces a blind play.  
 * It would be quite strange for Kakashi to directly clue the G4 for tempo.  Thus, it must have an extra meaning.
 * Kakashi wants Kimbi to play now, which means her chop is important.  Thus, Kimbi should Chop Move.  
-* [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff) should be turned off to use this convention.
 
 A card is said to be loaded if:
 1. The rest of the suit is "critical."
