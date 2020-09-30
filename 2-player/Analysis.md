@@ -60,6 +60,7 @@ Now we can just add these two numbers together
     * Kimbi will now know about her 5
   * Cons
     * 56% chance that Kakashi will be forced to Skip Discard
+    * Another way to look at it: Kimbi has a 56% chance to be in a situation to unlock herself with 1 clue
     * Team will be at 0 clues on Kimbi's turn
 
 ### Summary 
