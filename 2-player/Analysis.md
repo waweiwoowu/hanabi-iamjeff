@@ -7,6 +7,7 @@
 2. [Prevent Locking Partner Analysis ](#prevent-locking-partner-analysis)
 3. [Priority Of Which Cards Should Play](#priority-of-which-cards-should-play)
 4. [Priority During End Game](#priority-during-end-game)
+5. [End Game Analysis](#end-game-analysis)
 
 <br/>
 
