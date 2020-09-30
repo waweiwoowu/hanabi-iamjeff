@@ -59,10 +59,9 @@ Now we can just add these two numbers together
   * Pros
     * Kimbi will now know about her 5
   * Cons
-    * Kimbi is forced to discard
+    * Kimbi is forced to discard, since she's now at 0 clues.
     * 56% chance that Kakashi will be forced to Skip Discard
     * Another way to look at it: Kimbi has a 56% chance to be in a situation to unlock herself with 1 clue
-    * Team will be at 0 clues on Kimbi's turn
 
 ### Summary 
 * Basically, it's better for Kakashi to take the 14.3% chance to effectively have a more smooth sailing game.  
