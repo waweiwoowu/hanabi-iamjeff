@@ -61,6 +61,7 @@ Now we can just add these two numbers together
     * 56% chance that Kakashi will be forced to Skip Discard
     * Team will be at 0 clues on Kimbi's turn
 
+### Summary 
 * Basically, it's better for Kakashi to take the 14.3% chance to effectively have a more smooth sailing game.  
 * Where, if he did directly clue, the game would be a much tighter game. 
 * Another thing to think about: Kimbi is about to be potentially locked.  Thus, if you directly clue her, she will potentially only have 1 clue to unlock herself.
