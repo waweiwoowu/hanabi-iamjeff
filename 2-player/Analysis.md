@@ -88,3 +88,21 @@ Take home points:
 ![2020-09-30_08-30-48](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-30_08-30-48.png)
 
 * In this situation, which card should Kimbi play now?
+
+According to [Priority Exceptions #1](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#1-end-game): 
+1) End-Game
+   * Priority is generally "turned off" in the End-Game, because players often need to play specific cards.
+   * With that said, Priority can still work if a player plays a card that would be really terrible for the team otherwise.
+
+Basically, what we're asking here is would playing R5 be really terrible for the team or would playing i2 induce a priority on Kakashi to play i4 as i3? 
+
+* If we look at the state of the board here, the only missing card is i3.  
+* Currently, the team has 1 clue, so the team doesn't really need any more clues for the game
+* If Kimbi plays the R5 and draws i3, she barely will be able to play the entire suit
+* If Kimbi plays R5 and doesn't draw i3, then if Kakashi draws i3, the game is lost as i5 won't be able to play.
+* Another way to look at it is, Kimbi needs to start end game because she holds the i5.  
+
+* If Kimbi plays i2, then we can see that even though Kakashi draws i3, the max score can still be achieved, if i3 is not bottom decked.
+* The reason for this is because the cards are now evenly distributed, Kimbi can take a turn off to clue Kakashi, and Kimbi will still initiate end game.  
+
+* Thus, if we assume i3 is not bottom decked, the best chance to win is to have Kimbi play i2, which would not induce priority as playing R5 is terrible for the team.  
