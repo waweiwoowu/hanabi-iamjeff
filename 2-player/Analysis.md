@@ -82,3 +82,9 @@ Take home points:
 ![2020-09-30_08-14-15](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-30_08-14-15.png)
 
 * In this situation, which card should Kakashi get right now?  
+
+## Priority during End Game
+
+![2020-09-30_08-30-48](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-30_08-30-48.png)
+
+* In this situation, which card should Kimbi play now?
