@@ -123,6 +123,9 @@ f)***
   * Your teammate should do their best to not lock you.  
   * [Analysis](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Analysis.md#prevent-locking-partner-analysis)
 
+* Prioritize getting cards played that leads into a critical card.
+![2020-09-30_08-14-15](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-30_08-14-15.png)
+
 ### Chop Move Guide
 
 * *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
