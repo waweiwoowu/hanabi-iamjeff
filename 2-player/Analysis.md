@@ -69,7 +69,7 @@ Now we can just add these two numbers together
 * Unfortunately, with this game the 14.3% chance happened where B4 was discarded, but we can agree that Kakashi did the correct move. 
 
 Take home points:
-1. Do your best to avoid locking your partner in 2p
+1. Do your best to avoid locking your partner in 2p.  Even to the point of taking the risk and skip discarding early.
 2. If you are in the position of potentionally locking your partner, give them as much clues as possible to help them unlock themselves. 
 
 <br/>
