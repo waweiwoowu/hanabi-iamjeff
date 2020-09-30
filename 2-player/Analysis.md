@@ -75,3 +75,7 @@ Take home points:
 2. If you are in the position of potentionally locking your partner, give them as much clues as possible to help them unlock themselves. 
 
 <br/>
+
+## Priority of which cards should play
+
+![2020-09-30_08-14-15](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-30_08-14-15.png)
