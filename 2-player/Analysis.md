@@ -47,19 +47,19 @@ Now we can just add these two numbers together
 
 ### Pros & Cons
 * Skip Discard Option
-* Pros
-  * Team will be at 2 clues on Kimbi's turn
-  * 5 in Kimbi's hand will be saved
-  * Kakashi will be drawing cards instead of Kimbi, effectively drawing cards away from Kimbi (Better card distribution)
-* Cons
-  * 14.3% chance of losing the game 
+  * Pros
+    * Team will be at 2 clues on Kimbi's turn
+    * 5 in Kimbi's hand will be saved
+    * Kakashi will be drawing cards instead of Kimbi, effectively drawing cards away from Kimbi (Better card distribution)
+  * Cons
+    * 14.3% chance of losing the game 
   
 * Directly Clue 5 Option
-* Pros
-  * Kimbi will now know about her 5
-* Cons
-  * 56% chance that Kakashi will be forced to Skip Discard
-  * Team will be at 0 clues on Kimbi's turn
+  * Pros
+    * Kimbi will now know about her 5
+  * Cons
+    * 56% chance that Kakashi will be forced to Skip Discard
+    * Team will be at 0 clues on Kimbi's turn
 
 Basically, it's better for Kakashi to take the 14.3% chance to effectively have a more smooth sailing game.  
 Where, if he did directly clue, the game would be a much tighter game. 
