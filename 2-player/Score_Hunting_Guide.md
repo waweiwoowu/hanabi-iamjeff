@@ -121,6 +121,7 @@ f)***
   * It gains a clue for the team.  The team will be in a 2 clue situation, instead of a 0 clue situation.
   * If you spend the clue to save them, they are forced to discard.  This means, if they draw a critical card, you're forced to skip discard anyways.   
   * Your teammate should do their best to not lock you.  
+  * [Analysis](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Analysis.md#prevent-locking-partner-analysis)
 
 ### Chop Move Guide
 
