@@ -5,6 +5,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prevent Locking Partner Analysis ](#prevent-locking-partner-analysis)
+3. [Priority Of Which Cards Should Play](#priority-of-which-cards-should-play)
 
 <br/>
 
@@ -79,3 +80,5 @@ Take home points:
 ## Priority of which cards should play
 
 ![2020-09-30_08-14-15](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-30_08-14-15.png)
+
+* In this situation, which card should Kakashi get right now?  
