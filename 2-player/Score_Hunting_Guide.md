@@ -229,7 +229,18 @@ f)***
 * However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing a card on slot 1 is always a *Play Clue*.
 * On the other hand, when a rank clue (except a 5 clue) is given focusing a card on slot 1 and if it requires the clue receiver to blind-play **one** or more card to fulfill the *Finesse/Bluff*, it is treated as a *Locked Hand Save*; otherwise, it is a *Play Clue*.
 
-### Advanced form of Tempo Clue Chop Move Change (Dr_Kakashi & Kimbifille)
+### Occupied Tempo Clue Chop Move (Dr_Kakashi & Kimbifille)
+* If a player is occupied and they tempo a card that is cm or previously clued, it would be quite strange.
+* The reason it's strange is because they can just play and on the next turn they can then tempo their partner.  
+* We agree that, if this is done, in addition to the play, they should also chop move.
+
+Conditions for when this occurs
+1. The card tempo must be a known playable card.  Sometimes we Self-Color Bluff using cards that are chop moved or already clued.
+2. The card tempoed must not have a card in the deck that may block it.  
+   * For example, with omni it's of utmost importance to tempo these cards because if your partner draws another omni card, it would heavily stall these cards from playing.  
+
+
+### Advanced form of Tempo Clue Chop Move (Dr_Kakashi & Kimbifille)
 ![2020-09-27_07-13-33](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
 ![2020-09-27_07-25-03](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
 * Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
