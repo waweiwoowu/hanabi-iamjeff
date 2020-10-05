@@ -327,14 +327,13 @@ For example, if she is in anxiety.
 * Note that *Occupied Play Clues* and *Loaded Play Clues* are turned off in 2-player.
 
 ### Advanced Negative Information Involved with Double Loaded and Overloaded Play Clues (Kimbifille)
-Because we can give a clue that looks like a save, but turns into a play clue in these situations.  You can write the negative information on the rest of your hand.  
-For Example, a 2 save will be a play clue in these situations, thus you can write negative 2 in the rest of the hand
+* Because we can give a clue that looks like a save, but turns into a play clue in these situations.  You can write the negative information on the rest of your hand.  
+* For Example, a 2 save will be a play clue in these situations, thus you can write negative 2 in the rest of the hand
 
 ![2020-10-05_13-42-30](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
-![2020-10-05_13-42-57](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-57.png)
 
-Shown here Kimbifille can give a Rank or Colour touching chop in an Overloaded or Double-Loaded situation as a Play Clue.
-Thus, if color is used instead of rank, it can be assumed that you do not hold other ranks in your hand.
+* Shown here Kimbifille can give a Rank or Colour touching chop in an Overloaded or Double-Loaded situation as a Play Clue.
+* Thus, if color is used instead of rank, it can be assumed that you do not hold other ranks in your hand.
 
 ### Pink Crazy Bluff/Pull
 
