@@ -149,7 +149,7 @@
   * Alice marks her slot 5 as a red 3 and discards her slot 3.
   * Bob plays red 2. Alice blind-plays her slot 5, and a red 3 is successfully played.
 
-### Risk of Duplication Chop Move 
+### Risk of Duplication Chop Move (Dupe Chop Move)
 
 * Generally, players should strive to not risk duplicating cards during the game.
 * This basically means they should play their clued cards to know their exact identity.  
