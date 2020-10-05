@@ -165,4 +165,6 @@ Example:
 * Alice is surprised to see this as Bob could've been duping.  
 * Alice therefore plays the 1 and cm's the card on her chop
 
+![2020-10-05_13-42-30](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
+
 <br/>
