@@ -326,6 +326,10 @@ For example, if she is in anxiety.
 * If a player is *Occupied* and they gives a clue touching a chop card while the clue receiver has a *loaded action*, then it is treated as a *Play Clue* on that card.
 * Note that *Occupied Play Clues* and *Loaded Play Clues* are turned off in 2-player.
 
+### Advanced Negative Information Involved with Double Loaded and Overloaded Play Clues
+Because we can give a clue that looks like a save, but turns into a play clue in these situations.  You can write the negative information on the rest of your hand.  
+For Example, a 2 save will be a play clue in these situations, thus you can write negative 2 in the rest of the hand
+
 ### Pink Crazy Bluff/Pull
 
 * This convention only applies to variants with a pink suit.
