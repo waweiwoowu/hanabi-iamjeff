@@ -333,7 +333,8 @@ For Example, a 2 save will be a play clue in these situations, thus you can writ
 [2020-10-05_13-42-30]}(https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
 [2020-10-05_13-42-57](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-57.png)
 
-
+Shown here Kimbifille can give a Rank or Colour touching chop in an Overloaded or Double-Loaded situation as a Play Clue.
+Thus, if color is used instead of rank, it can be assumed that you do not hold other ranks in your hand.
 
 ### Pink Crazy Bluff/Pull
 
