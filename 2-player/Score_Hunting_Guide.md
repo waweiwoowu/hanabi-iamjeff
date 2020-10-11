@@ -1,8 +1,10 @@
 # Score Hunting Guide (2-Player)
 
 * This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
-* The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive.
-* If you're looking for conservative way to play a 2-player game, please read [2-Player Conventions for the Hyphen-ated Framework](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md).
+* I have ported his guide to continue to edit it.  
+* The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive and risky.
+* Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
+* Warning, be prepared to kill games where the critical cards are thrown into the trash.
 
 <br/>
 
@@ -12,6 +14,7 @@
 2. [Conventions Changed](#conventions-changed)
 3. [General Guide](#general-guide)
    * [First Turn Stall Guide](#first-turn-stall-guide)
+   * [Game Flow Guide](#game-flow-guide)
    * [Chop Move Guide](#chop-move-guide)
    * [Self Color Bluff Guide](#self-color-bluff-guide)
 4. [Variant-Specific Guide](#variant-specific-guide)
@@ -42,7 +45,8 @@
 * ***[Flush Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-flush-clue-a-slot-1-color-clue)***
 * ***[Self-Bluffs with Color Clues (Self Color Bluff)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#self-bluffs-with-color-clues)***
   * See the *[Self Color Bluff Guide](#self-color-bluff-guide)* below for advanced usage.
-* ***[Delayed Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-delayed-bluff)***
+* ***[Delayed Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-delayed-bluf
+f)***
 * ***[Scream Discard Modification](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#scream-discard-modification)***
   * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
 * ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
@@ -106,6 +110,20 @@
   * Piper gives a 4 clue as a *4 Double Bluff*.
   * Eevee gives a 4 clue as another *4 Double Bluff*.
   ![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
+
+### Game Flow Guide
+
+* Never directly lock a player with a clue.  Use one of the chop moves in the [Chop Move Guide](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Chop_Move_Guide.md#semi-emergency-chop-moves-without-wasting-a-clue)
+  * The main reason for this is because it essentially burns a clue.  The locked player must give a clue, thus they have less clues to unlock themselves.  This is the main reason why one of the skip discard chop moves is preferred as it gains an extra clue for the player to unlock themselves.
+  
+* If in a situation, where you spend the clue to save a card and your partner is 1 card away from being locked, it's best to skip discard chop move.
+  * You want to try to draw cards away from them as they are about to be locked.
+  * It gains a clue for the team. 
+  * If you spend the clue to save them, they are forced to discard.  This means, if they draw a critical card, you're forced to skip discard anyways.   
+  * Your teammate should do their best to not lock you.  
+  * [Analysis](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Analysis.md#prevent-locking-partner-analysis)
+
+* Prioritize getting cards played that leads into a critical card.
 
 ### Chop Move Guide
 
@@ -186,7 +204,7 @@
   * Alice also knows *Anxiety Play Shift*, which means her playable card must be on slot 2. However, it is a 5, which is known not to be playable. Thus, her playable card must be on slot 3.
   * Alice blind-plays her red 3 from slot 3.
 
-### Chop Overflowed Positional Clue
+### Chop Overflow Positional Clue
 
 * If the player performs a *Double Chop Move* by discarding or misplaying while their teammate only has one card to *Chop Move*; or a *Triple Chop Move*, and their teammate only has one or two cards.
 * In this situation, they are trying to perform a *Chop Move* (to all their cards) and a *Positional Clue* (corresponds to the slot they are discarding or misplaying) at the same time.
@@ -196,6 +214,10 @@
   * If Alice discards slot 3, then it is just a *Scream Discard Chop Move*.
   * If Alice discards slot 2, then it is a *Double Chop Move* (*Scream Discard Chop Move* + *Skipped Discard Chop Move*). However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 2.
   * Similarly, if Alice misplays slot 3, then it is a *Double Scream Blind-Play*. However, it doesn't make sense, since Bob only has one card to *Chop Move*. Therefore, it is a *Single Chop Move* on Bob and a *Positional Clue* on his slot 3.
+  
+### Chop Overflow Finesse
+
+* If a player performs a Chop Overflow Positional clue, where the indicated slot is not playable, they are trying to perform a *Chop Move* (to all their cards) and a *Positional Clue* to their slot 1.  
 
 <br/>
 
@@ -207,23 +229,45 @@
 * However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing a card on slot 1 is always a *Play Clue*.
 * On the other hand, when a rank clue (except a 5 clue) is given focusing a card on slot 1 and if it requires the clue receiver to blind-play **one** or more card to fulfill the *Finesse/Bluff*, it is treated as a *Locked Hand Save*; otherwise, it is a *Play Clue*.
 
-### Tempo Clue Chop Move Change
+### Occupied Tempo Clue Chop Move (Dr_Kakashi & Kimbifille)
+* If a player is occupied and they tempo a card that is cm or previously clued, it would be quite strange.
+* The reason it's strange is because they can just play and on the next turn they can then tempo their partner.  
+* We agree that, if this is done, in addition to the play, they should also chop move.
 
-* Consider the following game-state:
-  * Red and green 1 are played on the stacks.
-  * Alice has a red 2. She knows rank, but not color.
-  * Bob has a non-critical, unclued red 3 on chop.
-  * There are no 3s in the discard.
-* In this situation, Alice is unable to save Bob’s red 3. For this reason, we turn off *[Tempo Clue Chop Moves](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-tempo-clue-chop-move)* in 2-player. If Bob gives a *Tempo Clue* to Alice, she’ll be able to safely give a *Play Clue* to Bob’s red 3 and save it from being discarded.
-* *Tempo clues* are therefore encouraged in 2-player, as they allow the team to save non-critical connecting cards.
-* However, it would be wasteful to give a *Tempo Clue* which does not allow the team to save a non-critical connecting card. In this scenario, this would be a *Tempo Clue Chop Move*.
-* For example, in a *[6 Suit](https://hanabi.live/replay/177641/42)* game:
-  * The game-state are shown as the following screenshot. 
-  * Kimbifille has a g3 (touched by a 3 clue) on slot 2, a g2 (touched by a green clue) on slot 4, and a b5 on slot 5.
-  * Charmander gives a 2 clue touching the g2 as a *Tempo Clue*.
-  * Kimbifille knows that *Tempo Clues* are encouraged in 2-player, but she would have saved g3, g4 and g5 anyway, since they're all critical. So this *Tempo Clue* offers no value to the team. It must be a *Tempo Clue Chop Move*.
-![Tempo Clue Chop Move](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/tempo_clue_chop_move.png)
-* Note that this convention is turned off when pace is low or when the player in a special *Stalling* situation.
+Conditions for when this occurs
+1. The card tempo must be a known playable card.  Sometimes we Self-Color Bluff using cards that are chop moved or already clued.
+2. The card tempoed must not have a card in the deck that may block it.  
+   * For example, with omni it's of utmost importance to tempo these cards because if your partner draws another omni card, it would heavily stall these cards from playing.  
+
+
+### Advanced form of Tempo Clue Chop Move (Dr_Kakashi & Kimbifille)
+![2020-09-27_07-13-33](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
+![2020-09-27_07-25-03](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
+* Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
+* In this situation, should Kakashi tempo the G4?  
+  * If Kakashi does nothing, he can gain a lot of information by Kimbi's actions.
+  * If Kimbi plays G4, then Kakashi will know that one of his 5's is G5.
+  * If Kimbi discards, then it tells Kakashi that none of his 5's is G5.
+* Furthermore, in the future, when Kakashi draws G5, Kimbi will immediately play G4.  This means that Kakashi will blind play G5 from slot 1.
+* Thus, we can call this card "loaded." As when it does play, it induces a blind play.  
+* It would be quite strange for Kakashi to directly clue the G4 for tempo.  Thus, it must have an extra meaning.
+* Kakashi wants Kimbi to play now, which means her chop is important.  Thus, Kimbi should Chop Move.  
+
+A card is said to be loaded if:
+1. The rest of the suit is "critical."
+2. The card will blind play by itself, if teammate draws the critical connecting card(s).
+3. If the player who has the clued card, draws the connecting critical card, negative information will get them to play the whole suit.  
+4. Its own suit doesn't block a direct tempo clue.  
+   * This will prioritze tempoing cards that are easily blocked (Muddy rainbow cards, brown, pink, etc.)
+
+If a card is indeed loaded and your teammate tempo's it, then the player who received the clue, should chop move.  
+
+Situations for when this is turned off. I.e. Kakashi tempoing would not cm. 
+1. Pace is 1 or less.
+2. Player is Locked or is in a stall situation.
+
+Kakashi should not blind play, if Kimbi is in a situation where she was forced to play.
+For example, if she is in anxiety.  
 
 ### Sacrifice Discard Chop Move
 
@@ -282,6 +326,15 @@
 * If a player is *Occupied* and they gives a clue touching a chop card while the clue receiver has a *loaded action*, then it is treated as a *Play Clue* on that card.
 * Note that *Occupied Play Clues* and *Loaded Play Clues* are turned off in 2-player.
 
+### Advanced Negative Information Involved with Double Loaded and Overloaded Play Clues (Kimbifille)
+* Because we can give a clue that looks like a save, but turns into a play clue in these situations.  You can write the negative information on the rest of your hand.  
+* For Example, a 2 save will be a play clue in these situations, thus you can write negative 2 in the rest of the hand
+
+![2020-10-05_13-42-30](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
+
+* Shown here Kimbifille can give a Rank or Colour touching chop in an Overloaded or Double-Loaded situation as a Play Clue.
+* Thus, if color is used instead of rank, it can be assumed that you do not hold other ranks in your hand.
+
 ### Pink Crazy Bluff/Pull
 
 * This convention only applies to variants with a pink suit.
@@ -332,6 +385,10 @@
 | Locked Hand Save Change         | IAMJEFF
 | The BCannon Special             | bcannon
 | Tempo Clue Chop Move Change     | IAMJEFF & piper
+| Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
+| Risk of Duplication Chop Move   | Dr_Kakashi & Kimbifille
+| Chop Overflow Finesse           | Dr_Kakashi & Kimbifille
+| Game Flow Guide                 | Dr_Kakashi & Kimbifille
 
 <br/>
 
