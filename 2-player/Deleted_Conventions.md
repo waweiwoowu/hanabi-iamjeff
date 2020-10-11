@@ -1,3 +1,7 @@
+# Deleted Conventions
+
+<br/>
+
 ### Tempo Clue Chop Move Change (Jeff)
 
 * Consider the following game-state:
