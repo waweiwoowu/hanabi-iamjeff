@@ -1,7 +1,7 @@
 # Score Hunting Guide (2-Player)
 
 * This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
-* IAMJEFF has since retired from the Hanabi Community, so I have ported his guide to continue to edit it.  
+* I have ported his guide to continue to edit it.  
 * The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive and risky.
 * Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
 * Warning, be prepared to kill games where the critical cards are thrown into the trash.
