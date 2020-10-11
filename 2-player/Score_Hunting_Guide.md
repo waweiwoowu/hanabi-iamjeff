@@ -1,7 +1,6 @@
 # Score Hunting Guide (2-Player)
 
 * This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
-* I have ported his guide to continue to edit it.  
 * The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive and risky.
 * Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
 * Warning, be prepared to kill games where the critical cards are thrown into the trash.
@@ -45,8 +44,7 @@
 * ***[Flush Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-flush-clue-a-slot-1-color-clue)***
 * ***[Self-Bluffs with Color Clues (Self Color Bluff)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#self-bluffs-with-color-clues)***
   * See the *[Self Color Bluff Guide](#self-color-bluff-guide)* below for advanced usage.
-* ***[Delayed Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-delayed-bluf
-f)***
+* ***[Delayed Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-delayed-bluff)***
 * ***[Scream Discard Modification](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#scream-discard-modification)***
   * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
 * ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
@@ -113,7 +111,7 @@ f)***
 
 ### Game Flow Guide
 
-* Never directly lock a player with a clue.  Use one of the chop moves in the [Chop Move Guide](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Chop_Move_Guide.md#semi-emergency-chop-moves-without-wasting-a-clue)
+* Never directly lock a player with a clue.  Use one of the chop moves in the [Chop Move Guide](Chop_Move_Guide.md#semi-emergency-chop-moves-without-wasting-a-clue)
   * The main reason for this is because it essentially burns a clue.  The locked player must give a clue, thus they have less clues to unlock themselves.  This is the main reason why one of the skip discard chop moves is preferred as it gains an extra clue for the player to unlock themselves.
   
 * If in a situation, where you spend the clue to save a card and your partner is 1 card away from being locked, it's best to skip discard chop move.
@@ -121,7 +119,7 @@ f)***
   * It gains a clue for the team. 
   * If you spend the clue to save them, they are forced to discard.  This means, if they draw a critical card, you're forced to skip discard anyways.   
   * Your teammate should do their best to not lock you.  
-  * [Analysis](https://github.com/Dr-Kakashi/hanabi/blob/master/2-player/Analysis.md#prevent-locking-partner-analysis)
+  * [Analysis](Analysis.md#prevent-locking-partner-analysis)
 
 * Prioritize getting cards played that leads into a critical card.
 
@@ -241,8 +239,8 @@ Conditions for when this occurs
 
 
 ### Advanced form of Tempo Clue Chop Move (Dr_Kakashi & Kimbifille)
-![2020-09-27_07-13-33](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
-![2020-09-27_07-25-03](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
+![2020-09-27_07-13-33](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
+![2020-09-27_07-25-03](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
 * Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
 * In this situation, should Kakashi tempo the G4?  
   * If Kakashi does nothing, he can gain a lot of information by Kimbi's actions.
@@ -305,10 +303,6 @@ For example, if she is in anxiety.
   * [Turn 28](https://hanabi.live/replay/174021/28): piper blind-plays slot 2 as a *Self Color Ejection*, and a white 5 is successfully played.
 * Actually, this is just a *Self Color Bluff* (with *Focus Slide*). But why not call it an *Ejection*? LOL.
 
-### The BCannon Special
-
-* If your username is **"bcannon"**, and if you are in *Locked Hand Situation*, you should always save a 4 as a *Locked Hand Save*.
-
 <br/>
 
 ## Variant-Specific Conventions
@@ -330,7 +324,7 @@ For example, if she is in anxiety.
 * Because we can give a clue that looks like a save, but turns into a play clue in these situations.  You can write the negative information on the rest of your hand.  
 * For Example, a 2 save will be a play clue in these situations, thus you can write negative 2 in the rest of the hand
 
-![2020-10-05_13-42-30](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
+![2020-10-05_13-42-30](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
 
 * Shown here Kimbifille can give a Rank or Colour touching chop in an Overloaded or Double-Loaded situation as a Play Clue.
 * Thus, if color is used instead of rank, it can be assumed that you do not hold other ranks in your hand.
@@ -383,7 +377,6 @@ For example, if she is in anxiety.
 | Self Color Ejection             | IAMJEFF
 | Chop Overflowed Positional Clue | IAMJEFF
 | Locked Hand Save Change         | IAMJEFF
-| The BCannon Special             | bcannon
 | Tempo Clue Chop Move Change     | IAMJEFF & piper
 | Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
 | Risk of Duplication Chop Move   | Dr_Kakashi & Kimbifille
