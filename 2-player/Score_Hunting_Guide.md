@@ -93,7 +93,7 @@
 
 ## General Guide
 
-### First Turn Stall Guide (by IAMJEFF)
+### First Turn Stall Guide
 
 > #### First Turn Stalls
 > * On the very first turn of the game, if a known-unplayable card is clued, then it should be treated as a *Save Clue* (instead of a *Self-Finesse*).
@@ -109,7 +109,7 @@
   * Eevee gives a 4 clue as another *4 Double Bluff*.
   ![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
 
-### Game Flow Guide (by Dr_Kakashi & Kimbifille)
+### Game Flow Guide
 
 * Never directly lock a player with a clue.  Use one of the chop moves in the [Chop Move Guide](Chop_Move_Guide.md#semi-emergency-chop-moves-without-wasting-a-clue)
   * The main reason for this is because it essentially burns a clue.  The locked player must give a clue, thus they have less clues to unlock themselves.  This is the main reason why one of the skip discard chop moves is preferred as it gains an extra clue for the player to unlock themselves.
@@ -123,12 +123,12 @@
 
 * Prioritize getting cards played that leads into a critical card.
 
-### Chop Move Guide (by IAMJEFF)
+### Chop Move Guide
 
 * *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
 * Please read the guide [here](Chop_Move_Guide.md).
 
-### Self Color Bluff Guide (by IAMJEFF)
+### Self Color Bluff Guide
 
 > #### Self Color Bluff (SCB)
 > * In non-2-player games, *Self-Bluffs* with color clues are explicitly illegal. However, in 2-player games, they are allowed.
@@ -227,7 +227,7 @@
 * However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing a card on slot 1 is always a *Play Clue*.
 * On the other hand, when a rank clue (except a 5 clue) is given focusing a card on slot 1 and if it requires the clue receiver to blind-play **one** or more card to fulfill the *Finesse/Bluff*, it is treated as a *Locked Hand Save*; otherwise, it is a *Play Clue*.
 
-### Occupied Tempo Clue Chop Move (Dr_Kakashi & Kimbifille)
+### Occupied Tempo Clue Chop Move 
 * If a player is occupied and they tempo a card that is cm or previously clued, it would be quite strange.
 * The reason it's strange is because they can just play and on the next turn they can then tempo their partner.  
 * We agree that, if this is done, in addition to the play, they should also chop move.
@@ -238,7 +238,7 @@ Conditions for when this occurs
    * For example, with omni it's of utmost importance to tempo these cards because if your partner draws another omni card, it would heavily stall these cards from playing.  
 
 
-### Advanced form of Tempo Clue Chop Move (Dr_Kakashi & Kimbifille)
+### Advanced form of Tempo Clue Chop Move
 ![2020-09-27_07-13-33](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
 ![2020-09-27_07-25-03](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
 * Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
@@ -378,9 +378,11 @@ For example, if she is in anxiety.
 | Chop Overflowed Positional Clue | IAMJEFF
 | Locked Hand Save Change         | IAMJEFF
 | Tempo Clue Chop Move Change     | IAMJEFF & piper
+| Occupied Tempo Clue Chop Move   | Dr_Kakashi & Kimbifille
 | Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
 | Risk of Duplication Chop Move   | Dr_Kakashi & Kimbifille
 | Chop Overflow Finesse           | Dr_Kakashi & Kimbifille
+| Game Flow Guide                 | Dr_Kakashi & Kimbifille
 
 <br/>
 
