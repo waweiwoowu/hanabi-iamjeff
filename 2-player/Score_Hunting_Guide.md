@@ -126,6 +126,7 @@
 ### Chop Move Guide (by IAMJEFF)
 
 * *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
+* Note: When given the choice between skip discard or bombing off chop, it's always best to skip discard.
 * Please read the guide [here](Chop_Move_Guide.md).
 
 ### Self Color Bluff Guide (by IAMJEFF)
