@@ -14,7 +14,7 @@
 
 ## Categories
 
-* ***Finessed Chop***: A term used to describe the situation where a player's *Chop* is also on their *Fienssed Position*.
+* ***Finessed Chop***: A term used to describe the situation where a player's *Chop* is also on their *Finessed Position*.
 
 ### Non-Emergency Chop Moves
 
