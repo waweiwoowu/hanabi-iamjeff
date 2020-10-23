@@ -130,7 +130,8 @@
 * Please read the guide [here](Chop_Move_Guide.md).
 #### Chop Moves vs. Positional Clues
 * It is unlikely to have three critical cards in a row. Thus, if a player performs a move that looks like a *Triple Chop Move* through discarding or misplaying, they are trying to perform a *Positional Discard* or *Positional Misplay* instead.
-* However, in the variants where it is likely to have three or more critical cards in a row, any 2x One-of-Each, for example; players can agree to interpret this clue as *Chop Moves* instead of *Positional Clues* at the beginning of the game.
+* However, in the variants where it is likely to have three or more critical cards in a row, any 2x One-of-Each, for example; players can agree to interpret these clue as *Chop Moves* instead of *Positional Clues* at the beginning of the game.
+* Note that in the variants that relies on *Positional Clues*, *Null* or *Brown*, for example; players should always take the *Positional Clue* interpretation.
 
 ### Self Color Bluff Guide (by IAMJEFF)
 
