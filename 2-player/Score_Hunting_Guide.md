@@ -49,6 +49,8 @@
   * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
 * ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
 * ***[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)***
+* ***[Double Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-skipped-discard-chop-move)***
+  * Note that the players can turn this convention off and treat it as a *Positional Discard*.
 * ***[Selfish Conventions](Selfish_Conventions.md)***
   * *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
   * *[Selfish Bluff](Selfish_Conventions.md#selfish-bluff)*
@@ -64,8 +66,6 @@
 * ***[Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-scream-blind-play-blind-playing-chop)***
   * Blind-playing the *Chop* is always *Double Chop Move* (as a *Double Scream Blind-Play*).
   * If you want to *Chop Move* only one card while in no clues, use *Skipped Discard Chop Move*.
-* ***[Double Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-skipped-discard-chop-move)***
-  * It is treated as a *Positional Discard*.
 
 ### 2p Variant-Specific Conventions which are *turned on*
 * ***[Flush Save](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-flush-save)***
@@ -128,10 +128,6 @@
 * *Chop Moves* are extremely important in 2-player games. Knowing how to perform a *Chop Move* in different circumstances is key to win maximum scores.
 * Note: When given the choice between skip discard or bombing off chop, it's always best to skip discard.
 * Please read the guide [here](Chop_Move_Guide.md).
-#### Chop Moves vs. Positional Clues
-* It is unlikely to have three critical cards in a row. Thus, if a player performs a move that looks like a *Triple Chop Move* through discarding or misplaying, they are trying to perform a *Positional Discard* or *Positional Misplay* instead.
-* However, in the variants where it is likely to have three or more critical cards in a row, any 2x One-of-Each, for example; players can agree to interpret these clue as *Chop Moves* instead of *Positional Clues* at the beginning of the game.
-* Note that in the variants that relies on *Positional Clues*, *Null* or *Brown*, for example; players should always take the *Positional Clue* interpretation.
 
 ### Self Color Bluff Guide (by IAMJEFF)
 
@@ -232,7 +228,13 @@
 * However, *Flush Clue* takes priority over *Locked Hand Save*. In other words, any color clue fosusing a card on slot 1 is always a *Play Clue*.
 * On the other hand, when a rank clue (except a 5 clue) is given focusing a card on slot 1 and if it requires the clue receiver to blind-play **one** or more card to fulfill the *Finesse/Bluff*, it is treated as a *Locked Hand Save*; otherwise, it is a *Play Clue*.
 
+### Skipped Misplay Chop Move
+
+* Through [*Chop Move Addition Rules*](Chop_Move_Guide.md#addition), if a player misplay an off-chop card, they are trying to perform a *Triple Chop Move* (or *Quadruple Chop Moves* depending on how many cards are skipped).
+* Note that the players can turn this convention off and treat it as a *Positional Misplay*, especially in the variants which rely on *Positional Clues*.
+
 ### Occupied Tempo Clue Chop Move 
+
 * If a player is occupied and they tempo a card that is cm or previously clued, it would be quite strange.
 * The reason it's strange is because they can just play and on the next turn they can then tempo their partner.  
 * We agree that, if this is done, in addition to the play, they should also chop move.
@@ -244,6 +246,7 @@ Conditions for when this occurs
 
 
 ### Advanced form of Tempo Clue Chop Move
+
 ![2020-09-27_07-13-33](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
 ![2020-09-27_07-25-03](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
 * Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
@@ -361,34 +364,35 @@ For example, if she is in anxiety.
 
 ### Conventions for All Variants
 
-| Convention Name                 | Inventor
-| ------------------------------- | --------
-| Tempo Change                    | *(Unknown)*
-| Priority Change                 | *(Unknown)*
-| First Turn Stalls               | *(Unknown)*
-| Flush Clue                      | *(Unknown)*
-| Scream Discard Modification     | *(Unknown)*
-| Double Scream Blind-Play        | *(Unknown)*
-| Skipped Discard Chop Move       | *(Unknown)*
-| Self Color Bluff                | IAMJEFF
-| Delayed Bluff                   | IAMJEFF & Fireheart
-| Sacrifice Discard Chop Move     | IAMJEFF & Fireheart
-| 4 Single Bluff                  | IAMJEFF
-| Selfish Chop Move               | IAMJEFF
-| Selfish Bluff                   | IAMJEFF
-| Crazy 3/4 Fake Saves            | IAMJEFF
-| Implied Saves                   | IAMJEFF
-| Anxiety Play Shift              | IAMJEFF
-| Self Color Ejection             | IAMJEFF
-| Chop Overflowed Positional Clue | IAMJEFF
-| Locked Hand Save Change         | IAMJEFF
-| Tempo Clue Chop Move Change     | IAMJEFF & piper
-| Occupied Tempo Clue Chop Move   | Dr_Kakashi & Kimbifille
+| Convention Name                              | Inventor
+| -------------------------------------------- | --------
+| Tempo Change                                 | *(Unknown)*
+| Priority Change                              | *(Unknown)*
+| First Turn Stalls                            | *(Unknown)*
+| Flush Clue                                   | *(Unknown)*
+| Scream Discard Modification                  | *(Unknown)*
+| Double Scream Blind-Play                     | *(Unknown)*
+| Skipped Discard Chop Move                    | *(Unknown)*
+| Self Color Bluff                             | IAMJEFF
+| Delayed Bluff                                | IAMJEFF & Fireheart
+| Sacrifice Discard Chop Move                  | IAMJEFF & Fireheart
+| 4 Single Bluff                               | IAMJEFF
+| Selfish Chop Move                            | IAMJEFF
+| Selfish Bluff                                | IAMJEFF
+| Crazy 3/4 Fake Saves                         | IAMJEFF
+| Implied Saves                                | IAMJEFF
+| Anxiety Play Shift                           | IAMJEFF
+| Self Color Ejection                          | IAMJEFF
+| Chop Overflowed Positional Clue              | IAMJEFF
+| Locked Hand Save Change                      | IAMJEFF
+| Tempo Clue Chop Move Change                  | IAMJEFF & piper
+| Occupied Tempo Clue Chop Move                | Dr_Kakashi & Kimbifille
 | Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
-| Risk of Duplication Chop Move   | Dr_Kakashi & Kimbifille
-| Chop Overflow Finesse           | Dr_Kakashi & Kimbifille
-| Dupe Chop Move                  | Dr_Kakashi & Kimbifille
+| Risk of Duplication Chop Move                | Dr_Kakashi & Kimbifille
+| Chop Overflow Finesse                        | Dr_Kakashi & Kimbifille
+| Dupe Chop Move                               | Dr_Kakashi & Kimbifille
 | Advanced Negative Information Involved with Double Loaded and Overloaded Play Clues | Kimbifille
+| Skipped Misplay Chop Move                    | Dr_Kakashi & Kimbifille
 
 <br/>
 
