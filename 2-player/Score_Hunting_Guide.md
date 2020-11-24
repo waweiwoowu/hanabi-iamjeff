@@ -168,6 +168,10 @@
 * *Self Color Bluffs* are turned off in favor of *Color Positional clues*.
 * If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough context that it is not a *Trash Chop Move*.
 
+### Clue Starved
+* These are the strategies for the competition: [Clue Starved 2p Strategies](https://github.com/iamwhoiamhahaha/hanabi-competition/blob/master/Clue_Starved_Strategies.md)
+* Just note that you have to "save" every critical card in score hunting.
+
 <br/>
 
 # Other Conventions
