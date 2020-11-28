@@ -1,6 +1,6 @@
 # Chop Move Guide (2-Player)
 
-* This is the *Chop Move Guide* for [score hunting](Score_Hunting_Guide.md) in a 2-player game created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in 2020.
+* This is the *Chop Move Guide* for [score hunting](Score_Hunting_Guide.md) in a 2-player game created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
 
 <br/>
 
