@@ -243,7 +243,7 @@
 ### Selfish Chop Move
 * See [here](Selfish_Conventions.md#selfish-chop-move).
 
-### Dupe Chop Move
+### Dupe Chop Move (Risk of Duplication Chop Move)
 
 * Generally, players should strive to not risk duplicating cards during the game. This basically means they should play their clued cards to know their exact identity.  
 * If a player chooses to accidentally duplicate, it must mean something more.  We agree that this should cause a chop move, as it gives them a play, preventing a discard.
