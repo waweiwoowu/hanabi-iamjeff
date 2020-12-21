@@ -31,6 +31,7 @@
   * Note that you can also do this with a *Chop Moved* card.
 * If your teammate has a playable card through your own hand: ***[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)***
 * If your teammate has a clued card and you give a *Tempo Clue* in special circumstances: ***[Tempo Clue Chop Move](Score_Hunting_Guide.md#tempo-clue-chop-move-exception)***
+* If you have an unknown playable 1 and you give a 1-for-1 clue on a 1 that might be duped: ***[Dupe Chop Move](Score_Hunting_Guide.md#dupe-chop-move-risk-of-duplication-chop-move)
 * If your teammate has a card of one-of-each suit and it is one-away from chop: ***[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)***
 
 
@@ -148,23 +149,3 @@
   * Since Bob discarded a trash last turn, her *Chop Moved* card cannot be a critical card. Thus, it must be a red 3 that Bob wants to protect after receiving the red clue.
   * Alice marks her slot 5 as a red 3 and discards her slot 3.
   * Bob plays red 2. Alice blind-plays her slot 5, and a red 3 is successfully played.
-
-### Risk of Duplication Chop Move (Dupe Chop Move)
-
-* Generally, players should strive to not risk duplicating cards during the game.
-* This basically means they should play their clued cards to know their exact identity.  
-* If a player chooses to accidentally duplicate, it must mean something more.  
-* We agree that this should cause a chop move, as it gives them a play, preventing a discard.
-* This convention is turned off when a 2 for 1 or more clue is given.  
-
-Example:
-* Alice picks up 2 1's in Bob's hand with rank 1.
-* Alice's hand: X - X - X - G1 - R5
-* Bob can see that he can do a 1's order chop move on the R5.  However, if he doesn't have g1 then a playable card will be discarded.  He also doesn't have time to play his 1's to see if he has a G1.
-* Bob risks duping by cluing the single 1 in Alice's hand.
-* Alice is surprised to see this as Bob could've been duping.  
-* Alice therefore plays the 1 and cm's the card on her chop
-
-![2020-10-05_13-42-30](https://github.com/Dr-Kakashi/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
-
-<br/>
