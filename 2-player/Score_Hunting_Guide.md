@@ -190,6 +190,9 @@
 * The players are allowed to perform a *4 Single Bluff* by touching a two-away 4 with a rank clue, if the 4 looks like a one-away card, and this move only gets one blind-card.
 * The 4 that was used as a *4 Single Bluff* is not promised to be one-away. And the player who receives the clue should mark nothing on their card.
 
+### Selfish Bluff
+* See [here](Selfish_Conventions.md#selfish-bluff).
+
 ### Anxiety Play Shift
 
 * This applies to situations where a player becomes locked but has a playable card or has a playable card through a partner's clued cards.
@@ -236,6 +239,24 @@
 
 * Through [*Chop Move Addition Rules*](Chop_Move_Guide.md#addition), if a player misplay an off-chop card, they are trying to perform a *Triple Chop Move* (or *Quadruple Chop Moves* depending on how many cards are skipped).
 * Note that the players can turn this convention off and treat it as a *Positional Misplay*, especially in the variants which rely on *Positional Clues*.
+
+### Selfish Chop Move
+* See [here](Selfish_Conventions.md#selfish-chop-move).
+
+### Dupe Chop Move
+
+* Generally, players should strive to not risk duplicating cards during the game. This basically means they should play their clued cards to know their exact identity.  
+* If a player chooses to accidentally duplicate, it must mean something more.  We agree that this should cause a chop move, as it gives them a play, preventing a discard.
+* This convention is turned off when a 2-for-1-or-more clue is given.  
+* For example:
+  * Alice picks up 2 1's in Bob's hand with rank 1.
+  * Alice's hand: X - X - X - G1 - R5
+  * Bob can see that he can do a 1's order chop move on the R5.  However, if he doesn't have g1 then a playable card will be discarded.  He also doesn't have time to play his 1's to see if he has a G1.
+  * Bob risks duping by cluing the single 1 in Alice's hand.
+  * Alice is surprised to see this as Bob could've been duping.  
+  * Alice therefore plays the 1 and cm's the card on her chop
+
+![2020-10-05_13-42-30](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
 
 ### Occupied Tempo Clue Chop Move 
 
@@ -392,7 +413,7 @@ For example, if she is in anxiety.
 | Tempo Clue Chop Move Change                  | IAMJEFF & piper
 | Occupied Tempo Clue Chop Move                | Dr_Kakashi & Kimbifille
 | Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
-| Risk of Duplication Chop Move                | Dr_Kakashi & Kimbifille
+| Dupe Chop Move                               | Dr_Kakashi & Kimbifille
 | Chop Overflow Finesse                        | Dr_Kakashi & Kimbifille
 | Dupe Chop Move                               | Dr_Kakashi & Kimbifille
 | Advanced Negative Information Involved with Double Loaded and Overloaded Play Clues | Kimbifille
