@@ -325,10 +325,10 @@ For example, if she is in anxiety.
 ## Miscellaneous
 
 ### Sarcastic Discard (Changed)
-* If there are multiple cards that a Sarcastic Discard could apply to, then it promises that it is on the left-most card.
+* If there are multiple cards that a *Sarcastic Discard* could apply to, then it promises that it is on the left-most card.
 
 ### Sarcastic Discard Shift
-* If the players defer a turn to perform a Sarcastic Discard, and if there are multiple cards that a Sarcastic Discard could apply to, then the position of the promised card "shifts" over by 1 card.
+* If the players defer a turn to perform a *Sarcastic Discard*, and if there are multiple cards that a *Sarcastic Discard* could apply to, then the position of the promised card "shifts" over by 1 card.
 
 ### Self Color Ejection
 
