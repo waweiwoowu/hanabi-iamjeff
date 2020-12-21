@@ -31,7 +31,7 @@
   * Note that you can also do this with a *Chop Moved* card.
 * If your teammate has a playable card through your own hand: ***[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)***
 * If your teammate has a clued card and you give a *Tempo Clue* in special circumstances: ***[Tempo Clue Chop Move](Score_Hunting_Guide.md#tempo-clue-chop-move-exception)***
-* If you have an unknown playable 1 and you give a 1-for-1 clue on a 1 that might be duped: ***[Dupe Chop Move](Score_Hunting_Guide.md#dupe-chop-move-risk-of-duplication-chop-move)
+* If you have an unknown playable 1 and you give a 1-for-1 clue on a 1 that might be duped: ***[Dupe Chop Move](Score_Hunting_Guide.md#dupe-chop-move-risk-of-duplication-chop-move)***
 * If your teammate has a card of one-of-each suit and it is one-away from chop: ***[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)***
 
 
