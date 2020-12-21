@@ -324,6 +324,12 @@ For example, if she is in anxiety.
 
 ## Miscellaneous
 
+### Sarcastic Discard (Changed)
+* If there are multiple cards that a Sarcastic Discard could apply to, then it promises that it is on the left-most card.
+
+### Sarcastic Discard Shift
+* If the players defer a turn to perform a Sarcastic Discard, and if there are multiple cards that a Sarcastic Discard could apply to, then the position of the promised card "shifts" over by 1 card.
+
 ### Self Color Ejection
 
 * Generally, if the player delays one turn to give a direct *Play Clue* then it should be interpreted as a *Self Color Bluff*.
@@ -418,6 +424,8 @@ For example, if she is in anxiety.
 | Dupe Chop Move                               | Dr_Kakashi & Kimbifille
 | Advanced Negative Information Involved with Double Loaded and Overloaded Play Clues | Kimbifille
 | Skipped Misplay Chop Move                    | Dr_Kakashi & Kimbifille
+| Sarcastic Discard (Changed)                  | Libster
+| Sarcastic Discard Shift                      | Libster
 
 <br/>
 
