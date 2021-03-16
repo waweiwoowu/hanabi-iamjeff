@@ -2,7 +2,7 @@
 
 * This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
 * The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive and risky.
-* Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
+* Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
 * Warning, be prepared to kill games where the critical cards are thrown into the trash.
 
 <br/>
@@ -37,19 +37,19 @@
 
 ### 2p Conventions which are *turned on*
 
-* ***[Tempo Change](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#tempo-change)***
-* ***[Priority Change](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#priority-change)***
-* ***[First Turn Stalls](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#first-turn-stalls)***
+* ***[Tempo Change](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#tempo-change)***
+* ***[Priority Change](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#priority-change)***
+* ***[First Turn Stalls](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#first-turn-stalls)***
   * See the *[First Turn Stall Guide](#first-turn-stalls-guide)* below for more details.
-* ***[Flush Clue](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-flush-clue-a-slot-1-color-clue)***
-* ***[Self-Bluffs with Color Clues (Self Color Bluff)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#self-bluffs-with-color-clues)***
+* ***[Flush Clue](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-flush-clue-a-slot-1-color-clue)***
+* ***[Self-Bluffs with Color Clues (Self Color Bluff)](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#self-bluffs-with-color-clues)***
   * See the *[Self Color Bluff Guide](#self-color-bluff-guide)* below for advanced usage.
-* ***[Delayed Bluff](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-delayed-bluff)***
-* ***[Scream Discard Modification](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#scream-discard-modification)***
+* ***[Delayed Bluff](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-delayed-bluff)***
+* ***[Scream Discard Modification](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#scream-discard-modification)***
   * Note that the players are allowed to perform a *Scream Discard Chop Move* in any clue.
-* ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
-* ***[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)***
-* ***[Double Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-skipped-discard-chop-move)***
+* ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-double-scream-blind-play-blind-playing-chop)***
+* ***[Skipped Discard Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-skipped-discard-chop-move)***
+* ***[Double Skipped Discard Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-double-skipped-discard-chop-move)***
   * Note that the players can turn this convention off and treat it as a *Positional Discard*.
 * ***[Selfish Conventions](Selfish_Conventions.md)***
   * *[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)*
@@ -58,19 +58,19 @@
 
 ### 2p Conventions which are *turned off*
 
-* ***[One-Away Saves](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#one-away-saves)***
-* ***[Second Turn Stalls](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#second-turn-stalls)***
-* ***[5's Double Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-5s-double-chop-move)***
-* ***[Double Discard Save Stalls](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#double-discard-save-stalls)***
-* ***[Scream Push (Anxiety with a Chop Move)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-scream-push-anxiety-with-a-chop-move)***
-* ***[Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-scream-blind-play-blind-playing-chop)***
+* ***[One-Away Saves](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#one-away-saves)***
+* ***[Second Turn Stalls](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#second-turn-stalls)***
+* ***[5's Double Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-5s-double-chop-move)***
+* ***[Double Discard Save Stalls](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#double-discard-save-stalls)***
+* ***[Scream Push (Anxiety with a Chop Move)](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-scream-push-anxiety-with-a-chop-move)***
+* ***[Scream Blind-Play (Blind-Playing Chop)](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-scream-blind-play-blind-playing-chop)***
   * Blind-playing the *Chop* is always *Double Chop Move* (as a *Double Scream Blind-Play*).
   * If you want to *Chop Move* only one card while in no clues, use *Skipped Discard Chop Move*.
 
 ### 2p Variant-Specific Conventions which are *turned on*
-* ***[Flush Save](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-flush-save)***
-* ***[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)***
-* ***[Implied Color Truth](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#implied-color-truth)***
+* ***[Flush Save](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-flush-save)***
+* ***[Dark Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-dark-chop-move)***
+* ***[Implied Color Truth](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#implied-color-truth)***
   * Turn off if you want to apply *[Implied Saves](#implied-saves)* to rainbow cards.
 
 ### 3p+ Conventions which are *turned on*
