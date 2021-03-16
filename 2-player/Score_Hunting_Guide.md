@@ -230,6 +230,7 @@
   - Alice plays her unknown red card. It doesn't matter if it is playable.
   - Bob is surprised that Alice plays/misplays her red card. The only reason that Alice would do this is because she can see another copies of the cards she might be playing.
   - Thus, Bob marks his entire hand with elimination notes for the red 4 and the red 5.
+- In-game examples: [331127, Turn 13](https://hanab.live/replay/331127#13).
 
 ### Chop Overflow Positional Clue
 
