@@ -211,7 +211,7 @@
   * Alice blind-plays her red 3 from slot 3.
 
 ### Explosive Play & Explosive Elimination Notes
-- Normally, when a player has an unknown clued card in hand, they should write down all the possibilities and keep it until it is known to be playable.
+- Normally, if a player has an unknown clued card in hand, they should write down all the possibilities and keep it until it is known to be playable.
 - However, if the player can see that their teammate has all other copies of the possible cards in their notes (except for the playable one), they are allow to play the unknown card as an *Explosive Play*.
 - When this happens, their teammate should write the *Elimination Notes* on their entire hand for each possibility of the cards the player might be playing (except for the playable one).
 - Example 1:
@@ -447,8 +447,7 @@ For example, if she is in anxiety.
 | Skipped Misplay Chop Move                    | Dr_Kakashi & Kimbifille
 | Sarcastic Discard (Changed)                  | Libster
 | Sarcastic Discard Shift                      | Libster
-| Explosive Play                               | IAMJEFF
-| Explosive Elimination Notes                  | IAMJEFF
+| Explosive Play & Explosive Elimination Notes | IAMJEFF
 
 <br/>
 
