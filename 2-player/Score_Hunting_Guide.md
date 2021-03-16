@@ -210,6 +210,27 @@
   * Alice also knows *Anxiety Play Shift*, which means her playable card must be on slot 2. However, it is a 5, which is known not to be playable. Thus, her playable card must be on slot 3.
   * Alice blind-plays her red 3 from slot 3.
 
+### Explosive Play & Explosive Elimination Notes
+- Normally, when a player has an unknown clued card in hand, they should write down all the possibilities and keep it until it is known to be playable.
+- However, if the player can see that their teammate has all other copies of the possible cards in their notes (except for the playable one), they are allow to play the unknown card as an *Explosive Play*.
+- When this happens, their teammate should write the *Elimination Notes* on their entire hand for each possibility of the cards the player might be playing (except for the playable one).
+- Example 1:
+  - All the 1's are played on the stacks except for red 1 and blue 1.
+  - Alice has an unknown 2 (clued) in hand. Bob has a red 2 and a blue 2 (unclued) in hand.
+  - Normally, Alice is not supposed to play the unknown 2 since it could be a red 2 or a blue 2 (which is not playable).
+  - However, Alice can see that Bob has a red 2 and a blue 2 in his hand. If she is trying to play her unknown 2, even it is a red 2 or a blue 2 which causes a bomb, the team won't lose the 2 since Bob has another copy.
+  - Alice plays her unknown 2. It doesn't matter if it is playable.
+  - Bob is surprised that Alice plays/misplays her 2. The only reason that Alice would do this is because she can see another copies of the cards she might be playing.
+  - Thus, Bob marks his entire hand with elimination notes for the red 2 and the blue 2.
+- Example 2:
+  - Red 2 is played on the stacks.
+  - Alice has an unknown red card (clued) in hand. Bob has a red 4 and a red 5 (unclued) in hand.
+  - Normally, Alice is not supposed to play the unknown red card since it could be a red 4 or a red 5 (which is not playable).
+  - However, Alice can see that Bob has a red 4 and a red 5 in his hand. If she is trying to play her unknown red card, even it is a red 4 which causes a bomb (it can't be a red 5 since there is only one copy of each 5), the team won't lose the red 4 since Bob has another copy.
+  - Alice plays her unknown red card. It doesn't matter if it is playable.
+  - Bob is surprised that Alice plays/misplays her red card. The only reason that Alice would do this is because she can see another copies of the cards she might be playing.
+  - Thus, Bob marks his entire hand with elimination notes for the red 4 and the red 5.
+
 ### Chop Overflow Positional Clue
 
 * If the player performs a *Double Chop Move* by discarding or misplaying while their teammate only has one card to *Chop Move*; or a *Triple Chop Move*, and their teammate only has one or two cards.
@@ -426,6 +447,8 @@ For example, if she is in anxiety.
 | Skipped Misplay Chop Move                    | Dr_Kakashi & Kimbifille
 | Sarcastic Discard (Changed)                  | Libster
 | Sarcastic Discard Shift                      | Libster
+| Explosive Play                               | IAMJEFF
+| Explosive Elimination Notes                  | IAMJEFF
 
 <br/>
 
