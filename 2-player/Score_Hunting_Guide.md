@@ -443,7 +443,6 @@ For example, if she is in anxiety.
 | Advanced form of Tempo Clue Chop Move Change | Dr_Kakashi & Kimbifille
 | Dupe Chop Move                               | Dr_Kakashi & Kimbifille
 | Chop Overflow Finesse                        | Dr_Kakashi & Kimbifille
-| Dupe Chop Move                               | Dr_Kakashi & Kimbifille
 | Advanced Negative Information Involved with Double Loaded and Overloaded Play Clues | Kimbifille
 | Skipped Misplay Chop Move                    | Dr_Kakashi & Kimbifille
 | Sarcastic Discard (Changed)                  | Libster
