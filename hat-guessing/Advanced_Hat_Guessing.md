@@ -25,7 +25,7 @@ If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.c
 <br />
 
 ## General Conventions
-* Most of the rules follow [the conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md#other-conventions) in regular hat-guessing conventions.
+* Most of the rules follow [the conventions](https://github.com/hanabi/hanabi.github.io/blob/main/misc/hat-guessing.md) in regular hat-guessing conventions.
 
 ### Priority Rules
 * If a player has two or more playable cards (or one-away cards), the priority is as follows:
