@@ -71,7 +71,7 @@ This is document of the conventions for 3 Suits 5-Player games using [advanced h
 * [Up or Down](#white--brown--up-or-down)
 * [Cow & Pig](#no-variant--cow--pig) / [Duck](#color-mute--number-mute--alternating-clues--duck)
 * Throw It in a Hole _(Currently Unavailable)_
-* Synesthesia & Black (4 Suits)
+* [Synesthesia & Black (4 Suits)](#synesthesia--black-4-suits)
 
 <br />
 
