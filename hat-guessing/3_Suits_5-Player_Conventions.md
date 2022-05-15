@@ -6,8 +6,9 @@ This is document of the conventions for 3 Suits 5-Player games using [advanced h
 
 ## Table of Contents
 1. [General Conventions](#general-conventions)
-2. [Find Tables](#find-tables)
-3. [Clue Interpretation Tables](#clue-interpretation-tables)
+2. [Examples](#examples)
+3. [Find Tables](#find-tables)
+4. [Clue Interpretation Tables](#clue-interpretation-tables)
 
 <br />
 
@@ -45,14 +46,20 @@ This is document of the conventions for 3 Suits 5-Player games using [advanced h
 
 <br />
 
+## Examples
+
+- [Pink (3 Suits)](https://hanab.live/shared-replay-json/515dbfmaekdigmcnllhf-bkkacfogijhan,03pcae-xdtaatacgaajaoaradxe-algbgbaa1ca1amaza0af-ax,109)
+
+<br />
+
 ## Find Tables
 
 ### Standard
 | Touched by         | No color clues                                                                          | Own color clue                                                            | All color clues                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| No rank clues      | [Null](#null--white--brown--white--null--brown--null) (Dark Null)                       | [Brown](#white--brown--up-or-down) (Dark Brown)                           | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow) (Cocoa Rainbow) |
-| Own rank clue      | [White](#white--brown--up-or-down) (Gray)                                               | [No Variant](#no-variant--cow--pig) (Black)                               | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Rainbow)                               |
-| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink) (Gray Pink) | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color) (Dark Pink) | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni) (Dark Omni)                                           |
+| No rank clues      | [Null](#null--white--brown--white--null--brown--null)                                   | [Brown](#white--brown--up-or-down)                            | [Muddy Rainbow](#muddy-rainbow--rainbow--brown--rainbow--muddy-rainbow--brown--muddy-rainbow)  |
+| Own rank clue      | [White](#white--brown--up-or-down)                                                      | [No Variant](#no-variant--cow--pig)                                | [Rainbow](#rainbow--pink--ambiguous--very-ambiguous--dual-color)                                              |
+| All rank clues     | [Light Pink](#light-pink--pink--white--pink--light-pink--white--light-pink)             | [Pink](#rainbow--pink--ambiguous--very-ambiguous--dual-color)  | [Omni](#omni--rainbow--pink--rainbow--omni--pink--omni)                                                   |
 
 
 ### Special
