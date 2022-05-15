@@ -18,7 +18,7 @@ This is document of the conventions for 3 Suits 5-Player games using [advanced h
 
 * Give _**Action Clues**_ until getting **7** or more cards to play, including the cards which are loaded by the action clue.
   * Tips: While giving an action clue, you should always touch cards with higher rank (e.g. 4 or 5), since you would probably need those cards in last round.
-  *  10 cards for *Synesthesia & Black (4 Suits)*
+  *  12 cards for *Synesthesia & Black (4 Suits)*
 * Then, every clue should be given as an _**Information Clue**_ _(see below)_.
 * Notes: For the variants where the clue gives both positive number or positive color information, like No Variant, the team can choose to give normal _Play Clues_ (with [Hyphen-ated Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md)) instead of information clues. They have to decide this at the start of the game.
 
