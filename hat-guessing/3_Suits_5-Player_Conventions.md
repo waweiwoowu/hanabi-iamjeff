@@ -49,6 +49,7 @@ This is document of the conventions for 3 Suits 5-Player games using [advanced h
 ## Examples
 
 - [Pink (3 Suits)](https://hanab.live/shared-replay-json/515dbfmaekdigmcnllhf-bkkacfogijhan,03pcae-xdtaatacgaajaoaradxe-algbgbaa1ca1amaza0af-ax,109)
+- [Duck (3 Suits)](https://hanab.live/shared-replay-json/515nffjohfmgikahakea-diccdgkblnlbm,03xeag-aiaoaqxclc1bamasadoa-azahayata0aeavap,57)
 
 <br />
 
