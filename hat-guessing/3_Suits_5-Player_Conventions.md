@@ -71,6 +71,7 @@ This is document of the conventions for 3 Suits 5-Player games using [advanced h
 * [Up or Down](#white--brown--up-or-down)
 * [Cow & Pig](#no-variant--cow--pig) / [Duck](#color-mute--number-mute--alternating-clues--duck)
 * Throw It in a Hole _(Currently Unavailable)_
+* Synesthesia & Black (4 Suits)
 
 <br />
 
@@ -364,5 +365,21 @@ This is document of the conventions for 3 Suits 5-Player games using [advanced h
 | 6 (15)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 2) | 4 players away | any clue on newest card
 | 7 (16)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 3) | 4 players away | any clue not touching the newest card
 | 8 (17)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 4) | any player     | any clue touching only oldest card
+
+<br />
+
+### Synesthesia & Black (4 Suits)
+
+| # mod 9 | action                                  | information                                             | person clued   | type of clue
+| ------- | --------------------------------------- | ------------------------------------------------------- | -------------- | -------------
+| 0 (9)   | give clue                               | no useful card                                          | any player     | black clue
+| 1 (10)  | play a card (from slot 1)               | a useful card (on slot 1)                               | 1 players away | red clue
+| 2 (11)  | play a card (from slot 2)               | a useful card (on slot 2)                               | 2 players away | red clue
+| 3 (12)  | play a card (from slot 3)               | a useful card (on slot 3)                               | 3 players away | red clue
+| 4 (13)  | play a card (from slot 4)               | a useful card (on slot 4)                               | 4 players away | red clue
+| 5 (14)  | play a one-away card<br />(from slot 4) | two or more useful cards <br />(lowest-point on slot 1) | 1 or 2 players away | green clue
+| 6 (15)  | play a one-away card<br />(from slot 3) | two or more useful cards <br />(lowest-point on slot 2) | 1 or 2 players away | blue clue
+| 7 (16)  | play a one-away card<br />(from slot 2) | two or more useful cards <br />(lowest-point on slot 3) | 3 or 4 players away | green clue
+| 8 (17)  | play a one-away card<br />(from slot 1) | two or more useful cards <br />(lowest-point on slot 4) | 3 or 4 players away | blue clue
 
 <br />
