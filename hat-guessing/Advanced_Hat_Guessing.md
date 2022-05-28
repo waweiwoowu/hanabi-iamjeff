@@ -2,7 +2,7 @@
 
 This is an advanced version of [hat-guessing conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md) invented by [IAMJEFF](https://github.com/iamwhoiamhahaha) in April 2020.
 
-If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-Player_Conventions.md).
+If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/5-Player_3_Suits_Conventions.md).
 
 <br />
 
