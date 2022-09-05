@@ -11,9 +11,9 @@
 
 1. [Introduction](#introduction)
 1. [General Guide](#general-guide)
+   - [Chop Move Guide](#chop-move-guide-by-iamjeff)
    - [First Turn Stall Guide](#first-turn-stall-guide-by-iamjeff)
    - [Game Flow Guide](#game-flow-guide-by-dr_kakashi--kimbifille)
-   - [Chop Move Guide](#chop-move-guide-by-iamjeff)
    - [Self Color Bluff Guide](#self-color-bluff-guide-by-iamjeff)
 1. [Variant-Specific Guide](#variant-specific-guide)
 1. [Conventions Changed](#conventions-changed)
