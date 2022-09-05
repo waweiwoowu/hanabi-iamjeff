@@ -1,6 +1,6 @@
 # Chop Move Guide (2-Player)
 
-- *Chop Moves* are crucial in a 2-player game. Knowing how to perform a specific *Chop Move* in a specific situation is key to winning a perfect score.
+- *Chop Moves* are crucial in a 2-player game. Knowing how to perform them in some specific circumstances is key to winning a perfect score.
 - The guide was created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020, which is mainly used in a 2-player game with the [Score Hunting Conventions](Score_Hunting_Guide.md).
 
 <br/>
