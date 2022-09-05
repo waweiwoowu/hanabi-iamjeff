@@ -1,6 +1,7 @@
 # Chop Move Guide (2-Player)
 
-- This is the *Chop Move Guide* for [score hunting](Score_Hunting_Guide.md) in a 2-player game created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
+- *Chop Moves* are crucial in a 2-player game. Knowing how to perform a specific *Chop Move* in a specific situation is key to winning a perfect score.
+- The guide is mainly used in the [Score Hunting Guide](Score_Hunting_Guide.md) created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
 
 <br/>
 
