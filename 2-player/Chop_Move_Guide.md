@@ -1,16 +1,14 @@
 # Chop Move Guide (2-Player)
 
 - This is the *Chop Move Guide* for [score hunting](Score_Hunting_Guide.md) in a 2-player game created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
-- Note that a ***Finesse Chop*** is a term used to describe a situation where a player's *Chop* is also on their *Finesse Position*.
 
 <br/>
 
 ## Table of Contents
 
 1. [Non-Emergency Chop Moves](#non-emergency-chop-moves)
-1. [Semi-Emergency Chop Moves](#semi-emergency-chop-moves-without-wasting-a-clue)
 1. [Emergency Chop Moves](emergency-chop-moves)
-1. [Addition](#addition)
+1. [Addition Rules](#addition-rules)
 1. [Context](#context)
 
 <br/>
@@ -18,52 +16,74 @@
 ## Non-Emergency Chop Moves
 
 ### [Order Chop Move](https://hanabi.github.io/docs/level-6/#the-order-chop-move-ocm)
-- If the players have two or more unknown 1s, they are allowed to play the 1s *Out-of-Order* to signal an *Order Chop Move*.
+- If the player has two or more unknown 1s, they are allowed to play the 1s *Out-of-Order* to signal an *Order Chop Move*.
   - Skip 1 card: *Single Chop Move*
   - Skip 2 cards: *Double Chop Move*
   - And so on...
+
 ### [Redundant Save Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/deleted-conventions.md#the-redundant-save-chop-move)
-- If the players have two or more unknown 1s, instead of performing an *Order Chop Move*, they give a direct *Save Clue* touching **only one** card on their teammate's *Chop*, it signals a *Redundant Save Chop Move*.
+- If the player has two or more unknown 1s, instead of performing an *Order Chop Move*, they give a direct *Save Clue* touching **only one** card on their teammate's *Chop*, it signals a *Redundant Save Chop Move*.
 - Note that this move has been rarely used.
+
 ### [5's Chop Move](https://hanabi.github.io/docs/level-4/#the-5s-chop-move-5cm)
 - If the teammate has a 5 which is one-away-from-chop, the players are allowed to give a 5 clue as a *5's Chop Move*.
 - Note that it is turned off in *8 Clues Situation*, including turn 1.
+
 ### [Trash Chop Move](https://hanabi.github.io/docs/level-4/#the-trash-chop-move)
 - If the teammate has an off-*Chop* trash, the players are allowed to give a clue touching that trash (if it looks like a known trash) and it signals a *Trash Chop Move* to the right of the clued card.
 - Note that it should always be treated as a *Trash Chop Move* over a *Positional Clue* in the variants with a Null suit (or any variant which is relied on *Positional Clues*).
+
+### [Trash Order Chop Move](https://hanabi.github.io/docs/level-6/#the-trash-order-chop-move-tocm)
+- If the player has two or more trash, they are allowed to discard the trash *Out-of-Order* to signal a *Trash Order Chop Move*.
+
 ### [Transfer Chop Move](https://hanabi.github.io/docs/extras/chop-moves/#the-chop-transfer)
 - If the teammate has an unknown trash which has been clued earlier, the players are allowed to give a *Fix Clue* on the trash and it signals a *Transfer Chop Move*.
 - Note that the players can also perform this move by touching a *Chop Moved* card.
+
 ### [Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)
-- If the teammate has a playable card through your own hand, the players are allowed to defer a *Play* and give
+- If the player has a playable card, they are allowed to defer a *Play* and give a *Selfish Clue* through their own hand. In some circumstances, the move signals a *Selfish Chop Move*.
+- Click the link and see more details.
+
 ### [Tempo Clue Chop Move](Score_Hunting_Guide.md#tempo-clue-chop-move-exception)
 - If the teammate has an unknown playable card which has been clued earlier, the players are allowed to give a *Tempo Clue* in some circumstances to signal a *Tempo Clue Chop Move*.
-- See more details from the link above.
+- Click the link and see more details.
+
 ### [Dupe Chop Move](Score_Hunting_Guide.md#dupe-chop-move-risk-of-duplication-chop-move)
-- If the players have an unknown playable card (usually a 1), they are allowed to give a **1-for-1** clue that might be *Duped* to signal a *Dupe Chop Move*.
+- If the player has an unknown playable card (usually a 1), they are allowed to give a **1-for-1** clue that might be *Duped* to signal a *Dupe Chop Move*.
+
 ### [Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)
 - If the teammate has a card of an One-of-Each suit which is one-away from *Chop*, the players are allowed to save it with a *Color Clue* which signals a *Dark Chop Mov*.
 - Note that this move has been rarely used due to the existence of *Self-Color Bluffs*.
 
 <br/>
 
-### Semi-Emergency Chop Moves (without wasting a clue)
+## Emergency Chop Moves
 
-> ***Important Notes***: If your teammate has a critical card on their *Finessed Chop*. In this situation, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless there are more than 5 clues in the bank. Simply "save" it with one of the following *Chop Moves* to generate more clues for your teammate to survive while they are locked.
-* If you have a playable card: ***[Scream Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-scream-discard-chop-move-deliberately-discarding-instead-of-playing)***
-* If you don't have a playable card: ***[Skipped Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-skipped-discard-chop-move)***
-* If you have a trash: ***[Whisper Discard Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-whisper-discard-chop-move)***
-* If you have two or more trash: ***[Trash Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#trash-order-chop-move)***
+- ***Important Notes***:
+  - A ***Finesse Chop*** is a term used to describe a situation where a player's *Chop* is also on their *Finesse Position*.
+  - If the teammate has a critical card (or an extremely important card) on their *Finesse Chop*, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless the team has at least 5 *Clue Tokens*. In this situation, simply "*Save*" it with one of the following *Chop Moves* to generate more clues for teammate to stall.
 
-### Emergency Chop Moves
+### [Scream Discard Chop Move](https://hanabi.github.io/docs/level-6/#the-scream-discard-chop-move-sdcm)
+- If the player has a playable card or a known trash, they are allowed to perform a *Scream Discard Chop Move* at any moment, even if they are not in 0 clues.
 
-* If your teammate has two cards to save: ***[Double Scream Blind-Play (Blind-Playing Chop)](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-double-scream-blind-play-blind-playing-chop)***
-* If your teammate has three or more cards to save: ***[Misplay Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-misplay-chop-move)*** or ***[Reverse Misplay Chop Move](#reverse-misplay-chop-move)***
-* If your teammate has a critical card on their *Finessed Chop* while you're locked: ***[Sacrifice Discard Chop Move](Score_Hunting_Guide.md#sacrifice-discard-chop-move)***
+### [Shout Discard Chop Move](https://hanabi.github.io/docs/level-6/#the-scream-discard-chop-move-sdcm)
+- Similar to a *Scream Discard Chop Move*, if the player has a playable card while holding a known trash, they are allowed to perform a *Shout Discard Chop Move* by discarding the known trash.
+
+### [Skipped Discard Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-skipped-discard-chop-move)
+- If the player doesn't have a playable card, they are allowed to discard a card which is one-away-from-chop to signal a *Skipped Discard Chop Move*.
+
+### [Bomb Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-scream-blind-play-blind-playing-chop)
+- If the teammate has two cards to be saved, the players are allowed to misplay their *Chop* card as a *Bomb Chop Move* to signal a *Double Chop Move* on their teammate.
+
+### [Misplay Chop Move](https://hanabi.github.io/docs/extras/chop-moves/#the-misplay-chop-move)
+- If the teammate has three or more cards to be saved, the players are allowed to give a *Play Clue* on an unplayable card which causes a bomb. In this situation, the move signals a *Misplay Chop Move* to the right of the clued cards.
+
+### [Sacrifice Discard Chop Move](Score_Hunting_Guide.md#sacrifice-discard-chop-move)
+* If the player is locked and their teammate has a critical card on *Finesse Chop*, they are allowed to discard a clued card to signal a *Sacrifice Discard Chop Move* on their teammate.
 
 <br/>
   
-## Addition
+## Addition Rules
 
 * *Chop Moves* can be added.
 * Therefore, you can easily perform a *Double Chop Move* without getting a strike by using a *Double Scream Blind-Play*.
