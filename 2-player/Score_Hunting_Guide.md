@@ -1,9 +1,9 @@
 # Score Hunting Guide (2-Player)
 
-* This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
-* The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive and risky.
-* Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
-* Warning, be prepared to kill games where the critical cards are thrown into the trash.
+- This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
+- The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive and risky.
+- Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
+- Warning, be prepared to kill games where the critical cards are thrown into the trash.
 
 <br/>
 
@@ -28,9 +28,10 @@
 
 ## Introduction
 
-* Hello!  This document is for those players who want to explore what 2-player Hanabi has to offer.  From my experience, 2-player games are interesting and fun, where you are allowed to quickly gain experience and are still able to do special moves compared to 3-player+ games.  Self Color Bluffs, for example, they are illegal in 3 or more player games; however, they are one of the most common moves in 2-player games.
-* Believe it or not, 2-player games are key to become a top Hanabi player. First, the gameplay is quite fast.  This allows you to accumulate a lot of experience to deal with troubles in various situations. Secondly, 2-player games are heavily contextual.  These games will help you cultivate your play style to train you to understand clues contextually in order to respond accordingly.
-* As a player who has over 4000+ games in 2-player, I’ve found a lot of players tend to struggle. Thus, this is the main reason I wrote this document, in the hopes that everyone can enjoy 2-player games and be able to get the maximum scores for the variants that they wish to have. Happy hunting!
+- Hello!  This document is for those players who want to explore what 2-player Hanabi has to offer.  From my experience, 2-player games are interesting and fun, where you are allowed to quickly gain experience and are still able to do special moves compared to 3-player+ games.  *Self-Color Bluffs*, for example, they are illegal in 3 or more player games; however, they are one of the most common moves in 2-player games.
+  - Note that *Self-Color Bluffs* have been added to h-group document in November 2020.
+- Believe it or not, 2-player games are key to become a top Hanabi player. First, the gameplay is quite fast.  This allows you to accumulate a lot of experience to deal with troubles in various situations. Secondly, 2-player games are heavily contextual.  These games will help you cultivate your play style to train you to understand clues contextually in order to respond accordingly.
+- As a player who has over 4000+ games in 2-player, I’ve found a lot of players tend to struggle. Thus, this is the main reason I wrote this document, in the hopes that everyone can enjoy 2-player games and be able to get the maximum scores for the variants that they wish to have. Happy hunting!
 
 <br/>
 
