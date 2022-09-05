@@ -8,7 +8,7 @@
 
 1. [Non-Emergency Chop Moves](#non-emergency-chop-moves)
 1. [Emergency Chop Moves](emergency-chop-moves)
-1. [Addition Rules](#addition-rules)
+1. [Chop Move Addition Rules](#chop-move-addition-rules)
 1. [Context](#context)
 
 <br/>
@@ -59,15 +59,17 @@
 
 ## Emergency Chop Moves
 
-- ***Important Notes***:
-  - A ***Finesse Chop*** is a term used to describe a situation where a player's *Chop* is also on their *Finesse Position*.
-  - If the teammate has a critical card (or an extremely important card) on their *Finesse Chop*, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless the team has at least 5 *Clue Tokens*. In this situation, simply "*Save*" it with one of the following *Chop Moves* to generate more clues for teammate to stall.
+- A ***Finesse Chop*** is a term used to describe a situation where a player's *Chop* is also on their *Finesse Position*.
+- If the teammate has a critical card (or an extremely important card) on their *Finesse Chop*, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless the team has at least 5 *Clue Tokens*. In this situation, simply "*Save*" it with one of the following *Chop Moves* to generate more clues for teammate to stall.
 
 ### [Scream Discard Chop Move](https://hanabi.github.io/docs/level-6/#the-scream-discard-chop-move-sdcm)
 - If the player has a playable card or a known trash, they are allowed to perform a *Scream Discard Chop Move* at any moment, even if they are not in 0 clues.
 
 ### [Shout Discard Chop Move](https://hanabi.github.io/docs/level-6/#the-scream-discard-chop-move-sdcm)
 - Similar to a *Scream Discard Chop Move*, if the player has a playable card while holding a known trash, they are allowed to perform a *Shout Discard Chop Move* by discarding the known trash.
+
+### [Whisper Discard Chop Move](https://hanabi.github.io/docs/level-6/#the-scream-discard-chop-move-sdcm)
+- Similar to a *Scream Discard Chop Move*, if the player has a known trash, they are allowed to perform a *Whisper Discard Chop Move* by discarding the *Chop* card instead of the known trash.
 
 ### [Skipped Discard Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-skipped-discard-chop-move)
 - If the player doesn't have a playable card, they are allowed to discard a card which is one-away-from-chop to signal a *Skipped Discard Chop Move*.
@@ -83,59 +85,59 @@
 
 <br/>
   
-## Addition Rules
+## Chop Move Addition Rules
 
 * *Chop Moves* can be added.
-* Therefore, you can easily perform a *Double Chop Move* without getting a strike by using a *Double Scream Blind-Play*.
+* Thus, the players can easily perform a *Double Chop Move* in some circumstances.
 
-### Example 1 (with Scream Discard Chop Move)
+### Example 1 (with a Scream Discard Chop Move)
 
-> If a player has a known playable card and a known trash, and they want to perform a *Chop Move* without wasting a clue.
-
-* ***Single Chop Move***
-  * Discarding the known trash: *"Scream Discard Chop Move"*
-* ***Double Chop Move***
-  * Discarding the *Chop* card: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"*
-  * Misplaying the known trash: *"Double Scream Blind-Play"*
-* ***Triple Chop Move***
-  * Discarding the card which is one-away from *Chop*: *"Scream Discard Chop Move"* + *"Whisper Discard Chop Move"* + *"Skipped Discard Chop Move"*
-  * Misplaying the *Chop* card: *"Double Scream Blind-Play"* + *"Skipped Discard Chop Move"*
-
-### Example 2 (with Order Chop Move)
-
-> If a player has two unknown playable 1s, and they want to perform a *Chop Move* without wasting a clue.
+`If the player has a known playable card and a known trash`
 
 * ***Single Chop Move***
-  * Playing the 1 out-of-order (left-most): *"Order Chop Move"*
+  * They discard the known trash: [*Scream Discard Chop Move*](#scream-discard-chop-move)
 * ***Double Chop Move***
-  * Discarding the *Chop* card: *"Order Chop Move"* + *"Scream Discard Chop Move"*
+  * They discard the *Chop* card: [*Scream Discard Chop Move*](#scream-discard-chop-move) + [*Whisper Discard Chop Move*](#whisper-discard-chop-move)
+  * They misplay the known trash: [*Bomb Chop Move*](#bomb-chop-move)
 * ***Triple Chop Move***
-  * Discarding the card which is one-away from *Chop*: *"Order Chop Move"* + *"Scream Discard Chop Move"* + *"Skipped Discard Chop Move"*
-  * Misplaying the *Chop* card: *"Order Chop Move"* + *"Double Scream Blind-Play"*
+  * They discard the card which is one-away-from-chop: [*Scream Discard Chop Move*](#scream-discard-chop-move) + [*Whisper Discard Chop Move*](#whisper-discard-chop-move) + [*Skipped Discard Chop Move*](#skipped-discard-chop-move)
+  * They misplay the "*Chop*" card: [*Bomb Chop Move*](#bomb-chop-move) + [*Skipped Discard Chop Move*](#skipped-discard-chop-move)
 
-### Example 3 (with Trash Order Chop Move)
+### Example 2 (with an Order Chop Move)
 
-> If a player has two known trash, and they want to perform a *Chop Move* without wasting a clue.
+`If the player has two unknown playable 1s`
 
 * ***Single Chop Move***
-  * Discarding the trash out-of-order (right-most): *"Trash Order Chop Move"*
+  * They play the 1 *Out-of-Order* (left): [*Order Chop Move*](#order-chop-move)
 * ***Double Chop Move***
-  * Discarding the *Chop* card: *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"*
-  * Misplaying the trash in order (left-most): *"Double Scream Blind-Play"*
+  * They discard the "*Chop*" card: [*Order Chop Move*](#order-chop-move) + [*Scream Discard Chop Move*](#scream-discard-chop-move)
 * ***Triple Chop Move***
-  * Discarding the card which is one-away from *Chop*: *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"* + *"Skipped Discard Chop Move"*
-  * Misplaying the trash out-of-order (right-most): *"Trash Order Chop Move"* + *"Double Scream Blind-Play"*
+  * They discard the card which is one-away-from-chop: [*Order Chop Move*](#order-chop-move) + [*Scream Discard Chop Move*](#scream-discard-chop-move) + [*Skipped Discard Chop Move*](#skipped-discard-chop-move)
+  * They misplay the "*Chop*" card: [*Order Chop Move*](#order-chop-move) + [*Bomb Chop Move*](#bomb-chop-move)
+
+### Example 3 (with a Trash Order Chop Move)
+
+`If the player has two known trash`
+
+* ***Single Chop Move***
+  * They discard the trash *Out-of-Order* (right): [*Trash Order Chop Move*](#trash-order-chop-move)
+* ***Double Chop Move***
+  * They discard the "*Chop*" card: [*Trash Order Chop Move*](#trash-order-chop-move) + [*Whisper Discard Chop Move*](#whisper-discard-chop-move)
+  * They misplay the trash in order (left): [*Bomb Chop Move*](#bomb-chop-move)
+* ***Triple Chop Move***
+  * They discard the card which is one-away-from-chop: [*Trash Order Chop Move*](#trash-order-chop-move) + [*Whisper Discard Chop Move*](#whisper-discard-chop-move) + [*Skipped Discard Chop Move*](#skipped-discard-chop-move)
+  * They misplay the trash *Out-of-Order* (right): [*Trash Order Chop Move*](#trash-order-chop-move) + [*Bomb Chop Move*](#bomb-chop-move)
 
 ### Example 4 (with two known playable duped cards)
 
-> If a player has two known playable duped cards (as the picture showing below), and they want to perform a *Chop Move* without wasting a clue.
+`If the player has two known playable duped cards`
 
 * ***Single Chop Move***
-  * Discarding the left-most duped card: *"Scream Discard Chop Move"*
+  * They discard the duped card from left: [*Scream Discard Chop Move*](#scream-discard-chop-move)
 * ***Double Chop Move***
-  * Discarding the right-most duped card: *"Scream Discard Chop Move"* + *"Trash Order Chop Move"*
+  * They discard the duped card from right: [*Scream Discard Chop Move*](#scream-discard-chop-move) + [*Trash Order Chop Move*](#trash-order-chop-move)
 * ***Triple Chop Move***
-  * Discarding the *Chop* card: *"Scream Discard Chop Move"* + *"Trash Order Chop Move"* + *"Whisper Discard Chop Move"*
+  * They discard the "*Chop*" card: [*Scream Discard Chop Move*](#scream-discard-chop-move) + [*Trash Order Chop Move*](#trash-order-chop-move) + [*Whisper Discard Chop Move*](#whisper-discard-chop-move)
 
 ![Chop Move Addition Example 4](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/chop_move_addition_example_4.png)
 
