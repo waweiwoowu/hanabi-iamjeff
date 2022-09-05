@@ -36,6 +36,11 @@
 
 ## General Guide
 
+### [Chop Move Guide](Chop_Move_Guide.md) (by IAMJEFF)
+
+- Chop Moves are crucial in a 2-player game. Knowing how to perform them in some specific circumstances is key to winning a perfect score.
+- Click the link and see more details.
+
 ### First Turn Stall Guide (by IAMJEFF)
 
 > #### First Turn Stalls
@@ -65,11 +70,6 @@
   * [Analysis](Analysis.md#prevent-locking-partner-analysis)
 
 * Prioritize getting cards played that leads into a critical card.
-
-### [Chop Move Guide](Chop_Move_Guide.md) (by IAMJEFF)
-
-- Chop Moves are crucial in a 2-player game. Knowing how to perform them in some specific circumstances is key to winning a perfect score.
-- Click the link and see more details.
 
 ### Self Color Bluff Guide (by IAMJEFF)
 
