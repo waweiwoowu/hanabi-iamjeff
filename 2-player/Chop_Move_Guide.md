@@ -8,7 +8,7 @@
 ## Table of Contents
 
 1. [Non-Emergency Chop Moves](#non-emergency-chop-moves)
-1. [Emergency Chop Moves](emergency-chop-moves)
+1. [Emergency Chop Moves](#emergency-chop-moves)
 1. [Chop Move Addition Rules](#chop-move-addition-rules)
 1. [Context](#context)
 
