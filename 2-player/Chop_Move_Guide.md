@@ -1,40 +1,51 @@
 # Chop Move Guide (2-Player)
 
-* This is the *Chop Move Guide* for [score hunting](Score_Hunting_Guide.md) in a 2-player game created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
+- This is the *Chop Move Guide* for [score hunting](Score_Hunting_Guide.md) in a 2-player game created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
+- Note that a ***Finesse Chop*** is a term used to describe a situation where a player's *Chop* is also on their *Finesse Position*.
 
 <br/>
 
 ## Table of Contents
 
-1. [Categories](#categories)
-2. [Addition](#addition)
-3. [Context](#context)
+1. [Non-Emergency Chop Moves](#non-emergency-chop-moves)
+1. [Semi-Emergency Chop Moves](#semi-emergency-chop-moves-without-wasting-a-clue)
+1. [Emergency Chop Moves](emergency-chop-moves)
+1. [Addition](#addition)
+1. [Context](#context)
 
 <br/>
 
-## Categories
+## Non-Emergency Chop Moves
 
-* ***Finessed Chop***: A term used to describe the situation where a player's *Chop* is also on their *Finessed Position*.
+### [Order Chop Move](https://hanabi.github.io/docs/level-6/#the-order-chop-move-ocm)
+- If the players have two or more unknown 1s, they are allowed to play the 1s *Out-of-Order* to signal an *Order Chop Move*.
+  - Skip 1 card: *Single Chop Move*
+  - Skip 2 cards: *Double Chop Move*
+  - And so on...
+### [Redundant Save Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/deleted-conventions.md#the-redundant-save-chop-move)
+- If the players have two or more unknown 1s, instead of performing an *Order Chop Move*, they give a direct *Save Clue* touching **only one** card on their teammate's *Chop*, it signals a *Redundant Save Chop Move*.
+- Note that this move has been rarely used.
+### [5's Chop Move](https://hanabi.github.io/docs/level-4/#the-5s-chop-move-5cm)
+- If the teammate has a 5 which is one-away-from-chop, the players are allowed to give a 5 clue as a *5's Chop Move*.
+- Note that it is turned off in *8 Clues Situation*, including turn 1.
+### [Trash Chop Move](https://hanabi.github.io/docs/level-4/#the-trash-chop-move)
+- If the teammate has an off-*Chop* trash, the players are allowed to give a clue touching that trash (if it looks like a known trash) and it signals a *Trash Chop Move* to the right of the clued card.
+- Note that it should always be treated as a *Trash Chop Move* over a *Positional Clue* in the variants with a Null suit (or any variant which is relied on *Positional Clues*).
+### [Transfer Chop Move](https://hanabi.github.io/docs/extras/chop-moves/#the-chop-transfer)
+- If the teammate has an unknown trash which has been clued earlier, the players are allowed to give a *Fix Clue* on the trash and it signals a *Transfer Chop Move*.
+- Note that the players can also perform this move by touching a *Chop Moved* card.
+### [Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)
+- If the teammate has a playable card through your own hand, the players are allowed to defer a *Play* and give
+### [Tempo Clue Chop Move](Score_Hunting_Guide.md#tempo-clue-chop-move-exception)
+- If the teammate has an unknown playable card which has been clued earlier, the players are allowed to give a *Tempo Clue* in some circumstances to signal a *Tempo Clue Chop Move*.
+- See more details from the link above.
+### [Dupe Chop Move](Score_Hunting_Guide.md#dupe-chop-move-risk-of-duplication-chop-move)
+- If the players have an unknown playable card (usually a 1), they are allowed to give a **1-for-1** clue that might be *Duped* to signal a *Dupe Chop Move*.
+### [Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)
+- If the teammate has a card of an One-of-Each suit which is one-away from *Chop*, the players are allowed to save it with a *Color Clue* which signals a *Dark Chop Mov*.
+- Note that this move has been rarely used due to the existence of *Self-Color Bluffs*.
 
-### Non-Emergency Chop Moves
-
-* If you have two or more unknown 1s: ***[Order Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-order-chop-move--the-skipped-order-chop-move)***
-  * Skip 1 card: *Single Chop Move*
-  * Skip 2 cards: *Double Chop Move*
-  * And so on...
-* If you have two or more unknown 1s, instead of performing an *Order Chop Move*, you give a direct *Save Clue* touching **only one** card on your teammate's *Chop*: ***[Redundant Save Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Deleted_Conventions.md#the-redundant-save-chop-move)***
-* If your teammate has a 5 which is one-away from chop: ***[5's Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-5s-chop-move)***
-  * Remember it is just a *5 Stall* if you are in *8 Clues Situation*.
-* If your teammate has a trash: ***[Trash Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-trash-chop-move)***
-  * Note that it should always be interpreted as a *Trash Chop Move* instead of a *Positional Clue* in the variants with a Null suit (or any variant relied on *Positional Clues*).
-* If your teammate has an unknown trash (clued), and if they are not locked, you can give a *Fix Clue* on their trash: ***[Transfer Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#the-chop-transfer)***
-  * Note that you can also do this with a *Chop Moved* card.
-* If your teammate has a playable card through your own hand: ***[Selfish Chop Move](Selfish_Conventions.md#selfish-chop-move)***
-* If your teammate has a clued card and you give a *Tempo Clue* in special circumstances: ***[Tempo Clue Chop Move](Score_Hunting_Guide.md#tempo-clue-chop-move-exception)***
-* If you have an unknown playable 1 and you give a 1-for-1 clue on a 1 that might be duped: ***[Dupe Chop Move](Score_Hunting_Guide.md#dupe-chop-move-risk-of-duplication-chop-move)***
-* If your teammate has a card of one-of-each suit and it is one-away from chop: ***[Dark Chop Move](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/2-Player.md#the-dark-chop-move)***
-
-
+<br/>
 
 ### Semi-Emergency Chop Moves (without wasting a clue)
 
