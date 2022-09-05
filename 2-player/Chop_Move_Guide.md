@@ -37,7 +37,7 @@
 ### [Trash Order Chop Move](https://hanabi.github.io/docs/level-6/#the-trash-order-chop-move-tocm)
 - If the player has two or more trash, they are allowed to discard the trash which is *Out-of-Order* (from right to left) to signal a *Trash Order Chop Move*.
 
-### [Shout Discard Chop Move](https://hanabi.github.io/docs/level-6/#the-scream-discard-chop-move-sdcm)
+### [Shout Discard Chop Move](https://hanabi.github.io/docs/level-21/#the-shout-discard-chop-move)
 - Similar to a *Scream Discard Chop Move* (see below), if the player has a playable card while holding a known trash, they are allowed to perform a *Shout Discard Chop Move* by discarding the known trash.
 
 ### [Tempo Clue Chop Move](Score_Hunting_Guide.md#advanced-form-of-tempo-clue-chop-move)
@@ -78,7 +78,7 @@
 - Similar to a *Scream Discard Chop Move*, if the player has a known trash (without holding a playable card), they are allowed to perform a *Whisper Discard Chop Move* by discarding the *Chop* card instead of the known trash.
 - Note that it has been renamed as a *Scream Discard Chop Move* in h-group document.
 
-### [Bomb Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-scream-blind-play-blind-playing-chop)
+### [Bomb Chop Move](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md#the-double-scream-blind-play-blind-playing-chop)
 - If the teammate has two cards to be saved, the player is allowed to misplay their *Chop* card as a *Bomb Chop Move* to signal a *Double Chop Move* on their teammate.
 
 ### [Misplay Chop Move](https://hanabi.github.io/docs/extras/chop-moves/#the-misplay-chop-move)
