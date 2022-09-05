@@ -62,7 +62,7 @@
 
 - These are the *Chop Moves* for an emergency. Note that they are risky which might cause a bomb or make a critical card being discarded.
 - A ***Finesse Chop*** is a term used to describe a situation where a player's *Chop* is also on their *Finesse Position*.
-- If the teammate has a critical card (or an extremely important card) on their *Finesse Chop*, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless the team has enough clue tokens (usually 6 or more). In this situation, simply "*Save*" it with one of the following *Chop Moves* to generate more clues for teammate to stall.
+- If the teammate has a critical card (or an extremely important card) on their *Finesse Chop*, **do not** lock your teammate by giving (wasting) a direct *Save Clue*, unless the team has enough clue tokens (usually 6 or more). In this situation, simply "*Save*" it with one of the following *Emergency Chop Moves* to generate more clues for teammate to stall (survive).
 
 ### [Scream Discard Chop Move](https://hanabi.github.io/docs/level-6/#the-scream-discard-chop-move-sdcm)
 - If the player has a playable card or a known trash, they are allowed to perform a *Scream Discard Chop Move* at any moment, even if they are not in 0 clues.
