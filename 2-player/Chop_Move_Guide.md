@@ -145,6 +145,8 @@
 
 ![Chop Move Addition Example 4](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/chop_move_addition_example_4.png)
 
+- Note that playing the rightmost blue 4 initiates a *Priority Finesse/Bluff*.
+
 <br/>
 
 ## Context
