@@ -1,6 +1,6 @@
 # Score Hunting Guide (2-Player)
 
-- This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020.
+- This is the guide for score hunting in 2-player games created by [IAMJEFF](https://github.com/waweiwoowu) in May 2020.
 - The goal of this document is to get the maximum score in any variant with the most efficient/minimum amount of attempts. Thus, they are designed to be quite aggressive and risky.
 - Thus, this guide has lower averages overall compared to using [2-Player Conventions for the Hyphen-ated Framework](https://github.com/hanabi/hanabi.github.io/blob/main/misc/2-player.md).  If you're looking for conservative way to play a 2-player game, please read that guide instead.
 - Warning, be prepared to kill games where the critical cards are thrown into the trash.
@@ -56,7 +56,7 @@
   * Instead of giving a 1 clue, eevee opens with a 3 clue touching a light pink 4 on slot 1 and a purple 3 on slot 5.
   * Piper gives a 4 clue as a *4 Double Bluff*.
   * Eevee gives a 4 clue as another *4 Double Bluff*.
-  ![First Turn Stall Example](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
+  ![First Turn Stall Example](https://github.com/waweiwoowu/hanabi/blob/master/images/2-player/first_turn_stall_guide.png)
 
 ### Game Flow Guide (by Dr_Kakashi & Kimbifille)
 
@@ -112,7 +112,7 @@
 * If a move looks like a *Trash Chop Move* then it is never a *Positional Clue*, unless you have enough context that it is not a *Trash Chop Move*.
 
 ### Clue Starved
-* These are the strategies for the competition: [Clue Starved 2p Strategies](https://github.com/iamwhoiamhahaha/hanabi-competition/blob/master/Clue_Starved_Strategies.md)
+* These are the strategies for the competition: [Clue Starved 2p Strategies](https://github.com/waweiwoowu/hanabi-competition/blob/master/Clue_Starved_Strategies.md)
 * Just note that you have to "save" every critical card in score hunting.
 
 <br/>
@@ -279,7 +279,7 @@
   * Alice is surprised to see this as Bob could've been duping.  
   * Alice therefore plays the 1 and cm's the card on her chop
 
-![2020-10-05_13-42-30](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
+![2020-10-05_13-42-30](https://github.com/waweiwoowu/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
 
 ### Occupied Tempo Clue Chop Move 
 
@@ -295,8 +295,8 @@ Conditions for when this occurs
 
 ### Advanced form of Tempo Clue Chop Move
 
-![2020-09-27_07-13-33](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
-![2020-09-27_07-25-03](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
+![2020-09-27_07-13-33](https://github.com/waweiwoowu/hanabi/blob/master/images/2-player/2020-09-27_07-13-33.png)
+![2020-09-27_07-25-03](https://github.com/waweiwoowu/hanabi/blob/master/images/2-player/2020-09-27_07-25-03.png)
 * Following the logic of [Tempo Clue Chop Move Change](#tempo-clue-chop-move-change-jeff), we can take it 1 step further.
 * In this situation, should Kakashi tempo the G4?  
   * If Kakashi does nothing, he can gain a lot of information by Kimbi's actions.
@@ -386,7 +386,7 @@ For example, if she is in anxiety.
 * Because we can give a clue that looks like a save, but turns into a play clue in these situations.  You can write the negative information on the rest of your hand.  
 * For Example, a 2 save will be a play clue in these situations, thus you can write negative 2 in the rest of the hand
 
-![2020-10-05_13-42-30](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
+![2020-10-05_13-42-30](https://github.com/waweiwoowu/hanabi/blob/master/images/2-player/2020-10-05_13-42-30.png)
 
 * Shown here Kimbifille can give a Rank or Colour touching chop in an Overloaded or Double-Loaded situation as a Play Clue.
 * Thus, if color is used instead of rank, it can be assumed that you do not hold other ranks in your hand.
