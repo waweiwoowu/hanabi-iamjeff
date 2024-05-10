@@ -1,6 +1,6 @@
 # Variant-Specific Hat-Guessing Tables
 
-This is a list of variant-specific tables for [hat-guessing conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md) created by [IAMJEFF](https://github.com/iamwhoiamhahaha).
+This is a list of variant-specific tables for [hat-guessing conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/misc/Hat_Guessing.md) created by [IAMJEFF](https://github.com/waweiwoowu).
 
 <br />
 
