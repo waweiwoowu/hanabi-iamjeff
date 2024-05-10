@@ -1,6 +1,6 @@
 # Advanced Hat-Guessing Conventions with Empty Clues
 
-This is the list of the [Advanced Hat-Guessing Tables](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Advanced_Hat_Guessing.md) with Empty Clues.
+This is the list of the [Advanced Hat-Guessing Tables](https://github.com/waweiwoowu/hanabi/blob/master/hat-guessing/Advanced_Hat_Guessing.md) with Empty Clues.
 
 <br />
 
