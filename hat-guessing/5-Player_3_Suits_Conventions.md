@@ -1,6 +1,6 @@
 # 5-Player 3 Suits Conventions
 
-This is document of the conventions for 5-Player 3 Suits games using [advanced hat-guessing conventions](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Advanced_Hat_Guessing.md) invented by [IAMJEFF](https://github.com/iamwhoiamhahaha) in April 2020.
+This is document of the conventions for 5-Player 3 Suits games using [advanced hat-guessing conventions](https://github.com/waweiwoowu/hanabi/blob/master/hat-guessing/Advanced_Hat_Guessing.md) invented by [IAMJEFF](https://github.com/waweiwoowu) in April 2020.
 
 <br />
 
