@@ -1,8 +1,8 @@
 # Advanced Hat-Guessing Conventions
 
-This is an advanced version of [hat-guessing conventions](https://github.com/hanabi/hanabi.github.io/blob/main/misc/hat-guessing.md) invented by [IAMJEFF](https://github.com/iamwhoiamhahaha) in April 2020.
+This is an advanced version of [hat-guessing conventions](https://github.com/hanabi/hanabi.github.io/blob/main/misc/hat-guessing.md) invented by [IAMJEFF](https://github.com/waweiwoowu) in April 2020.
 
-If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/5-Player_3_Suits_Conventions.md).
+If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.com/waweiwoowu/hanabi/blob/master/hat-guessing/5-Player_3_Suits_Conventions.md).
 
 <br />
 
@@ -100,9 +100,9 @@ If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.c
 | Throw It in a Hole (4-Player)                                                         | Throw It in a Hole (5-Player)                                                               | Throw It in a Hole (6-Player)                                                         |
 
 ### Empty Clues
-* [Color Blind](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Empty_Clues.md#color-blind-tables)
-* [Number Blind](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Empty_Clues.md#number-blind-tables)
-* [Totally Blind](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/Empty_Clues.md#totally-blind-tables)
+* [Color Blind](https://github.com/waweiwoowu/hanabi/blob/master/hat-guessing/Empty_Clues.md#color-blind-tables)
+* [Number Blind](https://github.com/waweiwoowu/hanabi/blob/master/hat-guessing/Empty_Clues.md#number-blind-tables)
+* [Totally Blind](https://github.com/waweiwoowu/hanabi/blob/master/hat-guessing/Empty_Clues.md#totally-blind-tables)
 
 ### Other Variants
 * [General Table (5 Player)](#general-table-5-player)
@@ -308,7 +308,7 @@ If you are looking for 3 Suits 5-Player Conventions. See [here](https://github.c
 
 ## Clue Interpretation Tables (5-player)
 
-* 3 Suits 5-Player Conventions: [See here](https://github.com/iamwhoiamhahaha/hanabi/blob/master/hat-guessing/3_Suits_5-Player_Conventions.md).
+* 3 Suits 5-Player Conventions: [See here](https://github.com/waweiwoowu/hanabi/blob/master/hat-guessing/3_Suits_5-Player_Conventions.md).
 
 ### General Table (5-player)
 
