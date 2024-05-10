@@ -1,7 +1,7 @@
 # Chop Move Guide (2-Player)
 
 - *Chop Moves* are crucial in a 2-player game. Knowing how to perform them in some specific circumstances is key to winning a perfect score.
-- The guide was created by [IAMJEFF](https://github.com/iamwhoiamhahaha) in May 2020, which is mainly used in a 2-player game with the [Score Hunting Conventions](Score_Hunting_Guide.md).
+- The guide was created by [IAMJEFF](https://github.com/waweiwoowu) in May 2020, which is mainly used in a 2-player game with the [Score Hunting Conventions](Score_Hunting_Guide.md).
 
 <br/>
 
@@ -143,7 +143,7 @@
 - ***Triple Chop Move***
   - They discard the "*Chop*" card: [*Scream Discard Chop Move*](#scream-discard-chop-move) + [*Trash Order Chop Move*](#trash-order-chop-move) + [*Whisper Discard Chop Move*](#whisper-discard-chop-move)
 
-![Chop Move Addition Example 4](https://github.com/iamwhoiamhahaha/hanabi/blob/master/images/2-player/chop_move_addition_example_4.png)
+![Chop Move Addition Example 4](https://github.com/waweiwoowu/hanabi/blob/master/images/2-player/chop_move_addition_example_4.png)
 
 - Note that playing the rightmost blue 4 initiates a *Priority Finesse/Bluff*.
 
